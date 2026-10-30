@@ -1,0 +1,68 @@
+[
+  {
+    "file": "customers.csv",
+    "rows": 800,
+    "columns": 12,
+    "size_kb": 76.4
+  },
+  {
+    "file": "daily_regional_metrics.csv",
+    "rows": 5422,
+    "columns": 11,
+    "size_kb": 416.2
+  },
+  {
+    "file": "employees.csv",
+    "rows": 140,
+    "columns": 13,
+    "size_kb": 15.5
+  },
+  {
+    "file": "inventory_movements.csv",
+    "rows": 5200,
+    "columns": 9,
+    "size_kb": 456.3
+  },
+  {
+    "file": "messy_sales.csv",
+    "rows": 325,
+    "columns": 8,
+    "size_kb": 21.8
+  },
+  {
+    "file": "order_items.csv",
+    "rows": 7820,
+    "columns": 11,
+    "size_kb": 545.4
+  },
+  {
+    "file": "orders.csv",
+    "rows": 3200,
+    "columns": 18,
+    "size_kb": 562.3
+  },
+  {
+    "file": "products.csv",
+    "rows": 150,
+    "columns": 12,
+    "size_kb": 16.1
+  },
+  {
+    "file": "retail_transactions.csv",
+    "rows": 7820,
+    "columns": 48,
+    "size_kb": 3194.8
+  },
+  {
+    "file": "survey_responses.csv",
+    "rows": 1800,
+    "columns": 10,
+    "size_kb": 164.1
+  },
+  {
+    "file": "website_events.csv",
+    "rows": 18000,
+    "columns": 13,
+    "size_kb": 1720.0
+  }
+]

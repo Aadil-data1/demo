@@ -1,0 +1,166 @@
+file,column,pandas_dtype_example,description,example_non_null_value
+customers.csv,customer_id,object,"One row per fictional customer. Profile, acquisition, loyalty and satisfaction fields; optional values are intentional.",C00001
+customers.csv,customer_name,object,,Neha Menon
+customers.csv,age,int64,,70
+customers.csv,gender,object,,Female
+customers.csv,city,object,,Thiruvananthapuram
+customers.csv,state,object,,Kerala
+customers.csv,signup_date,object,,2018-10-14T00:00:00
+customers.csv,acquisition_channel,object,,Referral
+customers.csv,loyalty_tier,object,,Gold
+customers.csv,is_active,bool,,True
+customers.csv,satisfaction_score,float64,,4.0
+customers.csv,referral_code,object,,REF7988
+products.csv,product_id,object,"One row per fictional product. Categories, prices, costs, weights, stock targets and ratings.",P0001
+products.csv,product_name,object,,Classic Floor Lamp
+products.csv,category,object,,Home
+products.csv,subcategory,object,,Storage
+products.csv,brand,object,,Mango Grove
+products.csv,unit_cost,float64,,205.22
+products.csv,list_price,float64,,320.41
+products.csv,weight_kg,float64,,0.272
+products.csv,stock_target,int64,,157
+products.csv,launch_date,object,,2023-12-11T00:00:00
+products.csv,discontinued,bool,,False
+products.csv,customer_rating,float64,Product rating on a one-to-five scale; missing ratings are intentional.,5.0
+orders.csv,order_id,object,"One row per order. Customer foreign key, order lifecycle timestamps, status, channel, shipping, tax and total amounts.",O000001
+orders.csv,customer_id,object,Customer identifier; links customers to orders and optional feedback/events.,C00170
+orders.csv,order_date,object,Timestamp/date associated with an order.,2024-03-05T00:00:00
+orders.csv,ship_date,object,,2024-03-07T00:00:00
+orders.csv,delivery_date,object,,2024-03-09T00:00:00
+orders.csv,promised_delivery_date,object,,2024-03-10T00:00:00
+orders.csv,delivery_delay_days,float64,,-1.0
+orders.csv,order_status,object,,Delivered
+orders.csv,sales_channel,object,,Retail Partner
+orders.csv,payment_method,object,,UPI
+orders.csv,shipping_city,object,,Mumbai
+orders.csv,shipping_state,object,,Maharashtra
+orders.csv,shipping_fee,float64,,35.0
+orders.csv,tax_rate,float64,,0.18
+orders.csv,tax_amount,float64,,401.63
+orders.csv,items_net_sales,float64,,2231.28
+orders.csv,order_total,float64,Item net sales plus shipping fee and tax amount.,2667.91
+orders.csv,estimated_cost,float64,,1124.06
+order_items.csv,order_item_id,object,One row per product line within an order. Join to orders by order_id and products by product_id.,LI0000001
+order_items.csv,order_id,object,Order identifier; links order headers to their item lines.,O000001
+order_items.csv,product_id,object,Product identifier; links products to order items and inventory.,P0113
+order_items.csv,quantity,int64,,1
+order_items.csv,unit_price,float64,,931.2
+order_items.csv,discount_pct,float64,,0.0
+order_items.csv,gross_amount,float64,,931.2
+order_items.csv,discount_amount,float64,,0.0
+order_items.csv,net_sales,float64,"Item revenue after line discount, before order-level shipping and tax.",931.2
+order_items.csv,estimated_cost,float64,,557.39
+order_items.csv,is_returned,bool,,False
+retail_transactions.csv,order_item_id,object,"Convenience flat table: order items joined to order, product and customer attributes. Best starting point if you want one file.",LI0000001
+retail_transactions.csv,order_id,object,Order identifier; links order headers to their item lines.,O000001
+retail_transactions.csv,product_id,object,Product identifier; links products to order items and inventory.,P0113
+retail_transactions.csv,quantity,int64,,1
+retail_transactions.csv,unit_price,float64,,931.2
+retail_transactions.csv,discount_pct,float64,,0.0
+retail_transactions.csv,gross_amount,float64,,931.2
+retail_transactions.csv,discount_amount,float64,,0.0
+retail_transactions.csv,net_sales,float64,"Item revenue after line discount, before order-level shipping and tax.",931.2
+retail_transactions.csv,estimated_cost_x,float64,,557.39
+retail_transactions.csv,is_returned,bool,,False
+retail_transactions.csv,customer_id,object,Customer identifier; links customers to orders and optional feedback/events.,C00170
+retail_transactions.csv,order_date,object,Timestamp/date associated with an order.,2024-03-05T00:00:00
+retail_transactions.csv,ship_date,object,,2024-03-07T00:00:00
+retail_transactions.csv,delivery_date,object,,2024-03-09T00:00:00
+retail_transactions.csv,promised_delivery_date,object,,2024-03-10T00:00:00
+retail_transactions.csv,delivery_delay_days,float64,,-1.0
+retail_transactions.csv,order_status,object,,Delivered
+retail_transactions.csv,sales_channel,object,,Retail Partner
+retail_transactions.csv,payment_method,object,,UPI
+retail_transactions.csv,shipping_city,object,,Mumbai
+retail_transactions.csv,shipping_state,object,,Maharashtra
+retail_transactions.csv,shipping_fee,float64,,35.0
+retail_transactions.csv,tax_rate,float64,,0.18
+retail_transactions.csv,tax_amount,float64,,401.63
+retail_transactions.csv,items_net_sales,float64,,2231.28
+retail_transactions.csv,order_total,float64,Item net sales plus shipping fee and tax amount.,2667.91
+retail_transactions.csv,estimated_cost_y,float64,,1124.06
+retail_transactions.csv,product_name,object,,Classic Everyday T-Shirt
+retail_transactions.csv,category,object,,Fashion
+retail_transactions.csv,subcategory,object,,Accessories
+retail_transactions.csv,brand,object,,Orbit Works
+retail_transactions.csv,unit_cost,float64,,557.39
+retail_transactions.csv,list_price,float64,,990.2
+retail_transactions.csv,weight_kg,float64,,0.081
+retail_transactions.csv,stock_target,int64,,191
+retail_transactions.csv,launch_date,object,,2020-11-20T00:00:00
+retail_transactions.csv,discontinued,bool,,False
+retail_transactions.csv,customer_rating,float64,Product rating on a one-to-five scale; missing ratings are intentional.,5.0
+retail_transactions.csv,customer_name,object,,Farhan Verma
+retail_transactions.csv,age,int64,,63
+retail_transactions.csv,gender,object,,Female
+retail_transactions.csv,signup_date,object,,2019-01-05T00:00:00
+retail_transactions.csv,acquisition_channel,object,,Referral
+retail_transactions.csv,loyalty_tier,object,,Bronze
+retail_transactions.csv,is_active,bool,,True
+retail_transactions.csv,satisfaction_score,float64,,4.0
+retail_transactions.csv,referral_code,float64,,
+website_events.csv,event_id,object,"One row per online event with timestamps, sessions, channel, event type, device, duration and conversion fields.",E0000001
+website_events.csv,event_timestamp,object,"When the web event occurred; useful for .dt, sorting, resampling and time windows.",2024-01-18T18:41:58
+website_events.csv,customer_id,object,Customer identifier; links customers to orders and optional feedback/events.,C00216
+website_events.csv,session_id,object,,S0010240
+website_events.csv,event_type,object,,page_view
+website_events.csv,page_category,object,,Product Detail
+website_events.csv,device,object,,iOS
+website_events.csv,traffic_source,object,,Paid Search
+website_events.csv,campaign_id,object,,CAM009
+website_events.csv,duration_seconds,int64,,627
+website_events.csv,items_in_cart,int64,,4
+website_events.csv,event_revenue,float64,,0.0
+website_events.csv,converted,bool,,False
+daily_regional_metrics.csv,date,object,Daily website and sales metrics by region over several years. A small fraction of dates is omitted intentionally for time-series resampling/reindexing practice.,2023-01-01T00:00:00
+daily_regional_metrics.csv,region,object,,North
+daily_regional_metrics.csv,visits,int64,,1243
+daily_regional_metrics.csv,orders,int64,,44
+daily_regional_metrics.csv,conversion_rate,float64,Orders divided by visits for a daily region record.,0.0354
+daily_regional_metrics.csv,average_order_value,float64,,1101.85
+daily_regional_metrics.csv,revenue,float64,,48481.34
+daily_regional_metrics.csv,ad_spend,float64,,880.94
+daily_regional_metrics.csv,returns,int64,,1
+daily_regional_metrics.csv,new_customers,int64,,16
+daily_regional_metrics.csv,marketing_campaign,object,,Payday Offer
+inventory_movements.csv,movement_id,object,"Stock movements by product, warehouse, type, date and signed quantity change.",M000001
+inventory_movements.csv,movement_date,object,,2024-02-02T00:00:00
+inventory_movements.csv,product_id,object,Product identifier; links products to order items and inventory.,P0033
+inventory_movements.csv,warehouse_id,object,,WH-SOUTH
+inventory_movements.csv,movement_type,object,,Transfer Out
+inventory_movements.csv,quantity_change,int64,"Signed inventory movement: positive adds stock, negative reduces stock.",-4
+inventory_movements.csv,unit_cost,float64,,325.7
+inventory_movements.csv,reference_type,object,,Transfer
+inventory_movements.csv,notes,object,,supplier delivery
+employees.csv,employee_id,object,"Fictional workforce data for grouping, aggregation, dates, sorting, ranking and statistical analysis.",EMP0001
+employees.csv,employee_name,object,,Alisha Sheikh
+employees.csv,department,object,,Sales
+employees.csv,job_title,object,,Sales Manager
+employees.csv,level,object,,Junior
+employees.csv,hire_date,object,,2024-11-16T00:00:00
+employees.csv,salary_inr,int64,,419469
+employees.csv,weekly_hours,int64,,43
+employees.csv,performance_score,float64,,3.4
+employees.csv,work_mode,object,,Office
+employees.csv,employment_status,object,,Active
+employees.csv,bonus_pct,float64,,0.0
+employees.csv,manager_id,object,,EMP0001
+survey_responses.csv,response_id,object,"Customer feedback with rating scales, dates, categories, optional customer IDs and free-text comments.",R000001
+survey_responses.csv,customer_id,object,Customer identifier; links customers to orders and optional feedback/events.,C00130
+survey_responses.csv,response_date,object,,2025-05-28T00:00:00
+survey_responses.csv,nps_score,float64,,8.0
+survey_responses.csv,product_quality,float64,,5.0
+survey_responses.csv,delivery_experience,float64,,4.0
+survey_responses.csv,support_experience,float64,,2.0
+survey_responses.csv,would_recommend,object,,Definitely
+survey_responses.csv,comment,object,,delivery updates were useful
+survey_responses.csv,survey_channel,object,,Email
+messy_sales.csv,record_id,object,"Intentionally untidy practice data: duplicates, inconsistent capitalization/spacing, missing entries, invalid dates, non-numeric strings, negative values and outliers.",D00001
+messy_sales.csv,order_date_raw,object,,2025-03-20
+messy_sales.csv,city_raw,object,, Jaipur 
+messy_sales.csv,product_category_raw,object,,Electronics
+messy_sales.csv,quantity_raw,float64,,8.0
+messy_sales.csv,sales_raw,float64,,243.34
+messy_sales.csv,coupon_code_raw,object,,FESTIVE
+messy_sales.csv,customer_email_raw,object,,user320@example.test

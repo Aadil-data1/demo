@@ -1,0 +1,141 @@
+employee_id,employee_name,department,job_title,level,hire_date,salary_inr,weekly_hours,performance_score,work_mode,employment_status,bonus_pct,manager_id
+EMP0001,Alisha Sheikh,Sales,Sales Manager,Junior,2024-11-16T00:00:00,419469,43,3.4,Office,Active,0.0,
+EMP0002,Ahmed Singh,Operations,Operations Lead,Mid,2022-08-08T00:00:00,701301,46,2.0,Hybrid,Active,0.05,
+EMP0003,Meera Patel,Sales,Sales Manager,Mid,2024-04-20T00:00:00,976789,45,3.8,Office,Active,0.0,EMP0001
+EMP0004,Akash Mishra,Engineering,QA Engineer,Junior,2021-10-26T00:00:00,346542,39,4.1,Hybrid,Active,0.05,
+EMP0005,Sana Sharma,Engineering,Engineering Lead,Junior,2020-03-16T00:00:00,426484,49,2.4,Remote,Active,0.05,EMP0004
+EMP0006,Ibrahim Chopra,Operations,Supply Planner,Junior,2017-06-07T00:00:00,416319,50,3.2,Hybrid,Active,0.03,EMP0002
+EMP0007,Vikram Reddy,Operations,Supply Planner,Junior,2023-07-05T00:00:00,447404,44,3.4,Hybrid,Active,0.05,
+EMP0008,Sara Menon,Engineering,Engineering Lead,Junior,2019-07-15T00:00:00,458077,41,2.8,Office,Active,0.05,
+EMP0009,Farhan Iyer,Customer Support,Support Lead,Mid,2017-05-09T00:00:00,715795,38,3.2,Hybrid,Active,0.15,
+EMP0010,Isha Verma,Human Resources,Recruiter,Senior,2017-09-16T00:00:00,1188074,40,3.2,Hybrid,Active,0.08,
+EMP0011,Akash Mishra,Sales,Sales Associate,Junior,2017-12-20T00:00:00,380086,36,2.6,Hybrid,Active,0.0,EMP0001
+EMP0012,Zoya Khan,Customer Support,Support Specialist,Junior,2017-01-18T00:00:00,441783,42,3.7,Hybrid,Active,0.0,EMP0009
+EMP0013,Ibrahim Das,Analytics,Analytics Lead,Mid,2017-12-30T00:00:00,743462,36,4.0,Hybrid,Active,0.03,
+EMP0014,Kabir Nair,Engineering,Python Developer,Mid,2025-07-17T00:00:00,697985,38,3.1,Office,Active,0.08,
+EMP0015,Aditi Das,Engineering,Python Developer,Mid,2022-02-23T00:00:00,815077,41,3.1,Hybrid,Active,0.12,EMP0004
+EMP0016,Isha Malik,Sales,Sales Associate,Junior,2022-03-10T00:00:00,285201,40,4.6,Hybrid,Active,0.03,EMP0001
+EMP0017,Anika Thomas,Engineering,Engineering Lead,Mid,2020-04-30T00:00:00,775761,44,3.5,Office,Active,0.0,EMP0004
+EMP0018,Fatima Bose,Analytics,Senior Analyst,Mid,2019-06-19T00:00:00,510443,39,1.8,Hybrid,Active,0.05,EMP0013
+EMP0019,Kavya Patel,Engineering,QA Engineer,Mid,2022-09-29T00:00:00,743398,41,3.6,Office,Active,0.05,EMP0004
+EMP0020,Vikram Dutta,Human Resources,Recruiter,Junior,2018-11-11T00:00:00,537382,44,4.8,Office,Active,0.05,
+EMP0021,Meera Reddy,Customer Support,Support Associate,Junior,2016-11-23T00:00:00,562443,40,4.6,Hybrid,Active,0.08,EMP0009
+EMP0022,Nikhil Kumar,Engineering,Python Developer,Mid,2016-10-16T00:00:00,567962,41,2.9,Hybrid,Active,0.03,EMP0004
+EMP0023,Akash Reddy,Engineering,Engineering Lead,Mid,2025-05-17T00:00:00,763838,44,3.4,Office,Active,0.03,EMP0004
+EMP0024,Meera Nair,Human Resources,Recruiter,Mid,2021-07-01T00:00:00,911228,44,3.8,Office,Active,0.0,EMP0010
+EMP0025,Karan Gupta,Analytics,Senior Analyst,Junior,2021-01-26T00:00:00,346688,37,2.8,Office,Active,0.0,EMP0013
+EMP0026,Isha Ali,Operations,Supply Planner,Junior,2023-08-07T00:00:00,326398,41,2.9,Office,Active,0.15,EMP0002
+EMP0027,Aditi Kapoor,Engineering,Python Developer,Senior,2025-11-14T00:00:00,1459634,44,2.7,Hybrid,On Leave,0.05,EMP0004
+EMP0028,Neha Shah,Engineering,Engineering Lead,Mid,2022-06-06T00:00:00,715110,39,3.4,Hybrid,Active,0.05,EMP0004
+EMP0029,Aarav Reddy,Sales,Sales Manager,Junior,2016-07-06T00:00:00,455534,43,2.7,Hybrid,Active,0.05,
+EMP0030,Sara Sheikh,Analytics,Analytics Lead,Junior,2019-03-06T00:00:00,383140,37,4.8,Hybrid,Active,0.05,EMP0013
+EMP0031,Sana Nair,Operations,Operations Lead,Junior,2018-11-23T00:00:00,360812,46,3.5,Remote,Active,0.15,EMP0002
+EMP0032,Rahul Reddy,Marketing,Content Specialist,Junior,2016-06-08T00:00:00,485538,40,4.6,Hybrid,Active,0.08,
+EMP0033,Priya Gupta,Operations,Operations Associate,Mid,2016-01-09T00:00:00,684036,43,2.3,Hybrid,Active,0.0,
+EMP0034,Ishaan Das,Sales,Account Executive,Mid,2021-02-11T00:00:00,749039,43,3.5,Office,Active,0.03,EMP0001
+EMP0035,Zoya Sheikh,Sales,Sales Associate,Mid,2025-04-06T00:00:00,697622,41,3.9,Office,On Leave,0.08,EMP0001
+EMP0036,Meera Singh,Analytics,Data Analyst,Junior,2025-05-06T00:00:00,334432,43,3.5,Hybrid,Active,0.03,EMP0013
+EMP0037,Rohan Ansari,Marketing,Marketing Manager,Mid,2020-02-22T00:00:00,908461,42,3.9,Office,Active,0.08,
+EMP0038,Sara Dutta,Operations,Operations Associate,Junior,2022-12-08T00:00:00,432737,37,1.8,Hybrid,Active,0.0,EMP0002
+EMP0039,Kabir Sethi,Operations,Operations Associate,Senior,2021-02-18T00:00:00,717692,42,4.6,Office,Active,0.0,EMP0002
+EMP0040,Nikhil Bhat,Analytics,Senior Analyst,Junior,2025-12-31T00:00:00,549528,43,4.0,Hybrid,Active,0.05,
+EMP0041,Zoya Mehta,Marketing,Campaign Executive,Mid,2026-01-19T00:00:00,895561,39,3.4,Hybrid,Active,0.08,EMP0032
+EMP0042,Riya Khan,Operations,Supply Planner,Junior,2025-11-24T00:00:00,405124,35,4.6,Office,Active,0.05,
+EMP0043,Noor Kapoor,Operations,Operations Associate,Senior,2022-05-18T00:00:00,1075183,34,2.9,Hybrid,On Leave,0.08,EMP0002
+EMP0044,Ananya Ansari,Analytics,Data Analyst,Mid,2024-06-08T00:00:00,696849,36,3.1,Office,Active,0.08,EMP0013
+EMP0045,Sana Menon,Sales,Account Executive,Junior,2016-12-05T00:00:00,550953,54,3.0,Office,Active,0.05,EMP0001
+EMP0046,Anika Malik,Customer Support,Support Lead,Junior,2019-01-03T00:00:00,317061,43,2.5,Hybrid,Active,0.05,EMP0009
+EMP0047,Aditya Ali,Marketing,Marketing Manager,Senior,2025-12-21T00:00:00,983306,43,4.4,Office,Active,0.08,EMP0032
+EMP0048,Kavya Rao,Customer Support,Support Lead,Junior,2023-05-27T00:00:00,319020,42,3.7,Hybrid,Active,0.08,
+EMP0049,Zoya Verma,Marketing,Marketing Manager,Mid,2020-05-09T00:00:00,577318,39,5.0,Office,Active,0.03,EMP0032
+EMP0050,Mohammed Gill,Sales,Account Executive,Mid,2025-08-27T00:00:00,900510,39,3.9,Hybrid,Active,0.03,EMP0001
+EMP0051,Shreya Nair,Customer Support,Support Specialist,Senior,2020-03-07T00:00:00,949816,40,4.0,Hybrid,Active,0.0,EMP0009
+EMP0052,Rohan Malik,Customer Support,Support Associate,Mid,2020-01-15T00:00:00,658498,32,3.6,Hybrid,On Leave,0.03,
+EMP0053,Aarav Ansari,Engineering,Python Developer,Mid,2022-07-14T00:00:00,807272,41,2.5,Remote,Active,0.03,EMP0004
+EMP0054,Tanya Ali,Operations,Operations Associate,Mid,2017-09-03T00:00:00,550773,35,4.0,Hybrid,Active,0.05,EMP0002
+EMP0055,Priya Das,Customer Support,Support Associate,Junior,2024-11-07T00:00:00,345840,34,2.9,Office,Active,0.05,EMP0009
+EMP0056,Rahul Sharma,Customer Support,Support Specialist,Junior,2023-03-28T00:00:00,413297,45,1.8,Office,Active,0.05,EMP0009
+EMP0057,Diya Menon,Operations,Supply Planner,Junior,2023-12-27T00:00:00,505448,43,4.5,Remote,Active,0.03,EMP0002
+EMP0058,Sana Khan,Engineering,Python Developer,Mid,2022-05-07T00:00:00,690376,38,5.0,Office,Active,0.0,EMP0004
+EMP0059,Meera Kapoor,Customer Support,Support Associate,Mid,2019-03-04T00:00:00,926673,42,4.5,Hybrid,Active,0.03,EMP0009
+EMP0060,Priya Chopra,Sales,Sales Manager,Senior,2016-04-15T00:00:00,791805,40,3.9,Remote,Active,0.05,
+EMP0061,Fatima Bose,Marketing,Campaign Executive,Senior,2019-11-03T00:00:00,1174908,35,3.3,Office,Active,0.12,EMP0032
+EMP0062,Sara Singh,Marketing,Content Specialist,Junior,2023-12-18T00:00:00,464320,32,4.0,Hybrid,Active,0.05,
+EMP0063,Ahmed Sheikh,Operations,Operations Lead,Junior,2016-07-23T00:00:00,362271,31,3.5,Office,Active,0.03,EMP0002
+EMP0064,Dev Nair,Marketing,Marketing Manager,Mid,2017-05-15T00:00:00,863539,39,3.1,Office,Left,0.12,EMP0032
+EMP0065,Anika Mehta,Engineering,Python Developer,Mid,2017-01-15T00:00:00,687443,45,4.1,Office,Active,0.03,
+EMP0066,Aanya Khan,Analytics,Data Analyst,Junior,2021-05-24T00:00:00,454557,36,3.0,Hybrid,Active,0.05,EMP0013
+EMP0067,Tanya Gill,Analytics,Analytics Lead,Mid,2019-06-17T00:00:00,886452,40,3.0,Office,On Leave,0.03,
+EMP0068,Shreya Nair,Operations,Operations Associate,Senior,2021-07-29T00:00:00,1377405,42,3.9,Hybrid,Active,0.08,
+EMP0069,Rahul Nair,Finance,Accountant,Junior,2022-05-20T00:00:00,499914,31,3.3,Office,Active,0.03,
+EMP0070,Karan Sheikh,Engineering,Python Developer,Junior,2019-04-29T00:00:00,429571,42,4.7,Hybrid,Active,0.05,EMP0004
+EMP0071,Priya Iyer,Finance,Financial Analyst,Junior,2023-03-15T00:00:00,391653,40,4.0,Hybrid,Active,0.08,EMP0069
+EMP0072,Fatima Bhat,Sales,Sales Manager,Senior,2019-07-09T00:00:00,1583606,43,4.5,Hybrid,On Leave,0.12,EMP0001
+EMP0073,Riya Sheikh,Human Resources,Recruiter,Junior,2021-12-08T00:00:00,407056,42,3.6,Hybrid,Left,0.12,EMP0010
+EMP0074,Nikhil Gupta,Analytics,Analytics Lead,Mid,2025-09-30T00:00:00,505124,45,4.4,Hybrid,Active,0.08,EMP0013
+EMP0075,Nikhil Menon,Sales,Account Executive,Junior,2019-11-13T00:00:00,396354,34,5.0,Office,Active,0.03,
+EMP0076,Anika Das,Operations,Operations Lead,Junior,2024-07-09T00:00:00,355670,46,1.3,Hybrid,Left,0.0,
+EMP0077,Meera Malik,Customer Support,Support Specialist,Junior,2017-10-16T00:00:00,460360,40,3.1,Hybrid,Active,0.03,EMP0009
+EMP0078,Aditi Iyer,Sales,Account Executive,Mid,2016-07-26T00:00:00,858952,47,4.3,Remote,Active,0.05,
+EMP0079,Aarav Bose,Analytics,Data Analyst,Junior,2024-04-23T00:00:00,431316,43,3.9,Hybrid,Active,0.03,EMP0013
+EMP0080,Meera Das,Engineering,Engineering Lead,Mid,2023-08-21T00:00:00,715641,45,3.5,Office,Left,0.05,EMP0004
+EMP0081,Anika Dutta,Sales,Sales Associate,Senior,2025-07-31T00:00:00,1032092,39,3.4,Office,On Leave,0.08,EMP0001
+EMP0082,Mira Thomas,Finance,Financial Analyst,Junior,2016-07-10T00:00:00,383468,43,2.8,Hybrid,Active,0.03,EMP0069
+EMP0083,Shreya Dutta,Customer Support,Support Lead,Junior,2025-11-04T00:00:00,494679,39,2.7,Office,Active,0.12,EMP0009
+EMP0084,Ahmed Sheikh,Marketing,Marketing Manager,Junior,2020-07-22T00:00:00,373082,36,3.9,Remote,Left,0.03,EMP0032
+EMP0085,Nikhil Verma,Analytics,Data Analyst,Mid,2022-09-02T00:00:00,712956,47,3.9,Hybrid,Active,0.05,EMP0013
+EMP0086,Nikhil Chopra,Engineering,QA Engineer,Senior,2020-02-08T00:00:00,1180883,41,4.2,Remote,On Leave,0.03,EMP0004
+EMP0087,Akash Ansari,Operations,Supply Planner,Junior,2025-04-14T00:00:00,391503,42,4.1,Office,Active,0.0,
+EMP0088,Riya Kapoor,Analytics,Data Analyst,Junior,2017-07-08T00:00:00,492262,43,3.6,Hybrid,Active,0.0,EMP0013
+EMP0089,Pooja Das,Customer Support,Support Lead,Mid,2024-06-15T00:00:00,746416,40,3.5,Hybrid,Active,0.08,EMP0009
+EMP0090,Yusuf Mishra,Operations,Operations Lead,Junior,2018-06-07T00:00:00,303130,35,3.8,Office,Active,0.08,EMP0002
+EMP0091,Neha Kumar,Analytics,Senior Analyst,Mid,2025-09-25T00:00:00,798804,47,4.3,Hybrid,Active,0.0,
+EMP0092,Mira Bose,Customer Support,Support Specialist,Mid,2019-06-21T00:00:00,932837,47,3.9,Hybrid,On Leave,0.0,EMP0009
+EMP0093,Rohan Verma,Customer Support,Support Associate,Mid,2019-01-23T00:00:00,840918,42,2.4,Office,Active,0.0,EMP0009
+EMP0094,Yusuf Iyer,Finance,Financial Analyst,Junior,2018-03-29T00:00:00,484731,38,4.1,Hybrid,Active,0.0,EMP0069
+EMP0095,Zoya Gill,Finance,Financial Analyst,Junior,2020-05-25T00:00:00,450931,40,3.1,Hybrid,Active,0.03,EMP0069
+EMP0096,Sana Malik,Customer Support,Support Specialist,Junior,2017-05-15T00:00:00,308366,31,3.2,Hybrid,Active,0.15,EMP0009
+EMP0097,Simran Kumar,Engineering,Python Developer,Mid,2024-03-20T00:00:00,576167,40,3.0,Hybrid,Active,0.0,EMP0004
+EMP0098,Aditya Dutta,Marketing,Campaign Executive,Senior,2018-12-14T00:00:00,1334963,40,4.3,Office,Active,0.15,EMP0032
+EMP0099,Ananya Gupta,Operations,Supply Planner,Mid,2025-10-28T00:00:00,512950,33,2.9,Office,Active,0.12,EMP0002
+EMP0100,Priya Iyer,Customer Support,Support Associate,Junior,2017-12-31T00:00:00,434672,39,2.0,Hybrid,Active,0.05,EMP0009
+EMP0101,Farhan Thomas,Engineering,Engineering Lead,Mid,2024-09-28T00:00:00,779328,48,4.0,Hybrid,Active,0.12,EMP0004
+EMP0102,Riya Bhat,Sales,Sales Associate,Junior,2025-09-17T00:00:00,323309,41,3.9,Hybrid,Active,0.03,
+EMP0103,Ananya Ali,Customer Support,Support Associate,Mid,2019-07-12T00:00:00,642656,40,3.1,Office,Active,0.05,EMP0009
+EMP0104,Rohan Sethi,Customer Support,Support Associate,Junior,2026-04-30T00:00:00,465576,39,3.4,Hybrid,Active,0.03,EMP0009
+EMP0105,Ibrahim Ansari,Marketing,Campaign Executive,Mid,2017-04-05T00:00:00,631727,42,3.5,Office,Active,0.08,EMP0032
+EMP0106,Noor Sheikh,Engineering,QA Engineer,Junior,2025-06-03T00:00:00,285376,43,2.6,Office,Active,0.0,
+EMP0107,Mira Chopra,Customer Support,Support Specialist,Mid,2017-05-25T00:00:00,943764,39,3.7,Office,Active,0.0,EMP0009
+EMP0108,Akash Ansari,Marketing,Marketing Manager,Junior,2021-08-20T00:00:00,471449,43,5.0,Office,Active,0.03,EMP0032
+EMP0109,Tanya Ansari,Analytics,Senior Analyst,Junior,2024-04-12T00:00:00,528144,45,2.4,Office,Active,0.03,EMP0013
+EMP0110,Priya Shah,Analytics,Analytics Lead,Mid,2024-04-14T00:00:00,763336,46,4.8,Office,Active,0.0,EMP0013
+EMP0111,Kabir Rao,Human Resources,HR Associate,Junior,2025-08-14T00:00:00,316285,44,3.0,Hybrid,Active,0.0,EMP0010
+EMP0112,Arjun Ali,Customer Support,Support Specialist,Mid,2021-06-19T00:00:00,748942,41,3.9,Office,Active,0.0,EMP0009
+EMP0113,Akash Rao,Customer Support,Support Lead,Mid,2023-06-15T00:00:00,783469,46,4.3,Office,Left,0.03,
+EMP0114,Ahmed Malik,Operations,Operations Associate,Mid,2026-04-09T00:00:00,534066,40,4.8,Hybrid,Active,0.05,
+EMP0115,Ishaan Nair,Analytics,Senior Analyst,Junior,2026-02-05T00:00:00,355368,37,3.9,Hybrid,On Leave,0.08,EMP0013
+EMP0116,Farhan Bose,Analytics,Senior Analyst,Mid,2019-07-19T00:00:00,496737,31,3.7,Office,Active,0.03,EMP0013
+EMP0117,Sana Sheikh,Sales,Sales Associate,Mid,2016-08-06T00:00:00,541045,35,2.7,Remote,Active,0.0,EMP0001
+EMP0118,Ahmed Gill,Operations,Operations Associate,Junior,2020-12-29T00:00:00,419507,32,2.2,Hybrid,Active,0.05,EMP0002
+EMP0119,Rahul Singh,Sales,Sales Associate,Senior,2020-07-05T00:00:00,1011231,40,3.0,Office,Active,0.03,EMP0001
+EMP0120,Aarav Saxena,Analytics,Data Analyst,Mid,2019-02-28T00:00:00,861666,37,3.9,Remote,Active,0.08,EMP0013
+EMP0121,Vikram Gupta,Sales,Sales Associate,Senior,2017-09-22T00:00:00,983031,43,3.6,Remote,Active,0.08,EMP0001
+EMP0122,Nikhil Patel,Operations,Supply Planner,Mid,2025-10-20T00:00:00,695749,40,4.8,Hybrid,Active,0.08,EMP0002
+EMP0123,Noor Verma,Operations,Operations Associate,Mid,2020-07-28T00:00:00,737472,46,3.2,Office,Active,0.03,EMP0002
+EMP0124,Aditya Bhat,Analytics,Analytics Lead,Mid,2019-08-26T00:00:00,727472,43,3.0,Office,Active,0.0,EMP0013
+EMP0125,Yusuf Chopra,Operations,Operations Lead,Mid,2025-10-15T00:00:00,921170,44,3.6,Remote,Active,0.03,EMP0002
+EMP0126,Dev Sethi,Customer Support,Support Lead,Mid,2024-08-31T00:00:00,596826,44,3.7,Office,Active,0.03,EMP0009
+EMP0127,Ishaan Thomas,Engineering,QA Engineer,Mid,2019-07-27T00:00:00,580764,41,2.9,Hybrid,Active,0.0,
+EMP0128,Priya Iyer,Operations,Operations Lead,Mid,2020-06-08T00:00:00,855426,44,3.4,Office,Active,0.05,EMP0002
+EMP0129,Rahul Sheikh,Customer Support,Support Associate,Senior,2025-07-23T00:00:00,1304890,43,2.5,Office,Active,0.05,EMP0009
+EMP0130,Aarav Mishra,Sales,Sales Manager,Junior,2026-01-08T00:00:00,491516,40,3.0,Office,Active,0.0,
+EMP0131,Priya Das,Engineering,Python Developer,Mid,2016-03-18T00:00:00,968870,34,2.4,Remote,Active,0.08,EMP0004
+EMP0132,Anika Mishra,Engineering,Software Engineer,Senior,2023-01-24T00:00:00,836755,43,3.3,Hybrid,Active,0.0,EMP0004
+EMP0133,Zoya Singh,Engineering,Engineering Lead,Mid,2024-06-23T00:00:00,680433,34,2.3,Hybrid,Active,0.0,EMP0004
+EMP0134,Varun Iyer,Analytics,Senior Analyst,Junior,2016-09-16T00:00:00,427970,42,3.4,Hybrid,Active,0.08,
+EMP0135,Ahmed Sheikh,Operations,Supply Planner,Junior,2018-11-17T00:00:00,330921,37,3.3,Remote,Active,0.05,EMP0002
+EMP0136,Mohammed Gill,Finance,Accountant,Mid,2016-12-07T00:00:00,932678,35,3.3,Office,Left,0.15,EMP0069
+EMP0137,Pooja Khan,Operations,Operations Lead,Junior,2019-01-24T00:00:00,362981,41,3.3,Hybrid,Active,0.0,EMP0002
+EMP0138,Mohammed Khan,Engineering,Software Engineer,Junior,2021-03-26T00:00:00,280000,40,3.2,Hybrid,Active,0.05,EMP0004
+EMP0139,Varun Gupta,Customer Support,Support Specialist,Junior,2021-02-28T00:00:00,423929,38,3.1,Office,Active,0.03,EMP0009
+EMP0140,Anika Sheikh,Human Resources,Recruiter,Junior,2021-10-21T00:00:00,365185,44,2.8,Hybrid,Active,0.05,EMP0010

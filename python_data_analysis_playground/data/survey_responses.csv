@@ -1,0 +1,1801 @@
+response_id,customer_id,response_date,nps_score,product_quality,delivery_experience,support_experience,would_recommend,comment,survey_channel
+R000001,C00130,2025-05-28T00:00:00,8.0,5.0,4.0,2.0,Definitely,delivery updates were useful,Email
+R000002,C00368,2024-09-19T00:00:00,7.0,5.0,4.0,5.0,Probably,packaging had too much plastic,In-App
+R000003,C00002,2024-09-17T00:00:00,9.0,4.0,2.0,4.0,Definitely,product differed slightly from photos,Email
+R000004,C00496,2025-06-15T00:00:00,0.0,3.0,5.0,3.0,Definitely,product differed slightly from photos,Email
+R000005,C00520,2024-09-14T00:00:00,10.0,4.0,4.0,,Probably not,packaging had too much plastic,Email
+R000006,C00687,2024-08-07T00:00:00,9.0,4.0,2.0,4.0,Definitely,item arrived later than expected,Email
+R000007,C00356,2026-05-18T00:00:00,3.0,3.0,2.0,4.0,Probably,quick delivery and good packaging,Email
+R000008,C00184,2025-09-26T00:00:00,7.0,3.0,4.0,3.0,Probably,price could be better,Website
+R000009,C00640,2023-02-20T00:00:00,2.0,5.0,4.0,,Not sure,easy to use website,Email
+R000010,C00162,2025-11-06T00:00:00,6.0,2.0,3.0,5.0,Definitely,will recommend to friends,SMS
+R000011,C00257,2025-09-21T00:00:00,3.0,3.0,2.0,,Probably,product differed slightly from photos,Email
+R000012,C00387,2026-09-13T00:00:00,8.0,3.0,3.0,3.0,Not sure,easy to use website,In-App
+R000013,C00618,2024-05-30T00:00:00,5.0,2.0,4.0,4.0,Probably,good value for money,Email
+R000014,C00382,2025-10-20T00:00:00,4.0,3.0,3.0,4.0,Probably,product differed slightly from photos,Email
+R000015,C00484,2024-01-18T00:00:00,9.0,4.0,3.0,5.0,Probably,checkout was confusing,Email
+R000016,C00567,2025-03-21T00:00:00,9.0,2.0,,2.0,Not sure,easy to use website,In-App
+R000017,,2024-08-28T00:00:00,9.0,5.0,5.0,1.0,Definitely,good value for money,Website
+R000018,C00019,2025-05-18T00:00:00,8.0,3.0,5.0,5.0,Definitely,packaging had too much plastic,In-App
+R000019,C00242,2024-04-01T00:00:00,9.0,4.0,2.0,4.0,Probably,checkout was confusing,SMS
+R000020,,2026-07-23T00:00:00,5.0,4.0,3.0,4.0,Definitely,price could be better,SMS
+R000021,C00757,2026-06-27T00:00:00,8.0,4.0,5.0,4.0,Probably,packaging had too much plastic,Email
+R000022,C00004,2025-03-24T00:00:00,7.0,5.0,2.0,4.0,Probably,great experience overall,In-App
+R000023,C00589,2025-05-27T00:00:00,9.0,4.0,5.0,5.0,Not sure,excellent product quality,In-App
+R000024,C00463,2024-10-08T00:00:00,5.0,3.0,4.0,3.0,Definitely,great experience overall,In-App
+R000025,,2025-08-04T00:00:00,8.0,5.0,,3.0,Definitely,delivery updates were useful,In-App
+R000026,C00557,2026-01-22T00:00:00,10.0,5.0,5.0,5.0,Not sure,good value for money,Email
+R000027,C00105,2024-10-27T00:00:00,8.0,4.0,5.0,4.0,Definitely,easy to use website,SMS
+R000028,C00189,2023-05-08T00:00:00,9.0,4.0,4.0,,Definitely,quick delivery and good packaging,Website
+R000029,C00539,2024-10-15T00:00:00,5.0,4.0,3.0,5.0,Not sure,size was not as expected,Website
+R000030,C00390,2023-12-26T00:00:00,6.0,5.0,4.0,4.0,Definitely,excellent product quality,Email
+R000031,C00365,2025-12-26T00:00:00,1.0,2.0,4.0,5.0,Definitely,excellent product quality,Email
+R000032,C00618,2025-03-24T00:00:00,8.0,4.0,3.0,3.0,Probably,easy to use website,Email
+R000033,C00381,2026-05-28T00:00:00,8.0,2.0,3.0,,Probably,packaging had too much plastic,In-App
+R000034,C00620,2026-04-02T00:00:00,7.0,,3.0,4.0,Probably,price could be better,SMS
+R000035,C00793,2024-10-29T00:00:00,9.0,5.0,4.0,3.0,Not sure,excellent product quality,Email
+R000036,C00493,2023-12-28T00:00:00,0.0,,4.0,5.0,Probably,excellent product quality,Email
+R000037,C00660,2023-12-28T00:00:00,9.0,3.0,4.0,4.0,Probably,price could be better,Email
+R000038,C00735,2025-05-13T00:00:00,5.0,4.0,3.0,3.0,Probably,packaging had too much plastic,In-App
+R000039,C00090,2025-04-28T00:00:00,10.0,3.0,3.0,4.0,Not sure,excellent product quality,In-App
+R000040,C00006,2025-07-09T00:00:00,7.0,4.0,5.0,5.0,Definitely,quick delivery and good packaging,In-App
+R000041,C00191,2025-07-24T00:00:00,5.0,4.0,3.0,,Probably,quick delivery and good packaging,In-App
+R000042,C00217,2023-04-09T00:00:00,0.0,4.0,5.0,4.0,Probably not,easy to use website,Email
+R000043,C00182,2023-07-22T00:00:00,9.0,4.0,5.0,,Definitely,support team was helpful,In-App
+R000044,C00533,2024-06-09T00:00:00,8.0,4.0,5.0,3.0,Probably,price could be better,In-App
+R000045,C00307,2023-12-14T00:00:00,2.0,5.0,5.0,4.0,Not sure,great experience overall,Email
+R000046,C00547,2023-03-24T00:00:00,4.0,4.0,4.0,,Definitely,size was not as expected,SMS
+R000047,C00158,2025-05-05T00:00:00,9.0,5.0,4.0,,Definitely,product differed slightly from photos,Website
+R000048,C00521,2026-09-10T00:00:00,2.0,4.0,5.0,4.0,Probably,product differed slightly from photos,In-App
+R000049,C00584,2024-05-04T00:00:00,9.0,3.0,5.0,,Probably,item arrived later than expected,SMS
+R000050,C00394,2023-09-04T00:00:00,6.0,4.0,,5.0,Definitely,price could be better,In-App
+R000051,C00406,2026-01-28T00:00:00,9.0,3.0,4.0,5.0,Not sure,item arrived later than expected,Email
+R000052,C00738,2025-08-28T00:00:00,10.0,2.0,5.0,,Probably,packaging had too much plastic,In-App
+R000053,C00370,2024-10-10T00:00:00,6.0,5.0,4.0,4.0,Definitely,quick delivery and good packaging,Email
+R000054,C00545,2023-06-30T00:00:00,9.0,3.0,5.0,5.0,Not sure,repeat customer and very satisfied,Email
+R000055,C00383,2023-04-30T00:00:00,8.0,4.0,4.0,5.0,Not sure,item arrived later than expected,In-App
+R000056,C00419,2024-12-26T00:00:00,10.0,4.0,2.0,5.0,Probably,packaging had too much plastic,Website
+R000057,C00606,2024-06-11T00:00:00,9.0,4.0,4.0,5.0,Definitely,good value for money,SMS
+R000058,C00156,2026-01-03T00:00:00,8.0,5.0,4.0,3.0,Definitely,great experience overall,SMS
+R000059,C00722,2024-10-07T00:00:00,7.0,4.0,5.0,5.0,Definitely,product differed slightly from photos,Email
+R000060,C00759,2025-06-18T00:00:00,2.0,,5.0,5.0,Probably,packaging had too much plastic,In-App
+R000061,C00304,2024-10-07T00:00:00,10.0,2.0,4.0,5.0,Definitely,product differed slightly from photos,SMS
+R000062,C00497,2024-11-24T00:00:00,9.0,5.0,5.0,1.0,Definitely,product differed slightly from photos,In-App
+R000063,C00290,2026-06-07T00:00:00,8.0,5.0,4.0,,Not sure,quick delivery and good packaging,Email
+R000064,C00511,2023-11-22T00:00:00,9.0,2.0,3.0,,Probably,repeat customer and very satisfied,In-App
+R000065,C00179,2024-02-13T00:00:00,8.0,3.0,2.0,,Probably,price could be better,In-App
+R000066,C00290,2025-06-27T00:00:00,8.0,4.0,3.0,1.0,Probably,delivery updates were useful,Email
+R000067,C00335,2025-06-01T00:00:00,8.0,5.0,4.0,,Probably,good value for money,In-App
+R000068,C00074,2025-11-19T00:00:00,,3.0,1.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000069,C00277,2026-03-21T00:00:00,,4.0,3.0,5.0,Definitely,quick delivery and good packaging,Email
+R000070,C00222,2023-12-04T00:00:00,5.0,2.0,4.0,,Definitely,item arrived later than expected,SMS
+R000071,,2025-09-21T00:00:00,5.0,4.0,4.0,5.0,Not sure,price could be better,In-App
+R000072,,2026-08-14T00:00:00,7.0,4.0,2.0,4.0,Probably,checkout was confusing,SMS
+R000073,C00550,2024-04-17T00:00:00,8.0,3.0,5.0,4.0,Definitely,repeat customer and very satisfied,Email
+R000074,C00609,2025-12-07T00:00:00,5.0,3.0,4.0,,Probably not,support team was helpful,In-App
+R000075,C00672,2026-01-20T00:00:00,6.0,4.0,3.0,1.0,Definitely,easy to use website,Email
+R000076,C00449,2026-03-01T00:00:00,0.0,5.0,2.0,,Definitely,support team was helpful,SMS
+R000077,C00220,2024-05-08T00:00:00,,4.0,5.0,,Probably not,support team was helpful,In-App
+R000078,C00131,2025-11-11T00:00:00,6.0,5.0,4.0,5.0,Probably,easy to use website,In-App
+R000079,C00141,2024-03-20T00:00:00,9.0,4.0,5.0,5.0,Not sure,support team was helpful,In-App
+R000080,C00242,2025-05-25T00:00:00,8.0,3.0,4.0,5.0,Probably,will recommend to friends,Email
+R000081,C00340,2023-01-22T00:00:00,9.0,5.0,4.0,4.0,Definitely,good value for money,In-App
+R000082,C00167,2025-02-19T00:00:00,,4.0,3.0,4.0,Definitely,product differed slightly from photos,Email
+R000083,C00173,2026-05-26T00:00:00,9.0,5.0,4.0,3.0,Probably,easy to use website,Website
+R000084,C00691,2023-03-20T00:00:00,9.0,4.0,3.0,5.0,Definitely,great experience overall,Email
+R000085,C00585,2023-04-14T00:00:00,6.0,5.0,3.0,3.0,Probably,delivery updates were useful,SMS
+R000086,,2026-08-29T00:00:00,6.0,4.0,5.0,4.0,Definitely,product differed slightly from photos,Website
+R000087,C00118,2024-07-27T00:00:00,,2.0,5.0,1.0,Definitely,product differed slightly from photos,SMS
+R000088,C00329,2025-02-08T00:00:00,6.0,4.0,3.0,4.0,Definitely,repeat customer and very satisfied,SMS
+R000089,C00736,2024-02-21T00:00:00,8.0,5.0,4.0,4.0,Probably,product differed slightly from photos,In-App
+R000090,C00778,2024-11-05T00:00:00,5.0,4.0,4.0,5.0,Definitely,excellent product quality,Email
+R000091,C00338,2025-04-29T00:00:00,9.0,5.0,2.0,,Definitely,good value for money,Email
+R000092,C00647,2023-09-20T00:00:00,6.0,5.0,4.0,3.0,Definitely,easy to use website,In-App
+R000093,,2025-01-27T00:00:00,6.0,2.0,5.0,5.0,Definitely,product differed slightly from photos,SMS
+R000094,C00001,2023-05-14T00:00:00,,2.0,3.0,,Definitely,repeat customer and very satisfied,Email
+R000095,C00512,2025-03-18T00:00:00,9.0,5.0,5.0,5.0,Definitely,product differed slightly from photos,In-App
+R000096,C00792,2025-09-28T00:00:00,1.0,4.0,5.0,2.0,Definitely,price could be better,SMS
+R000097,C00263,2025-07-01T00:00:00,5.0,4.0,3.0,3.0,Probably,great experience overall,Email
+R000098,C00305,2024-09-17T00:00:00,4.0,4.0,2.0,5.0,Definitely,price could be better,In-App
+R000099,C00241,2025-01-30T00:00:00,10.0,5.0,3.0,3.0,Probably,item arrived later than expected,Email
+R000100,C00543,2025-03-18T00:00:00,7.0,4.0,4.0,5.0,Probably,product differed slightly from photos,SMS
+R000101,C00372,2023-12-10T00:00:00,8.0,4.0,4.0,4.0,Probably,excellent product quality,Email
+R000102,C00519,2026-01-22T00:00:00,6.0,4.0,5.0,4.0,Probably,product differed slightly from photos,In-App
+R000103,,2025-01-10T00:00:00,9.0,2.0,5.0,3.0,Probably not,support team was helpful,In-App
+R000104,C00794,2023-01-08T00:00:00,9.0,4.0,,,Definitely,good value for money,Website
+R000105,C00187,2023-03-10T00:00:00,5.0,5.0,5.0,5.0,Not sure,delivery updates were useful,Email
+R000106,C00505,2024-05-22T00:00:00,2.0,5.0,4.0,5.0,Definitely,checkout was confusing,Email
+R000107,C00600,2024-07-24T00:00:00,8.0,3.0,2.0,5.0,Definitely,delivery updates were useful,In-App
+R000108,,2025-06-02T00:00:00,8.0,4.0,4.0,,Probably,excellent product quality,Website
+R000109,C00577,2023-08-31T00:00:00,,4.0,5.0,3.0,Probably,size was not as expected,In-App
+R000110,,2025-01-25T00:00:00,9.0,4.0,5.0,,Definitely,support team was helpful,In-App
+R000111,C00479,2026-09-20T00:00:00,0.0,4.0,5.0,1.0,Probably,quick delivery and good packaging,SMS
+R000112,,2025-10-28T00:00:00,0.0,4.0,5.0,4.0,Probably not,repeat customer and very satisfied,In-App
+R000113,C00270,2025-01-23T00:00:00,6.0,5.0,4.0,5.0,Probably,excellent product quality,In-App
+R000114,C00443,2025-08-04T00:00:00,8.0,3.0,4.0,3.0,Definitely,support team was helpful,Email
+R000115,C00567,2025-12-15T00:00:00,9.0,4.0,4.0,,Not sure,size was not as expected,SMS
+R000116,C00156,2026-08-26T00:00:00,4.0,3.0,4.0,1.0,Probably,support team was helpful,Email
+R000117,C00639,2025-02-06T00:00:00,,5.0,4.0,4.0,Definitely,size was not as expected,Email
+R000118,,2026-07-14T00:00:00,7.0,4.0,5.0,5.0,Probably,easy to use website,In-App
+R000119,C00575,2024-05-26T00:00:00,9.0,5.0,4.0,3.0,Definitely,repeat customer and very satisfied,Email
+R000120,C00437,2025-02-28T00:00:00,5.0,2.0,3.0,5.0,Definitely,will recommend to friends,In-App
+R000121,C00304,2023-12-23T00:00:00,3.0,5.0,4.0,4.0,Probably,checkout was confusing,Email
+R000122,,2025-08-07T00:00:00,10.0,2.0,,,Definitely,price could be better,Email
+R000123,C00790,2025-04-02T00:00:00,7.0,4.0,4.0,4.0,Probably not,packaging had too much plastic,Email
+R000124,C00434,2025-11-25T00:00:00,7.0,5.0,4.0,,Definitely,will recommend to friends,Email
+R000125,C00771,2025-03-10T00:00:00,5.0,5.0,3.0,5.0,Not sure,size was not as expected,Website
+R000126,,2025-04-12T00:00:00,,4.0,5.0,5.0,Probably,checkout was confusing,In-App
+R000127,C00159,2025-04-23T00:00:00,7.0,3.0,,3.0,Definitely,product differed slightly from photos,SMS
+R000128,C00017,2024-02-15T00:00:00,8.0,5.0,5.0,4.0,Not sure,checkout was confusing,Website
+R000129,C00072,2023-11-01T00:00:00,7.0,5.0,1.0,5.0,Definitely,item arrived later than expected,SMS
+R000130,C00011,2024-03-08T00:00:00,9.0,3.0,4.0,5.0,Definitely,quick delivery and good packaging,Website
+R000131,C00332,2025-12-06T00:00:00,7.0,3.0,,5.0,Probably,delivery updates were useful,SMS
+R000132,C00247,2025-09-26T00:00:00,9.0,5.0,5.0,,Probably not,will recommend to friends,Website
+R000133,C00161,2023-01-26T00:00:00,1.0,4.0,3.0,5.0,Definitely,support team was helpful,Email
+R000134,C00296,2023-06-13T00:00:00,10.0,5.0,5.0,4.0,Definitely,easy to use website,In-App
+R000135,C00782,2025-05-04T00:00:00,3.0,5.0,4.0,,Not sure,product differed slightly from photos,Email
+R000136,C00612,2024-03-11T00:00:00,2.0,2.0,,,Probably,great experience overall,Email
+R000137,C00715,2023-04-24T00:00:00,8.0,5.0,3.0,4.0,Probably,delivery updates were useful,Website
+R000138,C00152,2026-03-02T00:00:00,7.0,,5.0,3.0,Probably,size was not as expected,In-App
+R000139,C00584,2026-07-10T00:00:00,8.0,4.0,4.0,,Definitely,product differed slightly from photos,Website
+R000140,C00377,2023-12-01T00:00:00,9.0,4.0,5.0,5.0,Not sure,easy to use website,In-App
+R000141,C00775,2026-03-01T00:00:00,7.0,4.0,5.0,,Definitely,item arrived later than expected,Email
+R000142,C00260,2026-03-27T00:00:00,8.0,4.0,4.0,,Not sure,packaging had too much plastic,In-App
+R000143,C00164,2023-04-21T00:00:00,9.0,5.0,4.0,4.0,Definitely,good value for money,In-App
+R000144,C00670,2025-02-18T00:00:00,6.0,5.0,3.0,4.0,Definitely,product differed slightly from photos,In-App
+R000145,C00750,2026-05-05T00:00:00,10.0,5.0,,,Definitely,will recommend to friends,Email
+R000146,C00698,2023-12-28T00:00:00,4.0,5.0,4.0,4.0,Definitely,support team was helpful,In-App
+R000147,C00030,2024-07-27T00:00:00,6.0,5.0,3.0,,Probably not,packaging had too much plastic,In-App
+R000148,C00085,2023-09-16T00:00:00,7.0,4.0,4.0,4.0,Not sure,good value for money,Email
+R000149,,2026-08-30T00:00:00,5.0,5.0,4.0,5.0,Not sure,price could be better,SMS
+R000150,C00513,2023-09-08T00:00:00,5.0,5.0,5.0,4.0,Probably,support team was helpful,Email
+R000151,C00179,2025-05-29T00:00:00,2.0,2.0,4.0,,Definitely,great experience overall,Email
+R000152,C00045,2023-04-03T00:00:00,9.0,5.0,5.0,5.0,Probably,repeat customer and very satisfied,Website
+R000153,C00705,2024-09-09T00:00:00,0.0,4.0,4.0,5.0,Definitely,easy to use website,Email
+R000154,C00218,2024-05-17T00:00:00,7.0,1.0,5.0,5.0,Probably,easy to use website,In-App
+R000155,C00047,2026-05-05T00:00:00,5.0,5.0,3.0,,Definitely,great experience overall,In-App
+R000156,C00784,2025-06-05T00:00:00,7.0,4.0,2.0,5.0,Probably,repeat customer and very satisfied,In-App
+R000157,C00693,2024-02-04T00:00:00,10.0,3.0,5.0,5.0,Probably not,price could be better,Email
+R000158,,2025-08-06T00:00:00,9.0,5.0,5.0,,Definitely,easy to use website,In-App
+R000159,C00192,2025-01-16T00:00:00,8.0,4.0,4.0,4.0,Not sure,price could be better,Email
+R000160,C00208,2023-04-12T00:00:00,9.0,4.0,5.0,1.0,Definitely,easy to use website,Email
+R000161,C00373,2026-05-01T00:00:00,4.0,5.0,,2.0,Not sure,size was not as expected,SMS
+R000162,C00293,2025-05-29T00:00:00,4.0,3.0,2.0,1.0,Not sure,excellent product quality,SMS
+R000163,C00663,2026-05-16T00:00:00,8.0,4.0,4.0,,Not sure,product differed slightly from photos,Email
+R000164,C00535,2026-04-12T00:00:00,9.0,5.0,2.0,4.0,Definitely,checkout was confusing,In-App
+R000165,C00492,2024-03-28T00:00:00,7.0,3.0,4.0,4.0,Probably not,packaging had too much plastic,Email
+R000166,C00288,2024-02-26T00:00:00,6.0,4.0,5.0,5.0,Definitely,excellent product quality,SMS
+R000167,C00426,2023-10-28T00:00:00,5.0,5.0,,5.0,Definitely,quick delivery and good packaging,Email
+R000168,C00452,2023-10-27T00:00:00,7.0,3.0,5.0,5.0,Definitely,price could be better,Website
+R000169,C00452,2024-06-26T00:00:00,9.0,4.0,3.0,5.0,Probably,excellent product quality,In-App
+R000170,C00020,2024-12-01T00:00:00,9.0,3.0,4.0,3.0,Definitely,quick delivery and good packaging,In-App
+R000171,C00714,2023-08-07T00:00:00,7.0,4.0,1.0,5.0,Probably,support team was helpful,In-App
+R000172,C00285,2024-01-28T00:00:00,3.0,5.0,2.0,,Probably,price could be better,Website
+R000173,C00130,2023-08-19T00:00:00,8.0,5.0,1.0,,Probably not,delivery updates were useful,In-App
+R000174,C00312,2023-05-31T00:00:00,9.0,5.0,4.0,,Definitely,easy to use website,In-App
+R000175,C00351,2024-06-21T00:00:00,10.0,4.0,3.0,5.0,Definitely,easy to use website,Email
+R000176,C00263,2024-11-19T00:00:00,3.0,5.0,4.0,,Probably,item arrived later than expected,Email
+R000177,C00319,2025-06-25T00:00:00,8.0,4.0,3.0,,Probably,packaging had too much plastic,Email
+R000178,C00764,2023-11-21T00:00:00,6.0,5.0,5.0,3.0,Probably,will recommend to friends,SMS
+R000179,C00317,2026-08-02T00:00:00,8.0,5.0,5.0,,Definitely,repeat customer and very satisfied,Email
+R000180,C00689,2023-02-01T00:00:00,7.0,4.0,3.0,4.0,Definitely,price could be better,In-App
+R000181,C00070,2025-06-14T00:00:00,,5.0,4.0,,Definitely,price could be better,In-App
+R000182,C00044,2026-07-23T00:00:00,7.0,4.0,2.0,,Probably,product differed slightly from photos,In-App
+R000183,C00082,2024-06-22T00:00:00,9.0,5.0,4.0,4.0,Definitely,item arrived later than expected,In-App
+R000184,,2024-12-02T00:00:00,9.0,4.0,4.0,,Probably,packaging had too much plastic,In-App
+R000185,C00278,2023-06-30T00:00:00,7.0,4.0,,5.0,Definitely,item arrived later than expected,SMS
+R000186,C00314,2024-12-09T00:00:00,7.0,2.0,4.0,4.0,Definitely,good value for money,Email
+R000187,C00668,2024-08-25T00:00:00,7.0,4.0,5.0,5.0,Probably,repeat customer and very satisfied,Email
+R000188,C00411,2026-03-01T00:00:00,5.0,5.0,5.0,5.0,Definitely,good value for money,In-App
+R000189,C00534,2023-09-09T00:00:00,6.0,4.0,5.0,5.0,Probably,product differed slightly from photos,Email
+R000190,,2024-03-18T00:00:00,9.0,5.0,4.0,4.0,Definitely,size was not as expected,Email
+R000191,C00042,2023-10-17T00:00:00,2.0,2.0,4.0,5.0,Probably,price could be better,Website
+R000192,C00522,2023-09-24T00:00:00,7.0,4.0,5.0,,Probably,checkout was confusing,Email
+R000193,C00512,2024-04-19T00:00:00,9.0,4.0,3.0,5.0,Definitely,support team was helpful,SMS
+R000194,C00526,2025-04-26T00:00:00,2.0,3.0,3.0,2.0,Definitely,will recommend to friends,Email
+R000195,C00051,2024-09-26T00:00:00,5.0,5.0,4.0,2.0,Definitely,will recommend to friends,In-App
+R000196,C00324,2023-12-06T00:00:00,7.0,4.0,4.0,5.0,Probably not,repeat customer and very satisfied,Email
+R000197,C00653,2025-11-05T00:00:00,8.0,4.0,3.0,3.0,Definitely,packaging had too much plastic,Website
+R000198,,2023-12-22T00:00:00,7.0,5.0,5.0,,Definitely,delivery updates were useful,In-App
+R000199,C00657,2024-06-29T00:00:00,6.0,4.0,3.0,5.0,Definitely,good value for money,SMS
+R000200,C00584,2024-05-11T00:00:00,4.0,5.0,3.0,2.0,Probably,support team was helpful,In-App
+R000201,C00401,2026-01-12T00:00:00,8.0,4.0,4.0,,Definitely,great experience overall,SMS
+R000202,C00226,2024-09-27T00:00:00,8.0,5.0,5.0,2.0,Probably,will recommend to friends,Email
+R000203,C00115,2026-08-01T00:00:00,10.0,4.0,5.0,5.0,Definitely,size was not as expected,In-App
+R000204,C00709,2023-06-05T00:00:00,,4.0,4.0,3.0,Probably,product differed slightly from photos,In-App
+R000205,C00559,2023-10-28T00:00:00,7.0,4.0,4.0,5.0,Probably,easy to use website,Website
+R000206,C00019,2023-06-14T00:00:00,10.0,4.0,5.0,5.0,Not sure,size was not as expected,In-App
+R000207,C00185,2024-08-25T00:00:00,9.0,4.0,4.0,5.0,Definitely,size was not as expected,In-App
+R000208,C00283,2023-04-03T00:00:00,7.0,5.0,4.0,4.0,Definitely,size was not as expected,SMS
+R000209,C00112,2023-07-10T00:00:00,9.0,5.0,5.0,5.0,Definitely,product differed slightly from photos,Email
+R000210,C00071,2023-03-08T00:00:00,,5.0,5.0,,Probably,quick delivery and good packaging,Email
+R000211,,2024-11-20T00:00:00,7.0,2.0,3.0,5.0,Definitely,great experience overall,In-App
+R000212,C00487,2023-12-21T00:00:00,8.0,5.0,3.0,4.0,Probably,support team was helpful,Website
+R000213,C00556,2025-01-25T00:00:00,7.0,5.0,2.0,5.0,Probably,excellent product quality,Website
+R000214,C00058,2024-10-08T00:00:00,0.0,2.0,4.0,4.0,Definitely,product differed slightly from photos,In-App
+R000215,C00170,2026-09-05T00:00:00,,4.0,4.0,3.0,Definitely,quick delivery and good packaging,Email
+R000216,,2025-09-07T00:00:00,0.0,4.0,1.0,5.0,Probably,support team was helpful,In-App
+R000217,C00201,2024-09-11T00:00:00,1.0,4.0,4.0,4.0,Probably,checkout was confusing,Website
+R000218,C00096,2023-04-13T00:00:00,9.0,4.0,4.0,,Probably not,checkout was confusing,Email
+R000219,C00215,2025-07-29T00:00:00,1.0,5.0,4.0,,Definitely,support team was helpful,In-App
+R000220,C00298,2023-05-29T00:00:00,8.0,5.0,5.0,5.0,Probably,easy to use website,Email
+R000221,C00205,2025-02-20T00:00:00,5.0,3.0,5.0,5.0,Definitely,will recommend to friends,Email
+R000222,C00744,2023-11-10T00:00:00,9.0,3.0,5.0,5.0,Definitely,easy to use website,Website
+R000223,C00127,2024-02-11T00:00:00,9.0,5.0,4.0,2.0,Definitely,item arrived later than expected,In-App
+R000224,C00800,2024-11-18T00:00:00,4.0,4.0,3.0,5.0,Definitely,size was not as expected,SMS
+R000225,C00093,2025-11-20T00:00:00,9.0,5.0,5.0,4.0,Definitely,price could be better,Email
+R000226,C00033,2023-09-10T00:00:00,8.0,2.0,4.0,,Probably,quick delivery and good packaging,Email
+R000227,C00295,2025-10-23T00:00:00,6.0,4.0,4.0,4.0,Definitely,checkout was confusing,Email
+R000228,C00268,2025-01-24T00:00:00,7.0,4.0,4.0,4.0,Probably,good value for money,SMS
+R000229,C00522,2024-04-23T00:00:00,8.0,4.0,4.0,5.0,Probably,great experience overall,In-App
+R000230,C00249,2024-01-25T00:00:00,7.0,2.0,5.0,1.0,Probably,great experience overall,SMS
+R000231,C00131,2023-10-04T00:00:00,10.0,3.0,5.0,5.0,Probably,good value for money,Website
+R000232,C00165,2025-10-28T00:00:00,6.0,3.0,5.0,2.0,Probably,easy to use website,Email
+R000233,C00637,2025-05-28T00:00:00,10.0,5.0,5.0,,Definitely,good value for money,In-App
+R000234,C00364,2023-11-04T00:00:00,6.0,2.0,2.0,5.0,Definitely,repeat customer and very satisfied,Website
+R000235,C00315,2023-02-09T00:00:00,10.0,5.0,4.0,4.0,Definitely,packaging had too much plastic,In-App
+R000236,C00457,2025-11-28T00:00:00,1.0,3.0,3.0,3.0,Not sure,item arrived later than expected,Email
+R000237,C00492,2025-04-21T00:00:00,5.0,3.0,5.0,5.0,Probably not,product differed slightly from photos,Email
+R000238,C00298,2025-01-18T00:00:00,6.0,5.0,5.0,,Definitely,good value for money,Email
+R000239,C00198,2023-09-20T00:00:00,5.0,5.0,4.0,2.0,Definitely,great experience overall,In-App
+R000240,C00720,2026-08-31T00:00:00,9.0,4.0,5.0,4.0,Definitely,great experience overall,In-App
+R000241,C00283,2024-03-30T00:00:00,10.0,4.0,4.0,,Not sure,price could be better,In-App
+R000242,C00447,2024-11-01T00:00:00,7.0,5.0,4.0,,Probably,packaging had too much plastic,In-App
+R000243,C00514,2025-10-08T00:00:00,10.0,5.0,4.0,,Not sure,item arrived later than expected,Email
+R000244,C00767,2024-03-18T00:00:00,9.0,5.0,3.0,5.0,Not sure,item arrived later than expected,In-App
+R000245,C00066,2023-10-27T00:00:00,9.0,5.0,5.0,4.0,Definitely,will recommend to friends,In-App
+R000246,C00327,2023-05-03T00:00:00,9.0,5.0,5.0,3.0,Definitely,checkout was confusing,Website
+R000247,C00764,2026-09-20T00:00:00,5.0,3.0,,,Definitely,easy to use website,Email
+R000248,C00123,2024-08-06T00:00:00,8.0,1.0,5.0,2.0,Probably not,product differed slightly from photos,Email
+R000249,C00661,2025-12-15T00:00:00,8.0,3.0,2.0,,Probably,easy to use website,In-App
+R000250,C00694,2025-08-31T00:00:00,2.0,5.0,,5.0,Definitely,price could be better,SMS
+R000251,C00692,2024-08-24T00:00:00,5.0,4.0,3.0,,Definitely,price could be better,Email
+R000252,C00009,2026-07-05T00:00:00,7.0,5.0,5.0,,Probably,repeat customer and very satisfied,SMS
+R000253,C00706,2026-02-15T00:00:00,1.0,5.0,4.0,3.0,Definitely,checkout was confusing,Email
+R000254,C00359,2023-11-26T00:00:00,7.0,3.0,4.0,5.0,Definitely,packaging had too much plastic,In-App
+R000255,C00381,2026-07-31T00:00:00,9.0,2.0,3.0,,Definitely,price could be better,Email
+R000256,C00550,2026-08-15T00:00:00,5.0,5.0,4.0,4.0,Definitely,item arrived later than expected,Email
+R000257,C00521,2023-02-03T00:00:00,10.0,2.0,5.0,4.0,Not sure,product differed slightly from photos,Email
+R000258,C00146,2024-06-30T00:00:00,7.0,5.0,4.0,5.0,Probably not,great experience overall,In-App
+R000259,C00537,2023-01-12T00:00:00,7.0,4.0,5.0,4.0,Definitely,delivery updates were useful,Email
+R000260,C00599,2023-04-03T00:00:00,9.0,4.0,4.0,4.0,Not sure,checkout was confusing,In-App
+R000261,C00351,2023-11-19T00:00:00,9.0,5.0,4.0,4.0,Definitely,delivery updates were useful,Email
+R000262,C00608,2026-02-23T00:00:00,7.0,5.0,4.0,,Definitely,quick delivery and good packaging,Email
+R000263,C00256,2025-10-22T00:00:00,6.0,5.0,4.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000264,C00506,2024-07-02T00:00:00,10.0,4.0,4.0,3.0,Probably,repeat customer and very satisfied,In-App
+R000265,C00419,2025-04-01T00:00:00,9.0,5.0,5.0,5.0,Definitely,size was not as expected,Website
+R000266,C00398,2023-12-21T00:00:00,10.0,4.0,3.0,,Probably,easy to use website,Email
+R000267,C00571,2024-07-09T00:00:00,6.0,4.0,2.0,3.0,Definitely,great experience overall,Email
+R000268,C00683,2026-06-28T00:00:00,9.0,4.0,4.0,3.0,Definitely,packaging had too much plastic,SMS
+R000269,C00046,2023-09-13T00:00:00,6.0,5.0,5.0,5.0,Probably,support team was helpful,In-App
+R000270,C00051,2025-05-21T00:00:00,5.0,4.0,4.0,1.0,Probably,excellent product quality,In-App
+R000271,C00022,2026-03-06T00:00:00,8.0,5.0,5.0,5.0,Probably not,size was not as expected,Email
+R000272,C00655,2024-07-18T00:00:00,4.0,5.0,4.0,5.0,Probably,size was not as expected,Email
+R000273,C00373,2024-07-16T00:00:00,,4.0,4.0,5.0,Not sure,size was not as expected,In-App
+R000274,C00188,2025-12-16T00:00:00,10.0,5.0,4.0,4.0,Definitely,support team was helpful,In-App
+R000275,C00038,2024-08-04T00:00:00,9.0,5.0,4.0,,Probably,repeat customer and very satisfied,In-App
+R000276,C00338,2023-06-07T00:00:00,7.0,5.0,4.0,5.0,Not sure,item arrived later than expected,In-App
+R000277,C00548,2025-09-20T00:00:00,9.0,5.0,3.0,,Definitely,repeat customer and very satisfied,In-App
+R000278,C00057,2023-03-17T00:00:00,9.0,5.0,4.0,4.0,Not sure,checkout was confusing,In-App
+R000279,C00776,2023-08-17T00:00:00,8.0,4.0,5.0,,Probably not,checkout was confusing,Email
+R000280,C00434,2026-07-08T00:00:00,9.0,5.0,3.0,4.0,Definitely,excellent product quality,In-App
+R000281,C00441,2023-10-09T00:00:00,9.0,4.0,5.0,4.0,Definitely,product differed slightly from photos,In-App
+R000282,C00085,2023-08-20T00:00:00,7.0,4.0,4.0,,Definitely,repeat customer and very satisfied,In-App
+R000283,C00602,2025-04-10T00:00:00,8.0,5.0,5.0,1.0,Probably,product differed slightly from photos,Email
+R000284,C00193,2026-07-02T00:00:00,6.0,5.0,4.0,,Definitely,quick delivery and good packaging,Email
+R000285,C00374,2025-03-08T00:00:00,7.0,5.0,4.0,,Definitely,item arrived later than expected,Email
+R000286,C00776,2023-03-05T00:00:00,7.0,2.0,5.0,1.0,Definitely,will recommend to friends,In-App
+R000287,C00465,2024-12-16T00:00:00,9.0,3.0,2.0,,Probably,price could be better,SMS
+R000288,C00131,2023-08-14T00:00:00,6.0,4.0,2.0,5.0,Probably,support team was helpful,In-App
+R000289,C00551,2024-10-03T00:00:00,2.0,5.0,2.0,3.0,Not sure,packaging had too much plastic,Email
+R000290,C00004,2024-11-05T00:00:00,10.0,4.0,4.0,5.0,Probably,support team was helpful,In-App
+R000291,,2023-06-28T00:00:00,8.0,3.0,5.0,,Definitely,quick delivery and good packaging,In-App
+R000292,C00419,2025-04-07T00:00:00,10.0,4.0,5.0,,Definitely,great experience overall,Email
+R000293,C00007,2026-01-06T00:00:00,9.0,4.0,1.0,5.0,Probably,easy to use website,In-App
+R000294,C00447,2024-01-14T00:00:00,4.0,5.0,4.0,,Definitely,support team was helpful,In-App
+R000295,C00595,2023-05-12T00:00:00,10.0,5.0,2.0,,Probably,checkout was confusing,SMS
+R000296,,2023-08-08T00:00:00,9.0,5.0,3.0,4.0,Definitely,checkout was confusing,SMS
+R000297,C00083,2026-08-04T00:00:00,9.0,4.0,2.0,,Definitely,great experience overall,Email
+R000298,C00303,2026-08-09T00:00:00,9.0,4.0,4.0,,Definitely,packaging had too much plastic,SMS
+R000299,C00743,2025-10-30T00:00:00,4.0,5.0,4.0,3.0,Probably,product differed slightly from photos,In-App
+R000300,C00677,2026-01-26T00:00:00,7.0,4.0,,5.0,Definitely,size was not as expected,Website
+R000301,C00213,2026-06-29T00:00:00,1.0,3.0,5.0,3.0,Probably,packaging had too much plastic,In-App
+R000302,C00536,2023-07-15T00:00:00,10.0,5.0,4.0,,Definitely,price could be better,In-App
+R000303,C00360,2025-03-30T00:00:00,8.0,3.0,4.0,,Definitely,great experience overall,Website
+R000304,C00455,2023-02-13T00:00:00,9.0,4.0,4.0,,Definitely,delivery updates were useful,In-App
+R000305,C00521,2025-01-27T00:00:00,10.0,2.0,5.0,,Probably not,support team was helpful,SMS
+R000306,C00082,2026-06-15T00:00:00,7.0,3.0,5.0,5.0,Definitely,will recommend to friends,Email
+R000307,C00749,2025-01-17T00:00:00,5.0,4.0,4.0,4.0,Probably,great experience overall,Email
+R000308,C00246,2023-09-07T00:00:00,10.0,1.0,3.0,5.0,Probably,great experience overall,Email
+R000309,C00441,2025-05-13T00:00:00,7.0,5.0,1.0,4.0,Definitely,good value for money,In-App
+R000310,C00116,2025-09-06T00:00:00,8.0,3.0,3.0,5.0,Definitely,item arrived later than expected,In-App
+R000311,C00241,2026-04-19T00:00:00,7.0,5.0,4.0,4.0,Probably,will recommend to friends,SMS
+R000312,C00198,2023-03-12T00:00:00,6.0,2.0,4.0,3.0,Probably,quick delivery and good packaging,Email
+R000313,C00515,2023-03-30T00:00:00,6.0,4.0,5.0,,Probably,delivery updates were useful,In-App
+R000314,C00174,2026-05-02T00:00:00,5.0,4.0,5.0,4.0,Probably,size was not as expected,Email
+R000315,C00156,2025-08-28T00:00:00,9.0,5.0,5.0,5.0,Definitely,item arrived later than expected,Website
+R000316,C00002,2023-11-29T00:00:00,0.0,4.0,,,Probably,great experience overall,Email
+R000317,C00032,2026-05-08T00:00:00,5.0,1.0,5.0,,Probably,good value for money,SMS
+R000318,C00515,2026-06-18T00:00:00,6.0,3.0,5.0,5.0,Probably,great experience overall,Email
+R000319,C00602,2024-07-08T00:00:00,5.0,2.0,5.0,,Probably,good value for money,Website
+R000320,C00261,2026-04-05T00:00:00,8.0,5.0,3.0,5.0,Probably,price could be better,In-App
+R000321,C00425,2023-07-15T00:00:00,7.0,5.0,3.0,,Probably,easy to use website,Email
+R000322,C00464,2023-11-13T00:00:00,9.0,4.0,1.0,,Probably,support team was helpful,SMS
+R000323,C00001,2024-03-06T00:00:00,8.0,4.0,5.0,,Probably,packaging had too much plastic,SMS
+R000324,C00366,2025-08-09T00:00:00,8.0,5.0,4.0,,Definitely,size was not as expected,In-App
+R000325,C00159,2025-09-25T00:00:00,8.0,4.0,3.0,,Probably,good value for money,SMS
+R000326,,2026-05-27T00:00:00,4.0,5.0,4.0,,Definitely,good value for money,SMS
+R000327,C00669,2025-06-23T00:00:00,6.0,4.0,2.0,,Probably,good value for money,In-App
+R000328,,2025-05-05T00:00:00,9.0,4.0,4.0,5.0,Definitely,excellent product quality,SMS
+R000329,C00193,2025-11-21T00:00:00,9.0,4.0,5.0,2.0,Definitely,item arrived later than expected,SMS
+R000330,,2024-04-07T00:00:00,8.0,5.0,2.0,4.0,Probably not,delivery updates were useful,In-App
+R000331,C00587,2025-04-02T00:00:00,10.0,5.0,5.0,3.0,Definitely,size was not as expected,SMS
+R000332,C00747,2023-06-05T00:00:00,10.0,5.0,3.0,,Probably,packaging had too much plastic,In-App
+R000333,C00303,2024-04-28T00:00:00,8.0,3.0,3.0,1.0,Probably,item arrived later than expected,In-App
+R000334,,2023-10-14T00:00:00,10.0,4.0,1.0,4.0,Probably,repeat customer and very satisfied,SMS
+R000335,C00527,2023-10-09T00:00:00,3.0,4.0,4.0,3.0,Definitely,support team was helpful,Email
+R000336,C00121,2026-09-02T00:00:00,,5.0,2.0,3.0,Probably,size was not as expected,Website
+R000337,C00218,2025-11-12T00:00:00,8.0,5.0,3.0,,Probably,packaging had too much plastic,Email
+R000338,C00499,2023-10-07T00:00:00,6.0,3.0,4.0,4.0,Definitely,great experience overall,Email
+R000339,C00604,2024-08-02T00:00:00,9.0,3.0,4.0,4.0,Definitely,will recommend to friends,Email
+R000340,,2026-05-31T00:00:00,7.0,4.0,3.0,2.0,Definitely,excellent product quality,Email
+R000341,C00459,2026-01-29T00:00:00,4.0,5.0,5.0,,Definitely,repeat customer and very satisfied,SMS
+R000342,C00354,2026-03-15T00:00:00,7.0,,5.0,3.0,Definitely,excellent product quality,Email
+R000343,C00510,2023-08-15T00:00:00,7.0,4.0,4.0,4.0,Probably,packaging had too much plastic,In-App
+R000344,C00546,2023-01-25T00:00:00,9.0,5.0,4.0,4.0,Not sure,support team was helpful,Email
+R000345,C00712,2026-01-11T00:00:00,8.0,3.0,3.0,,Definitely,excellent product quality,SMS
+R000346,C00362,2023-07-03T00:00:00,6.0,4.0,,3.0,Probably,repeat customer and very satisfied,Email
+R000347,C00050,2024-09-06T00:00:00,8.0,3.0,3.0,4.0,Definitely,great experience overall,SMS
+R000348,C00365,2026-08-10T00:00:00,7.0,4.0,4.0,2.0,Definitely,quick delivery and good packaging,In-App
+R000349,C00451,2026-02-12T00:00:00,4.0,2.0,4.0,,Not sure,size was not as expected,In-App
+R000350,C00205,2023-07-15T00:00:00,,3.0,4.0,5.0,Probably,item arrived later than expected,In-App
+R000351,C00084,2023-12-30T00:00:00,8.0,5.0,4.0,3.0,Definitely,great experience overall,Website
+R000352,C00217,2023-11-20T00:00:00,9.0,,1.0,4.0,Probably,excellent product quality,Email
+R000353,C00057,2023-03-29T00:00:00,10.0,4.0,4.0,5.0,Definitely,support team was helpful,In-App
+R000354,C00450,2026-03-12T00:00:00,1.0,5.0,5.0,,Probably,will recommend to friends,Email
+R000355,C00649,2025-04-09T00:00:00,7.0,4.0,5.0,5.0,Not sure,quick delivery and good packaging,In-App
+R000356,C00700,2024-04-01T00:00:00,5.0,3.0,5.0,4.0,Definitely,delivery updates were useful,Website
+R000357,C00491,2024-07-29T00:00:00,10.0,3.0,4.0,,Not sure,packaging had too much plastic,Website
+R000358,,2024-09-26T00:00:00,1.0,5.0,5.0,4.0,Definitely,item arrived later than expected,In-App
+R000359,C00422,2025-08-30T00:00:00,7.0,4.0,4.0,5.0,Definitely,checkout was confusing,In-App
+R000360,C00637,2025-10-11T00:00:00,7.0,3.0,4.0,4.0,Not sure,great experience overall,SMS
+R000361,C00277,2024-07-06T00:00:00,9.0,3.0,1.0,5.0,Definitely,good value for money,SMS
+R000362,C00344,2025-01-17T00:00:00,7.0,5.0,5.0,,Definitely,packaging had too much plastic,Email
+R000363,C00464,2025-09-05T00:00:00,9.0,,4.0,,Definitely,packaging had too much plastic,Email
+R000364,C00277,2024-12-02T00:00:00,8.0,5.0,3.0,,Definitely,size was not as expected,Email
+R000365,C00500,2026-06-19T00:00:00,10.0,5.0,4.0,,Probably,great experience overall,SMS
+R000366,C00790,2024-10-25T00:00:00,9.0,5.0,4.0,,Probably,repeat customer and very satisfied,In-App
+R000367,,2025-04-27T00:00:00,10.0,3.0,5.0,,Definitely,excellent product quality,Email
+R000368,C00585,2025-08-24T00:00:00,9.0,4.0,4.0,4.0,Definitely,support team was helpful,In-App
+R000369,C00380,2025-10-07T00:00:00,7.0,5.0,4.0,5.0,Probably not,item arrived later than expected,Email
+R000370,C00772,2024-09-29T00:00:00,9.0,5.0,2.0,5.0,Probably,will recommend to friends,Email
+R000371,C00586,2024-08-10T00:00:00,10.0,1.0,3.0,4.0,Definitely,support team was helpful,SMS
+R000372,C00143,2024-08-15T00:00:00,10.0,5.0,1.0,3.0,Definitely,good value for money,In-App
+R000373,C00016,2023-01-27T00:00:00,8.0,5.0,4.0,3.0,Not sure,easy to use website,Website
+R000374,C00365,2025-07-17T00:00:00,0.0,5.0,5.0,4.0,Definitely,price could be better,SMS
+R000375,C00760,2026-06-06T00:00:00,6.0,3.0,3.0,,Definitely,item arrived later than expected,Email
+R000376,C00764,2025-04-04T00:00:00,9.0,4.0,4.0,,Not sure,excellent product quality,Email
+R000377,C00575,2026-08-11T00:00:00,,5.0,3.0,1.0,Definitely,packaging had too much plastic,In-App
+R000378,C00123,2026-05-05T00:00:00,8.0,4.0,4.0,,Probably,easy to use website,Email
+R000379,C00299,2025-12-01T00:00:00,,4.0,4.0,3.0,Definitely,good value for money,In-App
+R000380,C00598,2024-02-01T00:00:00,8.0,4.0,5.0,5.0,Definitely,good value for money,In-App
+R000381,C00565,2023-11-07T00:00:00,8.0,4.0,5.0,,Probably,easy to use website,In-App
+R000382,,2026-07-13T00:00:00,2.0,4.0,5.0,,Probably not,price could be better,In-App
+R000383,C00236,2025-07-17T00:00:00,7.0,3.0,4.0,5.0,Probably not,quick delivery and good packaging,In-App
+R000384,C00715,2023-09-29T00:00:00,6.0,4.0,5.0,4.0,Definitely,packaging had too much plastic,In-App
+R000385,C00300,2024-05-13T00:00:00,8.0,4.0,4.0,5.0,Probably not,delivery updates were useful,In-App
+R000386,C00040,2024-12-08T00:00:00,2.0,4.0,,3.0,Not sure,size was not as expected,In-App
+R000387,C00288,2024-08-16T00:00:00,8.0,5.0,4.0,5.0,Definitely,packaging had too much plastic,SMS
+R000388,C00627,2023-07-23T00:00:00,4.0,4.0,4.0,4.0,Definitely,price could be better,In-App
+R000389,,2025-08-02T00:00:00,6.0,4.0,2.0,5.0,Probably,price could be better,SMS
+R000390,C00212,2026-08-08T00:00:00,8.0,3.0,2.0,,Probably,easy to use website,In-App
+R000391,C00538,2025-07-08T00:00:00,5.0,4.0,4.0,,Probably,price could be better,In-App
+R000392,C00671,2023-03-19T00:00:00,7.0,5.0,4.0,5.0,Definitely,will recommend to friends,In-App
+R000393,C00192,2025-05-30T00:00:00,8.0,2.0,5.0,3.0,Probably not,product differed slightly from photos,Website
+R000394,C00666,2025-10-09T00:00:00,8.0,5.0,4.0,5.0,Definitely,excellent product quality,In-App
+R000395,C00550,2023-08-14T00:00:00,7.0,5.0,5.0,3.0,Probably,excellent product quality,In-App
+R000396,C00178,2023-05-05T00:00:00,8.0,5.0,4.0,3.0,Probably,repeat customer and very satisfied,In-App
+R000397,C00050,2024-05-07T00:00:00,8.0,4.0,4.0,3.0,Definitely,item arrived later than expected,SMS
+R000398,C00514,2026-06-28T00:00:00,9.0,5.0,4.0,4.0,Probably,packaging had too much plastic,In-App
+R000399,,2024-06-25T00:00:00,4.0,5.0,3.0,,Probably,delivery updates were useful,SMS
+R000400,C00010,2025-10-07T00:00:00,7.0,5.0,2.0,4.0,Definitely,checkout was confusing,In-App
+R000401,C00551,2025-08-12T00:00:00,0.0,3.0,5.0,,Probably,item arrived later than expected,In-App
+R000402,C00163,2025-06-28T00:00:00,7.0,3.0,4.0,,Definitely,checkout was confusing,In-App
+R000403,C00125,2025-10-11T00:00:00,4.0,,3.0,4.0,Definitely,support team was helpful,Email
+R000404,C00642,2023-10-13T00:00:00,10.0,4.0,5.0,5.0,Probably,repeat customer and very satisfied,Website
+R000405,C00024,2023-07-01T00:00:00,7.0,5.0,4.0,,Definitely,repeat customer and very satisfied,Email
+R000406,,2023-12-23T00:00:00,9.0,3.0,5.0,4.0,Probably,checkout was confusing,In-App
+R000407,C00794,2024-03-11T00:00:00,5.0,4.0,3.0,5.0,Definitely,size was not as expected,Email
+R000408,C00601,2026-04-18T00:00:00,5.0,3.0,,3.0,Not sure,checkout was confusing,Email
+R000409,C00245,2024-04-13T00:00:00,10.0,2.0,4.0,4.0,Probably,price could be better,Email
+R000410,C00195,2025-04-18T00:00:00,9.0,,4.0,2.0,Probably,checkout was confusing,Email
+R000411,C00235,2023-11-10T00:00:00,6.0,5.0,4.0,5.0,Definitely,size was not as expected,Email
+R000412,C00762,2025-09-18T00:00:00,7.0,5.0,,,Not sure,delivery updates were useful,Email
+R000413,C00635,2023-08-08T00:00:00,9.0,5.0,4.0,5.0,Probably not,will recommend to friends,In-App
+R000414,C00307,2025-09-23T00:00:00,3.0,5.0,,,Definitely,repeat customer and very satisfied,In-App
+R000415,C00165,2025-10-18T00:00:00,9.0,5.0,,,Definitely,will recommend to friends,SMS
+R000416,C00447,2026-07-04T00:00:00,6.0,5.0,4.0,3.0,Probably,quick delivery and good packaging,Email
+R000417,C00266,2025-08-16T00:00:00,9.0,4.0,5.0,,Probably,product differed slightly from photos,Website
+R000418,C00092,2024-02-05T00:00:00,3.0,2.0,3.0,3.0,Probably,checkout was confusing,In-App
+R000419,C00326,2026-01-31T00:00:00,0.0,4.0,5.0,5.0,Definitely,excellent product quality,In-App
+R000420,C00747,2026-06-08T00:00:00,10.0,4.0,2.0,,Definitely,checkout was confusing,SMS
+R000421,C00572,2024-03-29T00:00:00,7.0,4.0,4.0,5.0,Probably,support team was helpful,Email
+R000422,C00491,2023-12-26T00:00:00,7.0,5.0,1.0,5.0,Not sure,item arrived later than expected,SMS
+R000423,C00043,2025-05-15T00:00:00,,4.0,5.0,,Definitely,checkout was confusing,In-App
+R000424,,2024-04-30T00:00:00,10.0,2.0,5.0,,Probably,easy to use website,SMS
+R000425,C00467,2024-11-05T00:00:00,6.0,4.0,5.0,4.0,Definitely,checkout was confusing,In-App
+R000426,C00047,2025-11-13T00:00:00,,4.0,3.0,5.0,Definitely,delivery updates were useful,SMS
+R000427,C00740,2026-08-17T00:00:00,6.0,5.0,2.0,,Not sure,item arrived later than expected,SMS
+R000428,C00098,2026-09-29T00:00:00,7.0,4.0,4.0,5.0,Not sure,quick delivery and good packaging,Email
+R000429,,2023-05-26T00:00:00,9.0,4.0,4.0,,Definitely,quick delivery and good packaging,In-App
+R000430,C00595,2025-01-04T00:00:00,9.0,5.0,3.0,,Definitely,size was not as expected,Email
+R000431,C00666,2026-08-04T00:00:00,6.0,5.0,3.0,2.0,Not sure,support team was helpful,Email
+R000432,C00564,2024-01-16T00:00:00,9.0,5.0,3.0,5.0,Definitely,support team was helpful,Email
+R000433,C00279,2026-06-12T00:00:00,8.0,5.0,3.0,,Definitely,support team was helpful,Email
+R000434,C00354,2023-03-28T00:00:00,9.0,4.0,4.0,2.0,Probably,packaging had too much plastic,In-App
+R000435,C00183,2026-06-12T00:00:00,4.0,5.0,5.0,5.0,Definitely,item arrived later than expected,SMS
+R000436,C00163,2026-09-30T00:00:00,2.0,4.0,5.0,4.0,Definitely,repeat customer and very satisfied,SMS
+R000437,C00125,2026-04-25T00:00:00,10.0,3.0,4.0,5.0,Definitely,great experience overall,Email
+R000438,C00010,2024-03-17T00:00:00,5.0,3.0,4.0,5.0,Not sure,price could be better,Email
+R000439,C00096,2023-12-25T00:00:00,9.0,3.0,4.0,,Definitely,excellent product quality,SMS
+R000440,C00415,2026-01-29T00:00:00,5.0,5.0,4.0,,Not sure,delivery updates were useful,SMS
+R000441,C00114,2024-01-27T00:00:00,2.0,3.0,4.0,,Definitely,repeat customer and very satisfied,In-App
+R000442,C00302,2026-06-11T00:00:00,5.0,4.0,4.0,2.0,Definitely,delivery updates were useful,Email
+R000443,C00449,2025-08-08T00:00:00,9.0,5.0,4.0,5.0,Definitely,will recommend to friends,Website
+R000444,C00031,2025-03-08T00:00:00,10.0,5.0,4.0,5.0,Not sure,support team was helpful,In-App
+R000445,C00421,2024-02-27T00:00:00,0.0,5.0,5.0,,Definitely,size was not as expected,Email
+R000446,C00387,2023-06-25T00:00:00,0.0,5.0,3.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000447,C00495,2025-01-23T00:00:00,7.0,4.0,1.0,,Probably,repeat customer and very satisfied,Email
+R000448,C00766,2025-05-27T00:00:00,4.0,5.0,4.0,,Probably,will recommend to friends,Website
+R000449,,2023-06-21T00:00:00,7.0,4.0,2.0,3.0,Probably,price could be better,In-App
+R000450,C00321,2024-07-17T00:00:00,7.0,3.0,1.0,4.0,Definitely,excellent product quality,In-App
+R000451,C00620,2024-07-11T00:00:00,6.0,5.0,4.0,4.0,Definitely,will recommend to friends,Email
+R000452,C00746,2026-07-15T00:00:00,8.0,5.0,5.0,,Definitely,easy to use website,SMS
+R000453,C00498,2023-10-13T00:00:00,10.0,4.0,,,Probably,great experience overall,Website
+R000454,C00108,2024-04-09T00:00:00,8.0,4.0,2.0,1.0,Probably,checkout was confusing,In-App
+R000455,,2024-02-22T00:00:00,,3.0,5.0,,Definitely,price could be better,Email
+R000456,C00671,2025-12-02T00:00:00,4.0,4.0,4.0,,Probably,good value for money,Email
+R000457,C00443,2024-12-16T00:00:00,5.0,4.0,3.0,4.0,Probably,will recommend to friends,In-App
+R000458,C00787,2026-03-26T00:00:00,9.0,,4.0,,Probably,great experience overall,Email
+R000459,C00397,2025-12-03T00:00:00,8.0,4.0,1.0,,Definitely,packaging had too much plastic,SMS
+R000460,C00785,2024-09-28T00:00:00,2.0,4.0,5.0,4.0,Not sure,checkout was confusing,SMS
+R000461,C00026,2026-08-21T00:00:00,10.0,4.0,5.0,2.0,Probably not,excellent product quality,In-App
+R000462,C00483,2025-05-20T00:00:00,9.0,5.0,5.0,,Definitely,size was not as expected,In-App
+R000463,C00247,2023-03-14T00:00:00,8.0,4.0,5.0,4.0,Probably,packaging had too much plastic,In-App
+R000464,C00375,2025-07-05T00:00:00,10.0,,3.0,3.0,Definitely,size was not as expected,In-App
+R000465,C00602,2025-04-18T00:00:00,9.0,4.0,4.0,4.0,Probably,good value for money,Email
+R000466,C00166,2024-11-01T00:00:00,5.0,4.0,4.0,5.0,Probably not,easy to use website,Email
+R000467,C00008,2025-08-02T00:00:00,7.0,5.0,5.0,,Definitely,repeat customer and very satisfied,Email
+R000468,C00354,2023-05-26T00:00:00,9.0,3.0,4.0,3.0,Definitely,size was not as expected,In-App
+R000469,C00090,2026-01-24T00:00:00,8.0,4.0,2.0,,Definitely,price could be better,In-App
+R000470,C00236,2024-08-17T00:00:00,5.0,5.0,4.0,4.0,Definitely,great experience overall,In-App
+R000471,C00033,2024-07-06T00:00:00,9.0,4.0,3.0,4.0,Definitely,product differed slightly from photos,Website
+R000472,C00126,2026-06-05T00:00:00,9.0,4.0,5.0,5.0,Probably,product differed slightly from photos,Email
+R000473,C00240,2026-06-18T00:00:00,5.0,4.0,4.0,4.0,Not sure,item arrived later than expected,SMS
+R000474,,2025-09-15T00:00:00,7.0,3.0,3.0,4.0,Definitely,delivery updates were useful,Email
+R000475,C00301,2025-11-17T00:00:00,6.0,3.0,5.0,5.0,Definitely,great experience overall,Email
+R000476,,2025-11-19T00:00:00,6.0,3.0,5.0,5.0,Probably,checkout was confusing,Email
+R000477,C00268,2026-03-27T00:00:00,8.0,3.0,3.0,,Definitely,price could be better,In-App
+R000478,C00773,2024-12-10T00:00:00,7.0,4.0,5.0,5.0,Definitely,great experience overall,In-App
+R000479,C00691,2023-11-21T00:00:00,3.0,4.0,4.0,,Definitely,good value for money,Website
+R000480,C00785,2025-02-19T00:00:00,8.0,,5.0,5.0,Definitely,support team was helpful,SMS
+R000481,C00418,2024-04-03T00:00:00,9.0,3.0,5.0,5.0,Definitely,packaging had too much plastic,SMS
+R000482,C00591,2023-08-16T00:00:00,9.0,3.0,4.0,3.0,Definitely,product differed slightly from photos,In-App
+R000483,C00672,2023-03-31T00:00:00,9.0,3.0,4.0,5.0,Definitely,product differed slightly from photos,In-App
+R000484,C00593,2024-02-13T00:00:00,7.0,2.0,5.0,4.0,Definitely,great experience overall,In-App
+R000485,C00499,2024-02-29T00:00:00,8.0,4.0,2.0,,Definitely,packaging had too much plastic,SMS
+R000486,C00736,2024-04-15T00:00:00,7.0,4.0,5.0,5.0,Probably,size was not as expected,Email
+R000487,,2024-08-18T00:00:00,8.0,4.0,4.0,2.0,Definitely,checkout was confusing,In-App
+R000488,C00490,2025-11-06T00:00:00,10.0,5.0,5.0,,Definitely,good value for money,Email
+R000489,C00193,2024-06-09T00:00:00,1.0,4.0,5.0,2.0,Definitely,packaging had too much plastic,Email
+R000490,C00155,2023-03-13T00:00:00,9.0,3.0,5.0,,Definitely,will recommend to friends,Website
+R000491,C00036,2024-03-04T00:00:00,7.0,4.0,4.0,5.0,Definitely,great experience overall,In-App
+R000492,C00669,2024-04-29T00:00:00,8.0,2.0,5.0,5.0,Probably,quick delivery and good packaging,In-App
+R000493,C00563,2024-04-12T00:00:00,9.0,5.0,1.0,,Definitely,great experience overall,In-App
+R000494,C00770,2026-06-09T00:00:00,4.0,5.0,5.0,3.0,Probably,delivery updates were useful,Email
+R000495,C00617,2023-07-31T00:00:00,8.0,5.0,5.0,3.0,Definitely,repeat customer and very satisfied,Email
+R000496,,2024-12-12T00:00:00,9.0,5.0,,4.0,Definitely,item arrived later than expected,SMS
+R000497,C00252,2026-09-29T00:00:00,10.0,4.0,5.0,5.0,Probably,price could be better,In-App
+R000498,C00765,2023-07-20T00:00:00,8.0,5.0,5.0,5.0,Probably,size was not as expected,Email
+R000499,C00171,2026-07-06T00:00:00,7.0,3.0,5.0,4.0,Not sure,size was not as expected,Email
+R000500,C00288,2023-02-08T00:00:00,10.0,4.0,5.0,4.0,Probably,product differed slightly from photos,SMS
+R000501,C00278,2026-07-19T00:00:00,8.0,4.0,4.0,5.0,Probably,packaging had too much plastic,Email
+R000502,C00600,2023-05-04T00:00:00,6.0,4.0,5.0,1.0,Definitely,item arrived later than expected,In-App
+R000503,C00036,2026-04-10T00:00:00,9.0,2.0,4.0,5.0,Probably,great experience overall,In-App
+R000504,C00245,2023-06-22T00:00:00,5.0,5.0,5.0,3.0,Definitely,good value for money,Email
+R000505,C00167,2024-12-14T00:00:00,9.0,3.0,5.0,5.0,Definitely,product differed slightly from photos,In-App
+R000506,,2025-08-02T00:00:00,0.0,5.0,3.0,5.0,Definitely,support team was helpful,In-App
+R000507,C00252,2023-07-16T00:00:00,10.0,1.0,3.0,4.0,Probably,packaging had too much plastic,In-App
+R000508,C00552,2025-11-08T00:00:00,6.0,,5.0,3.0,Not sure,good value for money,Email
+R000509,C00751,2023-02-26T00:00:00,9.0,3.0,3.0,5.0,Probably,price could be better,In-App
+R000510,,2025-10-29T00:00:00,10.0,4.0,5.0,5.0,Definitely,great experience overall,In-App
+R000511,C00197,2023-09-28T00:00:00,8.0,5.0,3.0,4.0,Probably,great experience overall,In-App
+R000512,C00537,2026-04-15T00:00:00,1.0,5.0,,4.0,Probably,size was not as expected,In-App
+R000513,C00618,2023-06-08T00:00:00,7.0,4.0,4.0,5.0,Probably,packaging had too much plastic,Website
+R000514,C00470,2023-08-30T00:00:00,7.0,4.0,4.0,4.0,Probably,excellent product quality,In-App
+R000515,C00044,2023-10-24T00:00:00,9.0,5.0,4.0,,Definitely,repeat customer and very satisfied,SMS
+R000516,C00795,2025-09-22T00:00:00,8.0,4.0,5.0,4.0,Definitely,delivery updates were useful,In-App
+R000517,,2023-03-13T00:00:00,8.0,4.0,3.0,5.0,Not sure,checkout was confusing,Email
+R000518,C00516,2026-09-19T00:00:00,9.0,1.0,1.0,,Not sure,checkout was confusing,SMS
+R000519,C00563,2024-01-03T00:00:00,9.0,3.0,,4.0,Probably,will recommend to friends,Email
+R000520,C00769,2026-06-28T00:00:00,6.0,5.0,3.0,,Not sure,item arrived later than expected,In-App
+R000521,C00160,2024-05-29T00:00:00,3.0,5.0,5.0,3.0,Definitely,great experience overall,In-App
+R000522,,2023-01-19T00:00:00,7.0,3.0,4.0,,Not sure,packaging had too much plastic,Email
+R000523,C00790,2023-09-01T00:00:00,2.0,5.0,2.0,,Not sure,delivery updates were useful,In-App
+R000524,,2023-03-12T00:00:00,7.0,4.0,3.0,2.0,Definitely,will recommend to friends,In-App
+R000525,C00281,2026-03-21T00:00:00,6.0,4.0,5.0,4.0,Probably,will recommend to friends,Website
+R000526,C00203,2025-01-14T00:00:00,8.0,5.0,4.0,,Not sure,easy to use website,SMS
+R000527,,2025-12-20T00:00:00,7.0,5.0,4.0,,Not sure,quick delivery and good packaging,SMS
+R000528,C00797,2025-06-25T00:00:00,7.0,3.0,5.0,3.0,Definitely,price could be better,In-App
+R000529,C00298,2026-01-23T00:00:00,10.0,5.0,3.0,5.0,Definitely,delivery updates were useful,SMS
+R000530,C00031,2026-05-10T00:00:00,8.0,4.0,2.0,5.0,Probably,good value for money,SMS
+R000531,C00734,2025-02-23T00:00:00,7.0,5.0,3.0,3.0,Probably not,price could be better,Email
+R000532,C00693,2024-02-22T00:00:00,10.0,5.0,5.0,3.0,Definitely,packaging had too much plastic,Email
+R000533,C00129,2026-06-22T00:00:00,6.0,4.0,5.0,,Definitely,quick delivery and good packaging,In-App
+R000534,,2023-05-08T00:00:00,9.0,5.0,4.0,5.0,Probably,price could be better,Website
+R000535,C00452,2025-04-08T00:00:00,9.0,,1.0,4.0,Definitely,delivery updates were useful,Email
+R000536,C00416,2023-03-27T00:00:00,8.0,4.0,4.0,4.0,Definitely,item arrived later than expected,Email
+R000537,C00785,2024-10-22T00:00:00,10.0,4.0,4.0,5.0,Probably not,delivery updates were useful,Website
+R000538,,2025-06-02T00:00:00,10.0,3.0,5.0,5.0,Definitely,checkout was confusing,Email
+R000539,C00184,2025-05-25T00:00:00,7.0,2.0,4.0,,Definitely,product differed slightly from photos,Website
+R000540,C00157,2024-11-06T00:00:00,7.0,5.0,2.0,,Definitely,quick delivery and good packaging,Email
+R000541,C00207,2023-09-13T00:00:00,5.0,4.0,5.0,3.0,Definitely,price could be better,In-App
+R000542,C00736,2025-03-17T00:00:00,8.0,5.0,3.0,,Not sure,price could be better,SMS
+R000543,C00065,2026-06-20T00:00:00,8.0,5.0,,,Probably,price could be better,SMS
+R000544,C00772,2026-05-07T00:00:00,9.0,4.0,4.0,3.0,Probably,price could be better,In-App
+R000545,C00234,2023-05-11T00:00:00,8.0,3.0,4.0,4.0,Definitely,price could be better,Email
+R000546,C00481,2026-05-21T00:00:00,7.0,3.0,4.0,,Definitely,great experience overall,In-App
+R000547,C00023,2025-01-22T00:00:00,5.0,4.0,3.0,,Definitely,checkout was confusing,SMS
+R000548,C00354,2025-10-29T00:00:00,4.0,4.0,4.0,,Definitely,size was not as expected,Email
+R000549,C00094,2024-11-14T00:00:00,7.0,,,5.0,Definitely,quick delivery and good packaging,Email
+R000550,C00800,2025-04-27T00:00:00,5.0,4.0,3.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000551,C00250,2025-09-15T00:00:00,7.0,4.0,5.0,5.0,Probably not,packaging had too much plastic,Email
+R000552,C00611,2026-09-30T00:00:00,9.0,1.0,4.0,4.0,Probably,packaging had too much plastic,Website
+R000553,C00613,2025-11-29T00:00:00,10.0,5.0,5.0,,Definitely,repeat customer and very satisfied,Email
+R000554,C00579,2024-03-23T00:00:00,9.0,4.0,4.0,4.0,Definitely,repeat customer and very satisfied,In-App
+R000555,C00776,2026-08-01T00:00:00,6.0,4.0,5.0,2.0,Definitely,price could be better,In-App
+R000556,C00244,2025-02-24T00:00:00,8.0,4.0,5.0,,Probably,support team was helpful,In-App
+R000557,C00542,2025-09-23T00:00:00,10.0,4.0,4.0,,Definitely,product differed slightly from photos,SMS
+R000558,C00018,2026-07-10T00:00:00,8.0,3.0,4.0,5.0,Definitely,excellent product quality,Website
+R000559,C00195,2025-10-10T00:00:00,6.0,5.0,5.0,,Probably,repeat customer and very satisfied,In-App
+R000560,C00733,2025-06-11T00:00:00,10.0,4.0,2.0,1.0,Definitely,great experience overall,In-App
+R000561,,2024-01-03T00:00:00,8.0,5.0,4.0,,Probably not,great experience overall,In-App
+R000562,C00194,2026-02-23T00:00:00,9.0,1.0,1.0,3.0,Probably,quick delivery and good packaging,In-App
+R000563,C00271,2025-06-19T00:00:00,8.0,5.0,5.0,5.0,Definitely,size was not as expected,Website
+R000564,C00499,2026-01-05T00:00:00,9.0,5.0,3.0,5.0,Definitely,delivery updates were useful,Email
+R000565,C00587,2023-02-27T00:00:00,10.0,3.0,4.0,5.0,Not sure,easy to use website,In-App
+R000566,C00077,2026-07-25T00:00:00,7.0,5.0,4.0,,Probably,checkout was confusing,In-App
+R000567,,2025-11-05T00:00:00,9.0,4.0,4.0,5.0,Definitely,support team was helpful,In-App
+R000568,C00175,2023-05-01T00:00:00,9.0,5.0,5.0,3.0,Definitely,checkout was confusing,Website
+R000569,C00494,2023-06-20T00:00:00,8.0,,5.0,,Probably,item arrived later than expected,Email
+R000570,C00137,2025-09-15T00:00:00,,4.0,2.0,,Definitely,quick delivery and good packaging,Website
+R000571,C00090,2023-03-02T00:00:00,,1.0,4.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000572,C00153,2025-12-04T00:00:00,8.0,3.0,5.0,5.0,Definitely,product differed slightly from photos,Website
+R000573,C00574,2024-10-17T00:00:00,,5.0,3.0,5.0,Not sure,excellent product quality,In-App
+R000574,C00424,2023-07-01T00:00:00,9.0,5.0,1.0,,Definitely,size was not as expected,SMS
+R000575,C00688,2026-05-14T00:00:00,8.0,5.0,5.0,5.0,Definitely,excellent product quality,Email
+R000576,C00287,2025-04-15T00:00:00,9.0,5.0,5.0,3.0,Definitely,packaging had too much plastic,SMS
+R000577,C00624,2024-11-20T00:00:00,9.0,,2.0,3.0,Probably,size was not as expected,In-App
+R000578,C00211,2025-03-19T00:00:00,10.0,3.0,4.0,4.0,Probably,item arrived later than expected,Website
+R000579,C00631,2024-11-17T00:00:00,,1.0,4.0,,Definitely,packaging had too much plastic,Email
+R000580,C00173,2025-10-24T00:00:00,7.0,,4.0,3.0,Probably,product differed slightly from photos,In-App
+R000581,C00358,2025-10-01T00:00:00,8.0,3.0,5.0,4.0,Definitely,will recommend to friends,SMS
+R000582,C00217,2025-03-31T00:00:00,8.0,5.0,5.0,2.0,Not sure,packaging had too much plastic,Email
+R000583,C00126,2025-05-24T00:00:00,9.0,,5.0,,Probably,price could be better,In-App
+R000584,C00248,2026-02-12T00:00:00,8.0,3.0,4.0,2.0,Not sure,item arrived later than expected,Website
+R000585,C00390,2025-01-13T00:00:00,8.0,3.0,4.0,,Definitely,delivery updates were useful,In-App
+R000586,C00122,2026-09-23T00:00:00,10.0,4.0,3.0,,Probably,good value for money,In-App
+R000587,,2026-03-27T00:00:00,8.0,5.0,4.0,4.0,Probably,product differed slightly from photos,SMS
+R000588,C00498,2025-05-18T00:00:00,7.0,5.0,2.0,3.0,Definitely,packaging had too much plastic,Website
+R000589,C00166,2023-11-04T00:00:00,8.0,4.0,2.0,4.0,Definitely,easy to use website,SMS
+R000590,C00624,2026-05-03T00:00:00,9.0,4.0,5.0,,Not sure,product differed slightly from photos,In-App
+R000591,C00271,2023-10-17T00:00:00,8.0,4.0,4.0,5.0,Definitely,good value for money,Email
+R000592,C00473,2024-09-01T00:00:00,5.0,4.0,4.0,4.0,Probably,price could be better,Email
+R000593,C00625,2023-02-13T00:00:00,7.0,4.0,2.0,,Probably,checkout was confusing,Website
+R000594,C00729,2024-03-15T00:00:00,9.0,3.0,5.0,,Not sure,product differed slightly from photos,SMS
+R000595,C00487,2023-07-26T00:00:00,6.0,1.0,4.0,5.0,Definitely,great experience overall,Email
+R000596,C00466,2026-06-09T00:00:00,7.0,5.0,3.0,,Probably not,product differed slightly from photos,In-App
+R000597,C00312,2023-01-11T00:00:00,10.0,1.0,4.0,5.0,Definitely,item arrived later than expected,Email
+R000598,C00548,2023-01-14T00:00:00,,4.0,4.0,5.0,Definitely,item arrived later than expected,Email
+R000599,C00133,2023-07-11T00:00:00,6.0,5.0,4.0,,Definitely,repeat customer and very satisfied,Email
+R000600,C00750,2025-12-30T00:00:00,3.0,5.0,4.0,5.0,Definitely,great experience overall,SMS
+R000601,C00208,2025-10-29T00:00:00,10.0,4.0,4.0,4.0,Definitely,great experience overall,SMS
+R000602,C00332,2024-04-17T00:00:00,9.0,5.0,5.0,5.0,Definitely,delivery updates were useful,Website
+R000603,C00489,2023-12-08T00:00:00,7.0,4.0,3.0,,Definitely,checkout was confusing,SMS
+R000604,C00333,2023-04-18T00:00:00,9.0,,4.0,4.0,Definitely,easy to use website,Email
+R000605,C00049,2024-09-30T00:00:00,3.0,,5.0,,Probably,support team was helpful,SMS
+R000606,C00145,2025-05-16T00:00:00,7.0,5.0,2.0,5.0,Probably,checkout was confusing,Email
+R000607,C00773,2025-03-21T00:00:00,7.0,,5.0,,Probably,delivery updates were useful,SMS
+R000608,C00512,2024-04-03T00:00:00,7.0,4.0,4.0,4.0,Probably,support team was helpful,Email
+R000609,C00470,2025-04-12T00:00:00,7.0,5.0,4.0,,Probably,delivery updates were useful,In-App
+R000610,C00008,2026-03-18T00:00:00,9.0,4.0,4.0,5.0,Not sure,support team was helpful,Website
+R000611,C00191,2024-06-27T00:00:00,1.0,3.0,3.0,5.0,Probably,will recommend to friends,Email
+R000612,C00759,2023-04-24T00:00:00,10.0,4.0,4.0,,Probably,support team was helpful,Website
+R000613,C00012,2025-09-19T00:00:00,10.0,5.0,4.0,3.0,Probably,delivery updates were useful,In-App
+R000614,C00623,2025-12-15T00:00:00,8.0,5.0,3.0,4.0,Probably,great experience overall,Website
+R000615,C00590,2025-06-16T00:00:00,7.0,4.0,4.0,5.0,Definitely,product differed slightly from photos,Email
+R000616,C00796,2025-01-02T00:00:00,4.0,4.0,5.0,,Definitely,good value for money,Email
+R000617,C00290,2024-04-19T00:00:00,10.0,4.0,2.0,4.0,Definitely,good value for money,In-App
+R000618,C00285,2025-09-18T00:00:00,8.0,5.0,4.0,,Probably,delivery updates were useful,Website
+R000619,C00350,2024-01-17T00:00:00,7.0,5.0,5.0,5.0,Definitely,quick delivery and good packaging,In-App
+R000620,C00055,2024-05-15T00:00:00,6.0,1.0,4.0,4.0,Definitely,good value for money,Email
+R000621,C00790,2025-09-16T00:00:00,9.0,3.0,4.0,,Definitely,easy to use website,In-App
+R000622,C00158,2023-01-30T00:00:00,9.0,4.0,4.0,4.0,Definitely,item arrived later than expected,Email
+R000623,C00727,2023-08-17T00:00:00,10.0,1.0,5.0,,Definitely,delivery updates were useful,In-App
+R000624,C00532,2026-05-08T00:00:00,10.0,4.0,3.0,4.0,Definitely,repeat customer and very satisfied,In-App
+R000625,C00659,2026-05-19T00:00:00,10.0,5.0,3.0,,Definitely,support team was helpful,In-App
+R000626,C00248,2023-05-19T00:00:00,9.0,5.0,4.0,,Probably,price could be better,In-App
+R000627,C00768,2025-05-20T00:00:00,,3.0,4.0,5.0,Probably,size was not as expected,In-App
+R000628,C00480,2025-09-15T00:00:00,7.0,5.0,4.0,,Probably,great experience overall,In-App
+R000629,C00341,2025-02-22T00:00:00,8.0,3.0,1.0,,Not sure,delivery updates were useful,In-App
+R000630,C00382,2025-12-25T00:00:00,7.0,3.0,2.0,2.0,Probably,checkout was confusing,In-App
+R000631,C00351,2026-08-18T00:00:00,4.0,4.0,2.0,,Probably,delivery updates were useful,SMS
+R000632,C00236,2025-03-27T00:00:00,7.0,5.0,4.0,,Probably,delivery updates were useful,SMS
+R000633,C00213,2026-07-22T00:00:00,8.0,4.0,,4.0,Probably,excellent product quality,Email
+R000634,C00039,2023-06-05T00:00:00,9.0,3.0,1.0,5.0,Definitely,great experience overall,Email
+R000635,C00025,2025-11-19T00:00:00,,4.0,4.0,,Definitely,item arrived later than expected,Email
+R000636,C00089,2025-09-25T00:00:00,9.0,4.0,5.0,,Definitely,delivery updates were useful,In-App
+R000637,C00235,2024-12-26T00:00:00,7.0,4.0,4.0,,Probably,checkout was confusing,In-App
+R000638,C00211,2023-09-24T00:00:00,6.0,4.0,5.0,,Probably,delivery updates were useful,In-App
+R000639,C00735,2023-07-08T00:00:00,9.0,4.0,5.0,5.0,Definitely,support team was helpful,In-App
+R000640,C00388,2024-10-25T00:00:00,,3.0,4.0,2.0,Definitely,checkout was confusing,In-App
+R000641,C00540,2026-01-05T00:00:00,8.0,4.0,5.0,,Definitely,support team was helpful,Email
+R000642,,2023-11-14T00:00:00,6.0,4.0,3.0,3.0,Probably,item arrived later than expected,Email
+R000643,C00749,2023-10-31T00:00:00,2.0,4.0,,4.0,Probably,will recommend to friends,In-App
+R000644,C00411,2023-08-15T00:00:00,9.0,4.0,4.0,,Probably,good value for money,Email
+R000645,C00700,2023-10-24T00:00:00,7.0,5.0,5.0,5.0,Probably not,price could be better,Email
+R000646,C00428,2023-07-09T00:00:00,3.0,3.0,5.0,5.0,Definitely,checkout was confusing,SMS
+R000647,C00675,2024-08-06T00:00:00,9.0,5.0,,3.0,Not sure,easy to use website,In-App
+R000648,C00293,2023-04-10T00:00:00,5.0,5.0,2.0,3.0,Definitely,item arrived later than expected,Email
+R000649,C00779,2026-01-17T00:00:00,8.0,4.0,4.0,4.0,Definitely,will recommend to friends,In-App
+R000650,C00232,2024-03-01T00:00:00,6.0,5.0,5.0,3.0,Probably not,repeat customer and very satisfied,Email
+R000651,C00485,2023-05-29T00:00:00,8.0,3.0,4.0,,Probably,price could be better,Email
+R000652,C00731,2025-03-09T00:00:00,6.0,3.0,5.0,3.0,Not sure,checkout was confusing,Email
+R000653,C00407,2026-04-16T00:00:00,7.0,4.0,5.0,,Definitely,will recommend to friends,Email
+R000654,C00513,2023-08-30T00:00:00,10.0,5.0,5.0,3.0,Probably,product differed slightly from photos,In-App
+R000655,C00711,2025-03-09T00:00:00,6.0,5.0,2.0,,Probably,good value for money,SMS
+R000656,C00599,2023-07-07T00:00:00,9.0,4.0,4.0,4.0,Not sure,great experience overall,In-App
+R000657,C00723,2025-08-24T00:00:00,6.0,4.0,3.0,,Probably,checkout was confusing,In-App
+R000658,C00108,2026-06-03T00:00:00,9.0,4.0,3.0,4.0,Probably,packaging had too much plastic,In-App
+R000659,C00407,2023-05-10T00:00:00,7.0,5.0,3.0,,Definitely,quick delivery and good packaging,In-App
+R000660,C00719,2025-05-31T00:00:00,7.0,3.0,3.0,,Probably not,delivery updates were useful,Website
+R000661,C00337,2024-05-02T00:00:00,8.0,5.0,5.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000662,C00353,2024-05-03T00:00:00,9.0,4.0,3.0,4.0,Definitely,checkout was confusing,Email
+R000663,C00348,2026-01-27T00:00:00,8.0,5.0,,4.0,Probably,packaging had too much plastic,In-App
+R000664,C00528,2024-09-02T00:00:00,5.0,5.0,2.0,4.0,Not sure,great experience overall,In-App
+R000665,C00655,2023-08-23T00:00:00,7.0,4.0,3.0,4.0,Definitely,great experience overall,Email
+R000666,C00713,2026-04-24T00:00:00,8.0,1.0,4.0,,Definitely,size was not as expected,SMS
+R000667,C00019,2025-01-03T00:00:00,9.0,5.0,2.0,,Definitely,excellent product quality,In-App
+R000668,C00077,2024-09-09T00:00:00,,1.0,3.0,5.0,Probably,packaging had too much plastic,SMS
+R000669,C00413,2023-07-11T00:00:00,8.0,2.0,,,Definitely,item arrived later than expected,Email
+R000670,,2023-07-22T00:00:00,7.0,3.0,4.0,5.0,Probably not,price could be better,Email
+R000671,C00045,2023-07-17T00:00:00,6.0,3.0,3.0,,Probably,price could be better,Email
+R000672,C00054,2025-05-05T00:00:00,8.0,4.0,4.0,1.0,Not sure,quick delivery and good packaging,SMS
+R000673,C00188,2025-04-23T00:00:00,0.0,4.0,4.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000674,C00618,2026-05-22T00:00:00,10.0,4.0,5.0,3.0,Probably,great experience overall,Email
+R000675,C00004,2024-04-29T00:00:00,1.0,5.0,5.0,4.0,Probably,excellent product quality,In-App
+R000676,,2024-07-24T00:00:00,2.0,4.0,5.0,2.0,Probably,packaging had too much plastic,Email
+R000677,C00715,2024-06-29T00:00:00,5.0,4.0,5.0,,Definitely,item arrived later than expected,In-App
+R000678,C00362,2024-03-02T00:00:00,9.0,4.0,3.0,3.0,Definitely,product differed slightly from photos,In-App
+R000679,C00241,2025-03-26T00:00:00,5.0,3.0,4.0,3.0,Not sure,delivery updates were useful,In-App
+R000680,C00445,2023-08-12T00:00:00,6.0,4.0,3.0,5.0,Not sure,good value for money,Website
+R000681,C00233,2025-04-22T00:00:00,9.0,4.0,5.0,,Definitely,item arrived later than expected,Website
+R000682,C00108,2023-10-08T00:00:00,4.0,4.0,1.0,,Probably,delivery updates were useful,In-App
+R000683,C00014,2026-03-23T00:00:00,9.0,5.0,5.0,,Definitely,quick delivery and good packaging,SMS
+R000684,C00699,2025-02-19T00:00:00,8.0,4.0,2.0,4.0,Probably,packaging had too much plastic,Email
+R000685,C00469,2025-05-02T00:00:00,9.0,3.0,2.0,2.0,Probably,checkout was confusing,In-App
+R000686,C00377,2025-04-09T00:00:00,7.0,,5.0,,Definitely,great experience overall,Email
+R000687,C00396,2026-07-03T00:00:00,7.0,4.0,,,Probably not,quick delivery and good packaging,SMS
+R000688,,2024-05-24T00:00:00,,4.0,2.0,,Definitely,easy to use website,Email
+R000689,C00002,2025-07-31T00:00:00,2.0,4.0,3.0,,Probably,good value for money,In-App
+R000690,C00581,2024-05-21T00:00:00,9.0,5.0,4.0,,Probably,checkout was confusing,In-App
+R000691,C00325,2023-04-03T00:00:00,8.0,5.0,2.0,5.0,Probably,packaging had too much plastic,In-App
+R000692,C00145,2026-04-08T00:00:00,7.0,5.0,4.0,2.0,Probably,support team was helpful,Website
+R000693,C00719,2026-04-07T00:00:00,,4.0,3.0,4.0,Probably,quick delivery and good packaging,Email
+R000694,C00235,2025-04-06T00:00:00,9.0,4.0,5.0,4.0,Definitely,excellent product quality,In-App
+R000695,C00561,2024-09-28T00:00:00,8.0,4.0,5.0,,Probably,delivery updates were useful,SMS
+R000696,C00659,2025-05-29T00:00:00,4.0,4.0,5.0,4.0,Probably,great experience overall,Email
+R000697,C00109,2024-03-26T00:00:00,2.0,3.0,5.0,5.0,Definitely,product differed slightly from photos,In-App
+R000698,C00759,2025-09-11T00:00:00,7.0,3.0,2.0,4.0,Not sure,delivery updates were useful,In-App
+R000699,C00076,2026-03-03T00:00:00,8.0,4.0,3.0,5.0,Definitely,excellent product quality,In-App
+R000700,C00367,2026-09-24T00:00:00,8.0,3.0,5.0,3.0,Probably,easy to use website,In-App
+R000701,C00095,2025-01-07T00:00:00,10.0,2.0,5.0,5.0,Probably,price could be better,In-App
+R000702,C00124,2023-01-30T00:00:00,8.0,4.0,4.0,5.0,Definitely,item arrived later than expected,In-App
+R000703,C00508,2024-12-09T00:00:00,9.0,1.0,4.0,4.0,Not sure,support team was helpful,In-App
+R000704,,2023-02-14T00:00:00,2.0,4.0,3.0,5.0,Probably,support team was helpful,In-App
+R000705,C00347,2023-11-19T00:00:00,6.0,5.0,5.0,5.0,Probably,excellent product quality,Email
+R000706,C00445,2025-01-10T00:00:00,10.0,4.0,4.0,4.0,Not sure,good value for money,SMS
+R000707,C00140,2025-07-26T00:00:00,9.0,4.0,3.0,4.0,Probably not,support team was helpful,Website
+R000708,C00012,2023-02-26T00:00:00,5.0,4.0,3.0,5.0,Not sure,repeat customer and very satisfied,In-App
+R000709,C00775,2026-03-19T00:00:00,6.0,3.0,5.0,,Definitely,good value for money,In-App
+R000710,C00491,2023-12-15T00:00:00,5.0,5.0,5.0,5.0,Probably,price could be better,Email
+R000711,C00032,2026-01-19T00:00:00,7.0,4.0,3.0,5.0,Definitely,item arrived later than expected,Email
+R000712,C00464,2024-04-07T00:00:00,5.0,4.0,4.0,5.0,Definitely,easy to use website,In-App
+R000713,C00501,2026-09-19T00:00:00,8.0,3.0,2.0,4.0,Definitely,product differed slightly from photos,In-App
+R000714,C00566,2024-03-28T00:00:00,7.0,4.0,5.0,,Definitely,good value for money,SMS
+R000715,C00580,2023-11-16T00:00:00,7.0,3.0,3.0,3.0,Probably,will recommend to friends,SMS
+R000716,C00362,2026-09-30T00:00:00,10.0,3.0,5.0,,Not sure,support team was helpful,Email
+R000717,C00372,2023-07-25T00:00:00,6.0,5.0,4.0,1.0,Probably,support team was helpful,SMS
+R000718,C00487,2026-01-01T00:00:00,8.0,4.0,3.0,5.0,Probably,support team was helpful,In-App
+R000719,C00361,2026-04-05T00:00:00,6.0,4.0,4.0,3.0,Definitely,excellent product quality,Email
+R000720,C00774,2025-06-16T00:00:00,3.0,4.0,5.0,4.0,Probably,support team was helpful,Email
+R000721,C00115,2023-06-13T00:00:00,9.0,5.0,4.0,5.0,Definitely,easy to use website,In-App
+R000722,C00262,2024-09-13T00:00:00,9.0,5.0,5.0,5.0,Probably,quick delivery and good packaging,Website
+R000723,C00378,2024-05-30T00:00:00,10.0,4.0,4.0,,Definitely,will recommend to friends,In-App
+R000724,,2023-03-12T00:00:00,8.0,,,5.0,Definitely,item arrived later than expected,Website
+R000725,C00402,2024-08-04T00:00:00,5.0,4.0,5.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000726,C00770,2026-02-23T00:00:00,9.0,5.0,4.0,4.0,Not sure,great experience overall,SMS
+R000727,C00496,2026-05-11T00:00:00,6.0,3.0,1.0,5.0,Probably,excellent product quality,In-App
+R000728,C00693,2026-02-23T00:00:00,3.0,4.0,5.0,2.0,Probably,support team was helpful,In-App
+R000729,C00292,2024-07-17T00:00:00,9.0,5.0,4.0,5.0,Definitely,quick delivery and good packaging,SMS
+R000730,C00585,2024-09-28T00:00:00,7.0,2.0,5.0,2.0,Definitely,delivery updates were useful,SMS
+R000731,C00378,2026-06-06T00:00:00,8.0,5.0,3.0,3.0,Not sure,size was not as expected,SMS
+R000732,C00324,2024-12-17T00:00:00,4.0,4.0,5.0,3.0,Definitely,excellent product quality,Email
+R000733,C00597,2024-01-02T00:00:00,9.0,4.0,4.0,,Definitely,checkout was confusing,In-App
+R000734,C00317,2023-04-03T00:00:00,7.0,5.0,4.0,2.0,Definitely,product differed slightly from photos,Email
+R000735,,2025-12-19T00:00:00,9.0,4.0,3.0,,Probably,delivery updates were useful,In-App
+R000736,C00574,2023-12-30T00:00:00,8.0,5.0,4.0,3.0,Definitely,easy to use website,Email
+R000737,C00375,2026-09-10T00:00:00,3.0,1.0,5.0,5.0,Definitely,quick delivery and good packaging,Email
+R000738,C00673,2025-04-09T00:00:00,9.0,5.0,4.0,5.0,Not sure,will recommend to friends,Website
+R000739,C00371,2024-11-15T00:00:00,9.0,5.0,1.0,3.0,Definitely,support team was helpful,In-App
+R000740,C00102,2026-09-16T00:00:00,8.0,4.0,5.0,4.0,Not sure,price could be better,Website
+R000741,,2026-04-08T00:00:00,9.0,5.0,2.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000742,C00112,2023-01-31T00:00:00,7.0,5.0,4.0,,Probably not,repeat customer and very satisfied,In-App
+R000743,C00710,2026-06-12T00:00:00,7.0,4.0,1.0,,Definitely,good value for money,In-App
+R000744,C00402,2026-07-28T00:00:00,8.0,2.0,4.0,,Not sure,good value for money,In-App
+R000745,C00117,2024-11-06T00:00:00,,5.0,3.0,3.0,Not sure,product differed slightly from photos,Website
+R000746,C00169,2024-05-13T00:00:00,6.0,4.0,5.0,4.0,Probably,price could be better,In-App
+R000747,C00235,2026-03-07T00:00:00,9.0,4.0,3.0,4.0,Probably,quick delivery and good packaging,Email
+R000748,C00424,2025-07-16T00:00:00,8.0,4.0,3.0,5.0,Probably,delivery updates were useful,In-App
+R000749,C00386,2024-07-05T00:00:00,8.0,5.0,5.0,5.0,Definitely,quick delivery and good packaging,Email
+R000750,C00026,2024-11-16T00:00:00,9.0,4.0,5.0,5.0,Definitely,delivery updates were useful,In-App
+R000751,C00178,2025-11-12T00:00:00,8.0,1.0,5.0,5.0,Definitely,checkout was confusing,SMS
+R000752,C00563,2025-12-10T00:00:00,10.0,,5.0,,Probably not,great experience overall,In-App
+R000753,C00108,2024-06-28T00:00:00,7.0,4.0,5.0,5.0,Definitely,will recommend to friends,Email
+R000754,C00151,2023-07-21T00:00:00,7.0,3.0,5.0,3.0,Probably,packaging had too much plastic,Email
+R000755,C00311,2023-02-22T00:00:00,8.0,1.0,4.0,4.0,Probably,excellent product quality,In-App
+R000756,C00340,2024-05-18T00:00:00,8.0,3.0,5.0,3.0,Probably,will recommend to friends,Email
+R000757,C00734,2026-04-02T00:00:00,8.0,5.0,1.0,5.0,Probably,easy to use website,In-App
+R000758,C00068,2024-03-24T00:00:00,8.0,4.0,5.0,,Definitely,size was not as expected,Email
+R000759,C00020,2025-08-31T00:00:00,9.0,5.0,1.0,5.0,Definitely,item arrived later than expected,In-App
+R000760,C00663,2025-01-29T00:00:00,10.0,4.0,2.0,4.0,Probably,product differed slightly from photos,Website
+R000761,C00020,2023-01-23T00:00:00,8.0,4.0,4.0,5.0,Probably,checkout was confusing,In-App
+R000762,C00173,2025-05-20T00:00:00,7.0,5.0,4.0,4.0,Probably,item arrived later than expected,SMS
+R000763,C00151,2025-08-29T00:00:00,8.0,5.0,2.0,5.0,Probably,quick delivery and good packaging,Email
+R000764,C00798,2025-09-24T00:00:00,4.0,1.0,4.0,,Definitely,checkout was confusing,In-App
+R000765,C00649,2025-04-29T00:00:00,9.0,4.0,4.0,,Definitely,great experience overall,In-App
+R000766,C00073,2023-09-11T00:00:00,8.0,1.0,3.0,,Not sure,product differed slightly from photos,Email
+R000767,C00212,2024-01-15T00:00:00,10.0,,4.0,5.0,Probably,packaging had too much plastic,In-App
+R000768,C00529,2023-05-06T00:00:00,,4.0,5.0,,Definitely,easy to use website,In-App
+R000769,C00681,2024-11-05T00:00:00,4.0,4.0,3.0,,Probably,repeat customer and very satisfied,In-App
+R000770,C00245,2024-07-29T00:00:00,7.0,5.0,2.0,,Probably,will recommend to friends,Website
+R000771,C00288,2023-09-30T00:00:00,10.0,2.0,3.0,4.0,Probably,delivery updates were useful,In-App
+R000772,C00055,2024-08-01T00:00:00,9.0,2.0,2.0,,Not sure,great experience overall,In-App
+R000773,C00433,2026-08-05T00:00:00,9.0,5.0,,5.0,Definitely,item arrived later than expected,Email
+R000774,C00006,2025-11-15T00:00:00,8.0,5.0,5.0,4.0,Definitely,delivery updates were useful,Email
+R000775,C00424,2025-01-29T00:00:00,10.0,3.0,5.0,3.0,Definitely,checkout was confusing,SMS
+R000776,C00601,2024-01-29T00:00:00,6.0,5.0,5.0,4.0,Not sure,great experience overall,In-App
+R000777,C00800,2026-02-10T00:00:00,9.0,4.0,5.0,,Definitely,quick delivery and good packaging,In-App
+R000778,C00410,2025-09-03T00:00:00,6.0,,4.0,5.0,Probably not,great experience overall,Email
+R000779,C00462,2025-04-14T00:00:00,7.0,3.0,4.0,5.0,Not sure,item arrived later than expected,In-App
+R000780,C00098,2023-10-20T00:00:00,8.0,3.0,4.0,1.0,Definitely,price could be better,Email
+R000781,,2023-07-19T00:00:00,4.0,4.0,5.0,,Probably not,size was not as expected,Email
+R000782,C00168,2025-04-16T00:00:00,8.0,4.0,3.0,3.0,Definitely,good value for money,Website
+R000783,C00735,2024-07-28T00:00:00,9.0,,3.0,2.0,Probably,great experience overall,In-App
+R000784,C00009,2025-06-12T00:00:00,6.0,1.0,4.0,3.0,Probably,quick delivery and good packaging,SMS
+R000785,C00465,2024-02-17T00:00:00,9.0,5.0,5.0,4.0,Definitely,size was not as expected,SMS
+R000786,C00327,2024-02-25T00:00:00,,4.0,4.0,5.0,Definitely,checkout was confusing,Website
+R000787,C00338,2023-03-27T00:00:00,9.0,5.0,3.0,,Definitely,great experience overall,SMS
+R000788,C00401,2023-05-24T00:00:00,9.0,5.0,3.0,3.0,Definitely,product differed slightly from photos,Website
+R000789,C00359,2024-07-18T00:00:00,9.0,4.0,5.0,4.0,Definitely,support team was helpful,In-App
+R000790,C00631,2023-10-23T00:00:00,6.0,5.0,4.0,5.0,Probably,size was not as expected,In-App
+R000791,,2026-03-14T00:00:00,10.0,5.0,4.0,5.0,Definitely,easy to use website,Email
+R000792,C00468,2025-03-14T00:00:00,10.0,4.0,2.0,5.0,Probably,great experience overall,In-App
+R000793,C00263,2025-04-30T00:00:00,10.0,1.0,4.0,5.0,Probably,good value for money,Email
+R000794,C00480,2025-01-16T00:00:00,8.0,4.0,3.0,5.0,Probably,excellent product quality,In-App
+R000795,C00182,2023-07-30T00:00:00,7.0,4.0,4.0,2.0,Definitely,repeat customer and very satisfied,In-App
+R000796,C00139,2025-05-07T00:00:00,7.0,3.0,5.0,4.0,Probably,item arrived later than expected,In-App
+R000797,C00512,2023-04-11T00:00:00,5.0,,5.0,5.0,Definitely,will recommend to friends,Email
+R000798,C00106,2023-04-15T00:00:00,7.0,4.0,5.0,,Definitely,repeat customer and very satisfied,Email
+R000799,C00750,2023-12-09T00:00:00,7.0,3.0,1.0,5.0,Definitely,easy to use website,Email
+R000800,C00394,2023-06-01T00:00:00,,4.0,4.0,5.0,Definitely,excellent product quality,In-App
+R000801,C00068,2023-02-19T00:00:00,6.0,4.0,3.0,,Definitely,checkout was confusing,Email
+R000802,C00031,2026-03-09T00:00:00,5.0,4.0,5.0,4.0,Definitely,support team was helpful,In-App
+R000803,C00129,2023-02-26T00:00:00,7.0,4.0,5.0,3.0,Definitely,delivery updates were useful,In-App
+R000804,C00231,2026-06-03T00:00:00,9.0,5.0,3.0,,Definitely,size was not as expected,Website
+R000805,C00028,2023-10-26T00:00:00,9.0,5.0,,,Not sure,delivery updates were useful,Email
+R000806,C00736,2024-01-12T00:00:00,8.0,4.0,4.0,,Definitely,great experience overall,In-App
+R000807,C00532,2023-03-07T00:00:00,8.0,4.0,4.0,4.0,Definitely,packaging had too much plastic,Website
+R000808,C00002,2026-06-20T00:00:00,0.0,5.0,4.0,4.0,Definitely,good value for money,In-App
+R000809,C00417,2024-10-12T00:00:00,5.0,5.0,4.0,4.0,Probably,good value for money,In-App
+R000810,C00742,2026-01-14T00:00:00,7.0,5.0,5.0,4.0,Probably,price could be better,SMS
+R000811,C00189,2025-06-16T00:00:00,10.0,3.0,3.0,5.0,Definitely,packaging had too much plastic,Website
+R000812,C00288,2025-05-27T00:00:00,10.0,4.0,5.0,5.0,Probably,excellent product quality,In-App
+R000813,C00175,2025-01-22T00:00:00,6.0,4.0,4.0,5.0,Definitely,easy to use website,SMS
+R000814,C00344,2023-11-06T00:00:00,7.0,4.0,5.0,4.0,Definitely,will recommend to friends,SMS
+R000815,C00439,2026-01-22T00:00:00,9.0,4.0,1.0,5.0,Probably,delivery updates were useful,SMS
+R000816,C00124,2024-01-12T00:00:00,7.0,5.0,,,Definitely,size was not as expected,In-App
+R000817,C00023,2024-08-04T00:00:00,8.0,5.0,2.0,,Definitely,delivery updates were useful,In-App
+R000818,C00254,2023-05-23T00:00:00,7.0,4.0,4.0,,Definitely,checkout was confusing,Email
+R000819,C00129,2023-11-25T00:00:00,9.0,5.0,4.0,5.0,Definitely,size was not as expected,SMS
+R000820,C00665,2023-03-12T00:00:00,7.0,3.0,4.0,1.0,Definitely,item arrived later than expected,Website
+R000821,C00275,2025-02-07T00:00:00,9.0,4.0,2.0,4.0,Probably,repeat customer and very satisfied,In-App
+R000822,C00472,2026-02-08T00:00:00,5.0,3.0,2.0,5.0,Probably not,checkout was confusing,In-App
+R000823,C00403,2026-09-18T00:00:00,6.0,2.0,5.0,3.0,Probably,size was not as expected,In-App
+R000824,C00160,2024-07-31T00:00:00,6.0,2.0,4.0,4.0,Definitely,repeat customer and very satisfied,Email
+R000825,C00412,2023-12-05T00:00:00,6.0,1.0,3.0,2.0,Probably not,excellent product quality,In-App
+R000826,C00261,2026-07-30T00:00:00,9.0,5.0,4.0,5.0,Definitely,quick delivery and good packaging,In-App
+R000827,,2025-12-02T00:00:00,8.0,5.0,4.0,,Definitely,good value for money,In-App
+R000828,C00689,2026-07-26T00:00:00,8.0,1.0,3.0,5.0,Definitely,delivery updates were useful,In-App
+R000829,,2024-01-01T00:00:00,10.0,5.0,4.0,5.0,Probably,great experience overall,In-App
+R000830,C00753,2023-10-26T00:00:00,10.0,4.0,4.0,2.0,Probably,excellent product quality,Email
+R000831,C00498,2025-01-20T00:00:00,5.0,,2.0,,Not sure,price could be better,In-App
+R000832,C00452,2026-04-27T00:00:00,10.0,5.0,3.0,4.0,Probably,excellent product quality,SMS
+R000833,C00681,2023-02-13T00:00:00,7.0,5.0,1.0,4.0,Probably not,item arrived later than expected,Email
+R000834,C00714,2026-05-17T00:00:00,8.0,3.0,5.0,,Not sure,price could be better,Email
+R000835,C00696,2025-04-25T00:00:00,8.0,3.0,5.0,,Probably,packaging had too much plastic,Email
+R000836,,2023-02-16T00:00:00,6.0,3.0,4.0,4.0,Not sure,support team was helpful,Email
+R000837,C00627,2024-06-12T00:00:00,,,3.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000838,C00356,2025-02-26T00:00:00,9.0,5.0,4.0,5.0,Definitely,support team was helpful,In-App
+R000839,C00693,2026-09-30T00:00:00,9.0,2.0,2.0,4.0,Definitely,support team was helpful,In-App
+R000840,C00644,2025-03-22T00:00:00,7.0,4.0,3.0,5.0,Probably,great experience overall,Email
+R000841,C00192,2025-11-03T00:00:00,,4.0,,,Not sure,will recommend to friends,In-App
+R000842,,2024-12-04T00:00:00,9.0,4.0,4.0,4.0,Definitely,will recommend to friends,Email
+R000843,C00672,2024-12-02T00:00:00,,4.0,4.0,4.0,Definitely,checkout was confusing,SMS
+R000844,C00794,2025-02-17T00:00:00,4.0,5.0,5.0,4.0,Definitely,excellent product quality,Website
+R000845,C00321,2026-09-14T00:00:00,6.0,5.0,,3.0,Definitely,easy to use website,SMS
+R000846,C00327,2026-03-16T00:00:00,8.0,5.0,5.0,2.0,Definitely,quick delivery and good packaging,Email
+R000847,C00643,2025-04-27T00:00:00,6.0,4.0,4.0,,Probably,size was not as expected,SMS
+R000848,C00164,2023-11-23T00:00:00,6.0,5.0,1.0,3.0,Probably,support team was helpful,In-App
+R000849,,2025-02-24T00:00:00,10.0,4.0,5.0,3.0,Probably,price could be better,In-App
+R000850,C00735,2025-04-10T00:00:00,7.0,4.0,2.0,,Definitely,price could be better,In-App
+R000851,C00734,2025-10-29T00:00:00,10.0,4.0,4.0,,Probably,packaging had too much plastic,Email
+R000852,C00153,2026-06-19T00:00:00,8.0,5.0,4.0,,Probably,item arrived later than expected,Email
+R000853,C00426,2023-09-13T00:00:00,6.0,4.0,4.0,4.0,Definitely,product differed slightly from photos,Website
+R000854,C00141,2024-09-05T00:00:00,7.0,4.0,1.0,,Definitely,packaging had too much plastic,In-App
+R000855,C00163,2026-09-15T00:00:00,8.0,4.0,4.0,5.0,Definitely,item arrived later than expected,In-App
+R000856,C00169,2025-11-18T00:00:00,9.0,,5.0,,Definitely,size was not as expected,In-App
+R000857,,2025-12-02T00:00:00,3.0,4.0,5.0,4.0,Probably,support team was helpful,Email
+R000858,C00394,2025-08-22T00:00:00,7.0,3.0,5.0,2.0,Probably,size was not as expected,In-App
+R000859,C00299,2025-09-13T00:00:00,6.0,4.0,1.0,,Definitely,price could be better,SMS
+R000860,C00359,2024-08-26T00:00:00,8.0,4.0,5.0,,Definitely,delivery updates were useful,Email
+R000861,C00359,2023-05-08T00:00:00,2.0,1.0,5.0,,Definitely,great experience overall,In-App
+R000862,C00126,2025-10-24T00:00:00,8.0,5.0,2.0,,Definitely,item arrived later than expected,Email
+R000863,C00217,2026-07-05T00:00:00,8.0,,5.0,5.0,Definitely,excellent product quality,Email
+R000864,C00039,2024-04-11T00:00:00,9.0,4.0,3.0,,Not sure,item arrived later than expected,Email
+R000865,C00255,2026-04-22T00:00:00,7.0,5.0,5.0,4.0,Probably,easy to use website,SMS
+R000866,C00197,2025-06-19T00:00:00,3.0,5.0,4.0,,Definitely,easy to use website,Email
+R000867,C00313,2024-12-11T00:00:00,7.0,4.0,2.0,4.0,Definitely,product differed slightly from photos,Email
+R000868,C00362,2026-04-01T00:00:00,9.0,4.0,,3.0,Not sure,easy to use website,In-App
+R000869,C00677,2024-05-10T00:00:00,9.0,3.0,4.0,,Definitely,great experience overall,In-App
+R000870,C00676,2024-02-18T00:00:00,9.0,5.0,4.0,5.0,Not sure,delivery updates were useful,Email
+R000871,C00395,2023-10-13T00:00:00,10.0,5.0,2.0,5.0,Definitely,support team was helpful,In-App
+R000872,,2024-04-02T00:00:00,5.0,5.0,2.0,4.0,Probably,will recommend to friends,SMS
+R000873,C00663,2023-12-18T00:00:00,7.0,5.0,4.0,5.0,Definitely,delivery updates were useful,In-App
+R000874,C00344,2023-07-12T00:00:00,9.0,5.0,3.0,3.0,Not sure,quick delivery and good packaging,In-App
+R000875,C00064,2025-06-24T00:00:00,4.0,5.0,3.0,,Definitely,good value for money,SMS
+R000876,,2024-03-09T00:00:00,9.0,3.0,3.0,5.0,Definitely,will recommend to friends,Email
+R000877,C00670,2024-06-23T00:00:00,9.0,2.0,5.0,4.0,Probably,easy to use website,Email
+R000878,C00641,2024-09-28T00:00:00,9.0,,4.0,5.0,Probably,great experience overall,In-App
+R000879,C00380,2026-02-22T00:00:00,1.0,4.0,4.0,5.0,Probably,great experience overall,SMS
+R000880,C00503,2024-12-30T00:00:00,9.0,5.0,5.0,,Definitely,easy to use website,Email
+R000881,C00500,2025-10-29T00:00:00,8.0,5.0,3.0,3.0,Definitely,support team was helpful,Email
+R000882,C00795,2025-11-14T00:00:00,6.0,5.0,3.0,,Definitely,price could be better,In-App
+R000883,C00495,2025-08-11T00:00:00,8.0,5.0,4.0,,Probably,support team was helpful,Email
+R000884,C00241,2026-02-04T00:00:00,10.0,5.0,5.0,5.0,Definitely,checkout was confusing,SMS
+R000885,C00667,2026-07-30T00:00:00,8.0,5.0,2.0,,Definitely,size was not as expected,In-App
+R000886,C00084,2025-07-08T00:00:00,10.0,,5.0,5.0,Definitely,good value for money,In-App
+R000887,C00044,2026-06-08T00:00:00,5.0,4.0,4.0,5.0,Not sure,support team was helpful,In-App
+R000888,C00613,2024-07-31T00:00:00,8.0,1.0,4.0,,Probably,product differed slightly from photos,SMS
+R000889,C00207,2024-07-29T00:00:00,8.0,5.0,4.0,4.0,Definitely,will recommend to friends,In-App
+R000890,C00453,2025-05-13T00:00:00,6.0,5.0,4.0,4.0,Probably,repeat customer and very satisfied,Email
+R000891,C00538,2026-05-12T00:00:00,6.0,3.0,1.0,4.0,Not sure,product differed slightly from photos,Email
+R000892,C00063,2025-08-10T00:00:00,5.0,5.0,4.0,,Definitely,checkout was confusing,In-App
+R000893,C00509,2023-12-29T00:00:00,9.0,2.0,5.0,,Probably not,quick delivery and good packaging,Email
+R000894,C00609,2023-01-07T00:00:00,4.0,3.0,,,Probably,product differed slightly from photos,Email
+R000895,,2024-04-03T00:00:00,8.0,5.0,3.0,,Probably,excellent product quality,SMS
+R000896,C00419,2025-11-11T00:00:00,8.0,4.0,4.0,3.0,Definitely,product differed slightly from photos,SMS
+R000897,C00676,2026-08-09T00:00:00,5.0,,5.0,5.0,Probably,repeat customer and very satisfied,Email
+R000898,C00793,2025-03-29T00:00:00,,2.0,4.0,4.0,Definitely,good value for money,SMS
+R000899,C00736,2026-09-15T00:00:00,10.0,5.0,5.0,,Definitely,quick delivery and good packaging,Email
+R000900,C00264,2024-11-18T00:00:00,9.0,4.0,5.0,,Definitely,great experience overall,Email
+R000901,C00385,2024-03-10T00:00:00,6.0,5.0,,,Probably,good value for money,Email
+R000902,,2026-05-24T00:00:00,6.0,5.0,5.0,2.0,Definitely,repeat customer and very satisfied,In-App
+R000903,C00144,2025-11-11T00:00:00,10.0,5.0,4.0,5.0,Not sure,great experience overall,Email
+R000904,C00398,2023-12-29T00:00:00,10.0,3.0,5.0,,Not sure,will recommend to friends,In-App
+R000905,C00053,2023-05-25T00:00:00,1.0,3.0,2.0,2.0,Definitely,repeat customer and very satisfied,SMS
+R000906,C00703,2024-01-04T00:00:00,7.0,4.0,4.0,4.0,Probably,repeat customer and very satisfied,Email
+R000907,C00167,2024-05-13T00:00:00,9.0,5.0,5.0,,Not sure,good value for money,Email
+R000908,C00495,2025-10-03T00:00:00,3.0,,5.0,4.0,Not sure,checkout was confusing,Email
+R000909,C00278,2023-12-20T00:00:00,,4.0,3.0,4.0,Probably,product differed slightly from photos,In-App
+R000910,,2023-03-12T00:00:00,9.0,5.0,,,Definitely,quick delivery and good packaging,Website
+R000911,C00645,2024-12-20T00:00:00,1.0,1.0,5.0,4.0,Probably,good value for money,SMS
+R000912,C00434,2025-03-23T00:00:00,9.0,4.0,4.0,5.0,Definitely,delivery updates were useful,SMS
+R000913,C00589,2025-03-14T00:00:00,8.0,4.0,,,Definitely,excellent product quality,In-App
+R000914,C00320,2025-01-13T00:00:00,8.0,,4.0,4.0,Definitely,packaging had too much plastic,Email
+R000915,C00697,2023-04-17T00:00:00,8.0,5.0,1.0,4.0,Probably,packaging had too much plastic,Website
+R000916,C00678,2024-01-20T00:00:00,1.0,4.0,,4.0,Definitely,packaging had too much plastic,SMS
+R000917,C00240,2025-12-01T00:00:00,8.0,5.0,4.0,2.0,Probably,good value for money,Email
+R000918,,2023-08-30T00:00:00,8.0,3.0,5.0,5.0,Not sure,product differed slightly from photos,In-App
+R000919,,2025-01-21T00:00:00,1.0,5.0,3.0,4.0,Definitely,quick delivery and good packaging,Website
+R000920,C00635,2023-07-24T00:00:00,1.0,5.0,5.0,5.0,Definitely,great experience overall,SMS
+R000921,C00177,2025-08-30T00:00:00,8.0,5.0,5.0,4.0,Definitely,item arrived later than expected,Email
+R000922,C00410,2024-07-15T00:00:00,8.0,,4.0,5.0,Definitely,support team was helpful,In-App
+R000923,C00043,2024-02-24T00:00:00,6.0,4.0,5.0,4.0,Probably,price could be better,Website
+R000924,,2023-05-19T00:00:00,10.0,3.0,5.0,5.0,Definitely,checkout was confusing,In-App
+R000925,C00057,2023-06-18T00:00:00,8.0,5.0,4.0,5.0,Definitely,size was not as expected,In-App
+R000926,C00255,2023-08-18T00:00:00,8.0,5.0,2.0,1.0,Definitely,item arrived later than expected,In-App
+R000927,C00571,2025-05-17T00:00:00,2.0,4.0,5.0,,Probably not,good value for money,Email
+R000928,C00389,2024-04-22T00:00:00,8.0,3.0,5.0,5.0,Not sure,delivery updates were useful,Email
+R000929,C00592,2023-11-22T00:00:00,3.0,5.0,2.0,,Not sure,item arrived later than expected,SMS
+R000930,C00441,2025-08-13T00:00:00,6.0,3.0,3.0,3.0,Definitely,good value for money,In-App
+R000931,C00446,2025-04-22T00:00:00,9.0,4.0,4.0,5.0,Probably,delivery updates were useful,In-App
+R000932,C00418,2023-10-11T00:00:00,7.0,2.0,4.0,1.0,Not sure,product differed slightly from photos,In-App
+R000933,C00071,2026-02-04T00:00:00,9.0,4.0,4.0,,Definitely,delivery updates were useful,SMS
+R000934,C00553,2024-09-18T00:00:00,3.0,5.0,5.0,,Probably,packaging had too much plastic,Email
+R000935,C00089,2025-12-18T00:00:00,7.0,5.0,5.0,,Definitely,product differed slightly from photos,In-App
+R000936,C00341,2023-04-16T00:00:00,3.0,3.0,5.0,4.0,Not sure,packaging had too much plastic,Email
+R000937,C00109,2023-05-07T00:00:00,10.0,5.0,2.0,,Not sure,size was not as expected,SMS
+R000938,C00269,2026-04-13T00:00:00,8.0,3.0,4.0,4.0,Definitely,checkout was confusing,In-App
+R000939,C00345,2025-11-18T00:00:00,5.0,5.0,3.0,5.0,Probably,packaging had too much plastic,In-App
+R000940,C00668,2025-07-24T00:00:00,6.0,5.0,5.0,5.0,Definitely,support team was helpful,In-App
+R000941,C00705,2024-01-17T00:00:00,8.0,2.0,4.0,4.0,Definitely,good value for money,SMS
+R000942,C00740,2025-03-28T00:00:00,7.0,5.0,4.0,3.0,Definitely,good value for money,In-App
+R000943,C00555,2025-12-12T00:00:00,7.0,3.0,5.0,4.0,Probably,quick delivery and good packaging,Website
+R000944,C00526,2023-06-09T00:00:00,7.0,2.0,,1.0,Definitely,checkout was confusing,In-App
+R000945,C00767,2024-12-15T00:00:00,1.0,4.0,3.0,5.0,Definitely,will recommend to friends,Email
+R000946,C00620,2024-10-18T00:00:00,9.0,5.0,3.0,4.0,Probably,quick delivery and good packaging,Website
+R000947,C00661,2024-04-28T00:00:00,6.0,4.0,5.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000948,C00505,2025-07-16T00:00:00,9.0,4.0,3.0,4.0,Definitely,great experience overall,In-App
+R000949,C00213,2023-05-25T00:00:00,8.0,5.0,2.0,4.0,Definitely,repeat customer and very satisfied,In-App
+R000950,C00505,2025-04-24T00:00:00,5.0,5.0,5.0,4.0,Definitely,will recommend to friends,Website
+R000951,C00763,2026-05-08T00:00:00,7.0,4.0,4.0,5.0,Probably,repeat customer and very satisfied,Email
+R000952,C00493,2025-12-11T00:00:00,4.0,4.0,5.0,2.0,Not sure,excellent product quality,Website
+R000953,,2024-04-01T00:00:00,10.0,4.0,4.0,5.0,Probably,great experience overall,Website
+R000954,C00681,2025-03-28T00:00:00,6.0,3.0,2.0,,Probably,checkout was confusing,Email
+R000955,C00529,2025-02-01T00:00:00,3.0,4.0,2.0,5.0,Probably,easy to use website,SMS
+R000956,C00466,2026-02-27T00:00:00,8.0,5.0,4.0,5.0,Definitely,easy to use website,In-App
+R000957,C00493,2024-02-14T00:00:00,0.0,5.0,2.0,,Probably,repeat customer and very satisfied,Email
+R000958,C00317,2023-02-10T00:00:00,9.0,1.0,5.0,4.0,Not sure,excellent product quality,Email
+R000959,C00493,2024-01-04T00:00:00,3.0,5.0,5.0,,Probably,packaging had too much plastic,In-App
+R000960,C00387,2026-08-18T00:00:00,2.0,5.0,4.0,5.0,Definitely,product differed slightly from photos,Email
+R000961,C00175,2025-09-30T00:00:00,5.0,4.0,5.0,,Definitely,excellent product quality,Email
+R000962,C00369,2023-06-24T00:00:00,7.0,4.0,1.0,2.0,Probably,will recommend to friends,In-App
+R000963,C00616,2024-05-12T00:00:00,3.0,4.0,4.0,5.0,Probably,checkout was confusing,Email
+R000964,C00706,2024-12-02T00:00:00,,3.0,4.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R000965,C00440,2025-07-10T00:00:00,3.0,,3.0,,Probably not,size was not as expected,Website
+R000966,C00043,2025-12-11T00:00:00,9.0,5.0,4.0,4.0,Definitely,quick delivery and good packaging,In-App
+R000967,,2024-11-09T00:00:00,9.0,4.0,4.0,4.0,Definitely,checkout was confusing,Email
+R000968,,2023-12-16T00:00:00,9.0,2.0,,4.0,Definitely,easy to use website,Email
+R000969,C00660,2023-03-07T00:00:00,6.0,5.0,,5.0,Definitely,packaging had too much plastic,Website
+R000970,C00717,2026-05-06T00:00:00,5.0,5.0,4.0,2.0,Probably not,packaging had too much plastic,Email
+R000971,C00571,2026-02-08T00:00:00,0.0,4.0,4.0,5.0,Definitely,price could be better,SMS
+R000972,C00553,2025-12-28T00:00:00,7.0,5.0,4.0,,Not sure,item arrived later than expected,Email
+R000973,,2025-05-14T00:00:00,9.0,4.0,4.0,3.0,Probably,excellent product quality,Email
+R000974,C00074,2025-09-11T00:00:00,8.0,4.0,5.0,,Definitely,product differed slightly from photos,Email
+R000975,C00716,2024-09-11T00:00:00,9.0,4.0,4.0,,Definitely,good value for money,SMS
+R000976,C00513,2024-11-12T00:00:00,2.0,4.0,5.0,,Probably,quick delivery and good packaging,Email
+R000977,C00138,2024-04-19T00:00:00,10.0,5.0,4.0,,Probably,checkout was confusing,In-App
+R000978,C00543,2025-11-25T00:00:00,5.0,4.0,4.0,3.0,Probably not,price could be better,Email
+R000979,C00281,2025-09-02T00:00:00,7.0,4.0,4.0,4.0,Definitely,easy to use website,In-App
+R000980,C00657,2026-06-22T00:00:00,6.0,5.0,5.0,4.0,Definitely,excellent product quality,In-App
+R000981,,2024-10-18T00:00:00,10.0,4.0,,4.0,Probably,easy to use website,SMS
+R000982,C00309,2025-07-29T00:00:00,8.0,4.0,3.0,5.0,Definitely,excellent product quality,Email
+R000983,C00443,2024-10-23T00:00:00,7.0,2.0,5.0,,Definitely,excellent product quality,Email
+R000984,C00173,2025-03-16T00:00:00,6.0,5.0,4.0,5.0,Probably not,size was not as expected,In-App
+R000985,C00658,2025-12-10T00:00:00,,5.0,4.0,3.0,Definitely,checkout was confusing,In-App
+R000986,C00495,2023-05-19T00:00:00,9.0,3.0,1.0,4.0,Definitely,item arrived later than expected,In-App
+R000987,C00282,2025-12-01T00:00:00,9.0,5.0,4.0,4.0,Definitely,good value for money,Email
+R000988,C00091,2025-07-10T00:00:00,6.0,5.0,3.0,,Definitely,quick delivery and good packaging,SMS
+R000989,C00185,2025-02-14T00:00:00,8.0,4.0,5.0,5.0,Probably not,excellent product quality,Website
+R000990,C00651,2024-08-14T00:00:00,,4.0,4.0,,Not sure,will recommend to friends,In-App
+R000991,C00407,2026-07-01T00:00:00,8.0,4.0,4.0,4.0,Probably,great experience overall,In-App
+R000992,,2025-04-11T00:00:00,3.0,5.0,3.0,2.0,Definitely,item arrived later than expected,Email
+R000993,C00775,2026-09-28T00:00:00,5.0,4.0,4.0,,Definitely,excellent product quality,Website
+R000994,C00372,2023-04-21T00:00:00,,4.0,5.0,4.0,Definitely,size was not as expected,In-App
+R000995,C00555,2026-07-01T00:00:00,5.0,4.0,2.0,,Probably not,quick delivery and good packaging,Email
+R000996,C00565,2025-12-07T00:00:00,8.0,4.0,5.0,,Definitely,size was not as expected,Email
+R000997,C00454,2026-06-10T00:00:00,8.0,5.0,4.0,5.0,Probably,product differed slightly from photos,In-App
+R000998,C00032,2025-08-06T00:00:00,8.0,3.0,3.0,4.0,Definitely,repeat customer and very satisfied,In-App
+R000999,C00770,2023-07-10T00:00:00,0.0,5.0,5.0,5.0,Definitely,will recommend to friends,Email
+R001000,,2024-09-05T00:00:00,10.0,4.0,5.0,,Not sure,price could be better,In-App
+R001001,C00551,2024-10-11T00:00:00,,4.0,2.0,,Probably,great experience overall,Email
+R001002,C00142,2025-02-08T00:00:00,3.0,5.0,,3.0,Definitely,excellent product quality,In-App
+R001003,C00532,2025-07-27T00:00:00,8.0,4.0,4.0,4.0,Definitely,price could be better,In-App
+R001004,C00412,2026-04-25T00:00:00,7.0,4.0,,5.0,Probably,size was not as expected,In-App
+R001005,C00168,2025-06-03T00:00:00,,4.0,3.0,3.0,Not sure,good value for money,In-App
+R001006,C00640,2025-10-11T00:00:00,2.0,5.0,4.0,,Definitely,support team was helpful,Email
+R001007,C00293,2025-07-09T00:00:00,3.0,5.0,5.0,,Probably,great experience overall,SMS
+R001008,,2026-06-16T00:00:00,9.0,4.0,5.0,3.0,Probably,delivery updates were useful,In-App
+R001009,C00606,2024-06-22T00:00:00,3.0,5.0,4.0,3.0,Definitely,good value for money,In-App
+R001010,C00370,2023-02-24T00:00:00,9.0,5.0,4.0,,Definitely,great experience overall,In-App
+R001011,C00360,2023-11-10T00:00:00,1.0,5.0,4.0,5.0,Definitely,will recommend to friends,Email
+R001012,C00494,2024-05-19T00:00:00,8.0,4.0,5.0,,Probably not,delivery updates were useful,Email
+R001013,C00167,2025-10-05T00:00:00,7.0,,4.0,2.0,Definitely,packaging had too much plastic,In-App
+R001014,C00724,2024-12-20T00:00:00,7.0,5.0,4.0,,Not sure,support team was helpful,In-App
+R001015,C00551,2025-08-28T00:00:00,7.0,1.0,5.0,3.0,Not sure,easy to use website,In-App
+R001016,C00207,2023-02-25T00:00:00,8.0,4.0,4.0,5.0,Definitely,product differed slightly from photos,Email
+R001017,C00344,2024-07-03T00:00:00,8.0,5.0,5.0,4.0,Probably,will recommend to friends,In-App
+R001018,C00219,2025-07-17T00:00:00,10.0,4.0,4.0,3.0,Probably,repeat customer and very satisfied,SMS
+R001019,C00393,2023-08-30T00:00:00,8.0,2.0,3.0,,Probably,product differed slightly from photos,SMS
+R001020,C00477,2026-04-28T00:00:00,8.0,5.0,4.0,2.0,Not sure,quick delivery and good packaging,Website
+R001021,,2023-09-26T00:00:00,9.0,5.0,2.0,5.0,Definitely,excellent product quality,Email
+R001022,C00440,2023-06-23T00:00:00,5.0,5.0,4.0,,Probably,repeat customer and very satisfied,In-App
+R001023,C00297,2025-05-03T00:00:00,3.0,4.0,5.0,,Probably,great experience overall,In-App
+R001024,C00623,2023-04-06T00:00:00,8.0,,5.0,3.0,Probably,price could be better,SMS
+R001025,C00618,2025-01-18T00:00:00,7.0,3.0,3.0,4.0,Definitely,item arrived later than expected,In-App
+R001026,C00217,2026-07-01T00:00:00,4.0,5.0,2.0,,Probably,support team was helpful,In-App
+R001027,C00751,2025-12-18T00:00:00,8.0,4.0,3.0,5.0,Not sure,repeat customer and very satisfied,Email
+R001028,C00799,2025-02-04T00:00:00,8.0,5.0,3.0,,Probably not,item arrived later than expected,In-App
+R001029,C00456,2025-06-24T00:00:00,5.0,5.0,4.0,,Probably,quick delivery and good packaging,Email
+R001030,C00412,2024-11-26T00:00:00,1.0,4.0,4.0,5.0,Probably,quick delivery and good packaging,Email
+R001031,C00750,2024-11-26T00:00:00,,5.0,4.0,2.0,Probably,item arrived later than expected,Website
+R001032,C00775,2024-07-23T00:00:00,7.0,4.0,4.0,4.0,Probably,packaging had too much plastic,SMS
+R001033,C00718,2025-10-07T00:00:00,4.0,5.0,3.0,5.0,Probably,repeat customer and very satisfied,Email
+R001034,,2023-10-20T00:00:00,9.0,4.0,3.0,1.0,Definitely,price could be better,Website
+R001035,C00487,2025-10-15T00:00:00,8.0,5.0,4.0,,Definitely,support team was helpful,SMS
+R001036,,2026-02-14T00:00:00,7.0,3.0,2.0,4.0,Definitely,repeat customer and very satisfied,Email
+R001037,,2024-04-05T00:00:00,9.0,4.0,5.0,3.0,Probably,packaging had too much plastic,In-App
+R001038,C00079,2023-04-26T00:00:00,6.0,5.0,3.0,3.0,Probably,item arrived later than expected,In-App
+R001039,,2026-03-02T00:00:00,9.0,5.0,,5.0,Probably,will recommend to friends,SMS
+R001040,C00282,2024-07-03T00:00:00,7.0,5.0,,3.0,Probably,delivery updates were useful,Email
+R001041,C00748,2024-08-17T00:00:00,9.0,5.0,4.0,4.0,Definitely,checkout was confusing,In-App
+R001042,C00606,2025-01-14T00:00:00,9.0,5.0,5.0,2.0,Not sure,packaging had too much plastic,In-App
+R001043,C00736,2024-10-27T00:00:00,8.0,4.0,3.0,3.0,Definitely,easy to use website,Email
+R001044,C00466,2023-11-10T00:00:00,,1.0,4.0,,Probably,excellent product quality,In-App
+R001045,C00284,2024-06-11T00:00:00,10.0,5.0,5.0,5.0,Probably,great experience overall,Email
+R001046,C00666,2023-01-03T00:00:00,7.0,4.0,5.0,3.0,Definitely,easy to use website,In-App
+R001047,C00514,2023-04-25T00:00:00,9.0,4.0,5.0,5.0,Definitely,great experience overall,SMS
+R001048,C00673,2026-07-05T00:00:00,8.0,4.0,3.0,5.0,Definitely,will recommend to friends,Email
+R001049,C00342,2025-01-24T00:00:00,9.0,5.0,4.0,3.0,Definitely,size was not as expected,Email
+R001050,C00407,2025-07-12T00:00:00,8.0,3.0,5.0,4.0,Not sure,product differed slightly from photos,Email
+R001051,C00109,2025-09-26T00:00:00,6.0,4.0,2.0,4.0,Probably,support team was helpful,Email
+R001052,C00622,2026-08-28T00:00:00,3.0,3.0,4.0,,Probably,price could be better,Email
+R001053,C00579,2025-07-07T00:00:00,8.0,4.0,4.0,,Definitely,item arrived later than expected,SMS
+R001054,C00598,2024-12-07T00:00:00,1.0,3.0,3.0,4.0,Definitely,price could be better,In-App
+R001055,C00790,2023-02-12T00:00:00,10.0,4.0,5.0,,Probably,product differed slightly from photos,Website
+R001056,C00461,2023-05-21T00:00:00,6.0,4.0,5.0,1.0,Probably,will recommend to friends,In-App
+R001057,C00184,2024-03-25T00:00:00,5.0,3.0,3.0,4.0,Definitely,packaging had too much plastic,In-App
+R001058,C00357,2024-09-13T00:00:00,8.0,4.0,,3.0,Definitely,repeat customer and very satisfied,In-App
+R001059,C00663,2024-10-29T00:00:00,8.0,4.0,5.0,5.0,Definitely,great experience overall,Email
+R001060,C00109,2024-03-16T00:00:00,8.0,2.0,5.0,4.0,Probably,size was not as expected,Website
+R001061,C00193,2024-09-29T00:00:00,5.0,1.0,4.0,4.0,Definitely,good value for money,In-App
+R001062,C00748,2025-03-06T00:00:00,8.0,5.0,4.0,5.0,Probably,packaging had too much plastic,In-App
+R001063,C00616,2026-08-24T00:00:00,9.0,5.0,4.0,5.0,Definitely,quick delivery and good packaging,SMS
+R001064,C00627,2023-10-21T00:00:00,5.0,5.0,5.0,4.0,Probably not,packaging had too much plastic,SMS
+R001065,C00398,2026-01-14T00:00:00,6.0,5.0,5.0,,Probably,product differed slightly from photos,In-App
+R001066,C00151,2025-08-25T00:00:00,8.0,4.0,5.0,,Definitely,checkout was confusing,SMS
+R001067,C00297,2025-03-06T00:00:00,10.0,3.0,3.0,,Probably not,quick delivery and good packaging,SMS
+R001068,,2024-11-19T00:00:00,3.0,4.0,4.0,4.0,Definitely,will recommend to friends,Email
+R001069,C00040,2024-02-02T00:00:00,10.0,2.0,,5.0,Probably,easy to use website,In-App
+R001070,,2026-07-30T00:00:00,5.0,5.0,3.0,5.0,Probably not,size was not as expected,In-App
+R001071,,2024-09-12T00:00:00,8.0,4.0,5.0,,Not sure,great experience overall,Email
+R001072,C00002,2025-04-26T00:00:00,9.0,4.0,3.0,,Probably not,repeat customer and very satisfied,In-App
+R001073,C00737,2026-03-10T00:00:00,7.0,,4.0,4.0,Not sure,quick delivery and good packaging,SMS
+R001074,C00243,2023-02-11T00:00:00,4.0,4.0,3.0,3.0,Definitely,excellent product quality,In-App
+R001075,C00642,2023-03-29T00:00:00,6.0,,,4.0,Definitely,easy to use website,In-App
+R001076,C00078,2023-03-07T00:00:00,8.0,4.0,3.0,5.0,Definitely,easy to use website,Email
+R001077,C00102,2023-03-25T00:00:00,8.0,4.0,2.0,3.0,Probably,will recommend to friends,Email
+R001078,C00795,2025-09-24T00:00:00,8.0,1.0,3.0,,Probably,quick delivery and good packaging,In-App
+R001079,,2024-07-20T00:00:00,8.0,3.0,5.0,1.0,Definitely,good value for money,SMS
+R001080,C00318,2025-08-13T00:00:00,5.0,4.0,2.0,4.0,Probably,excellent product quality,Email
+R001081,C00682,2024-11-16T00:00:00,7.0,5.0,,5.0,Definitely,repeat customer and very satisfied,Email
+R001082,C00549,2025-07-28T00:00:00,8.0,3.0,5.0,4.0,Definitely,good value for money,In-App
+R001083,C00530,2025-10-31T00:00:00,7.0,4.0,5.0,5.0,Probably,will recommend to friends,In-App
+R001084,C00198,2024-09-05T00:00:00,9.0,3.0,5.0,5.0,Probably,price could be better,Email
+R001085,C00692,2025-05-03T00:00:00,7.0,5.0,4.0,,Definitely,great experience overall,In-App
+R001086,C00627,2023-04-27T00:00:00,8.0,5.0,5.0,3.0,Probably,packaging had too much plastic,Website
+R001087,C00392,2024-10-10T00:00:00,9.0,,3.0,,Definitely,good value for money,SMS
+R001088,C00757,2024-10-24T00:00:00,7.0,4.0,2.0,,Probably,great experience overall,In-App
+R001089,C00637,2024-09-14T00:00:00,8.0,4.0,4.0,,Definitely,will recommend to friends,SMS
+R001090,C00733,2024-02-22T00:00:00,9.0,5.0,4.0,5.0,Probably,good value for money,Email
+R001091,C00441,2026-09-21T00:00:00,6.0,4.0,5.0,3.0,Probably,great experience overall,Email
+R001092,C00466,2026-06-26T00:00:00,7.0,4.0,5.0,,Probably,support team was helpful,SMS
+R001093,C00749,2023-10-14T00:00:00,10.0,2.0,4.0,5.0,Definitely,excellent product quality,Email
+R001094,C00462,2024-10-28T00:00:00,8.0,5.0,2.0,5.0,Probably,excellent product quality,SMS
+R001095,C00540,2024-01-17T00:00:00,5.0,4.0,5.0,2.0,Not sure,packaging had too much plastic,SMS
+R001096,C00482,2024-06-23T00:00:00,8.0,5.0,3.0,4.0,Definitely,good value for money,In-App
+R001097,,2026-08-26T00:00:00,9.0,4.0,4.0,4.0,Not sure,support team was helpful,SMS
+R001098,C00637,2025-10-11T00:00:00,5.0,4.0,4.0,,Definitely,size was not as expected,Email
+R001099,C00186,2026-09-03T00:00:00,0.0,4.0,5.0,3.0,Probably not,quick delivery and good packaging,In-App
+R001100,C00039,2025-01-12T00:00:00,9.0,4.0,3.0,5.0,Not sure,support team was helpful,In-App
+R001101,C00206,2025-08-22T00:00:00,8.0,3.0,4.0,,Not sure,easy to use website,In-App
+R001102,C00121,2024-07-25T00:00:00,6.0,4.0,4.0,,Probably,support team was helpful,Email
+R001103,,2024-04-11T00:00:00,2.0,5.0,4.0,3.0,Definitely,great experience overall,In-App
+R001104,C00525,2023-06-15T00:00:00,8.0,3.0,4.0,3.0,Definitely,delivery updates were useful,Website
+R001105,C00260,2024-03-01T00:00:00,7.0,5.0,5.0,2.0,Probably,easy to use website,SMS
+R001106,C00735,2023-02-09T00:00:00,,2.0,5.0,,Not sure,good value for money,In-App
+R001107,C00077,2026-05-04T00:00:00,9.0,5.0,5.0,5.0,Definitely,easy to use website,In-App
+R001108,C00762,2023-05-21T00:00:00,10.0,4.0,5.0,,Probably,quick delivery and good packaging,In-App
+R001109,C00306,2023-02-21T00:00:00,7.0,4.0,4.0,4.0,Not sure,good value for money,In-App
+R001110,C00121,2026-07-17T00:00:00,8.0,4.0,4.0,5.0,Probably,price could be better,SMS
+R001111,C00261,2024-06-28T00:00:00,9.0,4.0,4.0,5.0,Definitely,good value for money,In-App
+R001112,C00431,2023-10-14T00:00:00,7.0,4.0,5.0,4.0,Not sure,great experience overall,SMS
+R001113,C00552,2023-04-17T00:00:00,6.0,5.0,4.0,4.0,Probably not,product differed slightly from photos,In-App
+R001114,C00071,2026-06-19T00:00:00,9.0,5.0,3.0,,Probably not,item arrived later than expected,In-App
+R001115,C00243,2024-06-02T00:00:00,9.0,5.0,5.0,4.0,Probably,repeat customer and very satisfied,SMS
+R001116,C00005,2023-11-14T00:00:00,10.0,4.0,3.0,5.0,Definitely,checkout was confusing,Email
+R001117,C00561,2025-07-19T00:00:00,7.0,5.0,5.0,4.0,Definitely,great experience overall,In-App
+R001118,C00327,2024-06-19T00:00:00,9.0,2.0,4.0,,Definitely,great experience overall,Email
+R001119,C00483,2025-04-27T00:00:00,9.0,,3.0,5.0,Not sure,delivery updates were useful,Email
+R001120,C00051,2023-10-25T00:00:00,5.0,,,,Definitely,price could be better,Email
+R001121,C00587,2026-01-29T00:00:00,1.0,4.0,5.0,,Definitely,delivery updates were useful,In-App
+R001122,C00421,2026-08-27T00:00:00,8.0,,5.0,4.0,Not sure,size was not as expected,SMS
+R001123,C00155,2024-01-06T00:00:00,9.0,3.0,4.0,,Definitely,item arrived later than expected,Email
+R001124,C00242,2023-10-25T00:00:00,6.0,5.0,5.0,5.0,Probably,will recommend to friends,Email
+R001125,C00350,2026-08-07T00:00:00,10.0,4.0,,4.0,Probably,support team was helpful,In-App
+R001126,C00005,2025-01-13T00:00:00,10.0,4.0,4.0,3.0,Definitely,quick delivery and good packaging,In-App
+R001127,C00331,2023-07-06T00:00:00,2.0,5.0,4.0,4.0,Probably,good value for money,In-App
+R001128,C00455,2025-11-14T00:00:00,9.0,4.0,4.0,,Probably,will recommend to friends,In-App
+R001129,C00001,2024-06-26T00:00:00,8.0,4.0,5.0,4.0,Probably,excellent product quality,Email
+R001130,C00012,2023-08-25T00:00:00,1.0,,4.0,4.0,Definitely,checkout was confusing,In-App
+R001131,C00522,2024-09-01T00:00:00,7.0,5.0,3.0,,Definitely,great experience overall,In-App
+R001132,C00329,2025-06-24T00:00:00,4.0,5.0,3.0,,Probably,support team was helpful,Email
+R001133,C00188,2024-09-03T00:00:00,3.0,3.0,4.0,5.0,Probably,great experience overall,In-App
+R001134,C00087,2024-07-03T00:00:00,10.0,4.0,5.0,3.0,Probably,easy to use website,Website
+R001135,C00682,2025-06-19T00:00:00,9.0,5.0,4.0,,Probably,good value for money,SMS
+R001136,C00521,2026-06-21T00:00:00,9.0,3.0,5.0,3.0,Probably not,easy to use website,In-App
+R001137,,2024-03-27T00:00:00,9.0,5.0,,,Definitely,quick delivery and good packaging,SMS
+R001138,C00492,2024-07-05T00:00:00,4.0,5.0,4.0,4.0,Probably,size was not as expected,Website
+R001139,C00103,2025-05-13T00:00:00,7.0,5.0,4.0,4.0,Definitely,item arrived later than expected,Email
+R001140,C00605,2023-07-03T00:00:00,3.0,4.0,5.0,,Probably,checkout was confusing,SMS
+R001141,C00686,2026-03-15T00:00:00,9.0,4.0,2.0,4.0,Probably not,good value for money,Email
+R001142,C00502,2025-11-23T00:00:00,6.0,3.0,5.0,4.0,Definitely,product differed slightly from photos,Website
+R001143,C00540,2026-01-02T00:00:00,2.0,3.0,3.0,4.0,Probably,easy to use website,SMS
+R001144,C00589,2025-05-13T00:00:00,7.0,5.0,3.0,,Probably,product differed slightly from photos,In-App
+R001145,C00642,2024-10-03T00:00:00,10.0,4.0,3.0,4.0,Not sure,will recommend to friends,Email
+R001146,C00459,2023-04-20T00:00:00,8.0,4.0,2.0,4.0,Probably,product differed slightly from photos,SMS
+R001147,C00251,2024-04-17T00:00:00,6.0,4.0,4.0,3.0,Definitely,checkout was confusing,In-App
+R001148,,2026-04-07T00:00:00,5.0,5.0,5.0,,Probably not,size was not as expected,Email
+R001149,C00487,2025-12-22T00:00:00,6.0,5.0,3.0,,Definitely,quick delivery and good packaging,In-App
+R001150,C00217,2025-04-18T00:00:00,7.0,4.0,3.0,,Definitely,good value for money,In-App
+R001151,C00298,2026-08-05T00:00:00,9.0,3.0,1.0,4.0,Probably not,product differed slightly from photos,In-App
+R001152,C00131,2023-05-02T00:00:00,9.0,5.0,4.0,,Probably,packaging had too much plastic,In-App
+R001153,C00403,2023-07-16T00:00:00,0.0,3.0,1.0,4.0,Definitely,product differed slightly from photos,In-App
+R001154,C00141,2023-07-06T00:00:00,3.0,5.0,3.0,4.0,Probably,item arrived later than expected,In-App
+R001155,C00322,2025-01-24T00:00:00,9.0,5.0,3.0,4.0,Probably not,quick delivery and good packaging,In-App
+R001156,C00110,2025-06-22T00:00:00,6.0,4.0,4.0,5.0,Definitely,good value for money,In-App
+R001157,C00621,2024-07-18T00:00:00,8.0,4.0,5.0,3.0,Definitely,easy to use website,In-App
+R001158,,2024-11-26T00:00:00,7.0,4.0,5.0,4.0,Not sure,product differed slightly from photos,Email
+R001159,C00032,2025-02-04T00:00:00,7.0,4.0,5.0,5.0,Probably,great experience overall,SMS
+R001160,C00656,2024-07-31T00:00:00,3.0,2.0,4.0,3.0,Probably,product differed slightly from photos,Email
+R001161,C00722,2025-09-01T00:00:00,8.0,4.0,5.0,5.0,Definitely,item arrived later than expected,Email
+R001162,C00033,2026-07-06T00:00:00,9.0,4.0,3.0,4.0,Definitely,will recommend to friends,Email
+R001163,C00259,2023-07-30T00:00:00,4.0,2.0,2.0,3.0,Not sure,quick delivery and good packaging,In-App
+R001164,C00479,2025-04-27T00:00:00,8.0,5.0,4.0,,Not sure,will recommend to friends,Website
+R001165,C00228,2024-03-19T00:00:00,6.0,5.0,4.0,,Definitely,packaging had too much plastic,Email
+R001166,C00118,2023-09-01T00:00:00,5.0,3.0,,5.0,Probably,checkout was confusing,In-App
+R001167,C00575,2025-06-19T00:00:00,4.0,4.0,4.0,,Not sure,packaging had too much plastic,Email
+R001168,C00453,2026-09-01T00:00:00,5.0,3.0,5.0,5.0,Probably,price could be better,In-App
+R001169,C00137,2026-08-04T00:00:00,,5.0,3.0,3.0,Definitely,delivery updates were useful,In-App
+R001170,C00134,2023-01-18T00:00:00,4.0,5.0,4.0,1.0,Probably,good value for money,Email
+R001171,C00784,2024-03-27T00:00:00,9.0,4.0,4.0,,Probably,support team was helpful,Email
+R001172,C00022,2024-03-06T00:00:00,9.0,4.0,5.0,4.0,Definitely,product differed slightly from photos,In-App
+R001173,C00350,2026-01-12T00:00:00,8.0,4.0,1.0,,Definitely,repeat customer and very satisfied,Email
+R001174,C00568,2024-11-02T00:00:00,9.0,2.0,5.0,4.0,Definitely,price could be better,Website
+R001175,C00256,2023-11-02T00:00:00,7.0,4.0,4.0,5.0,Probably not,will recommend to friends,Email
+R001176,C00046,2024-07-10T00:00:00,6.0,,5.0,4.0,Definitely,good value for money,Email
+R001177,C00068,2023-06-07T00:00:00,7.0,5.0,3.0,,Definitely,great experience overall,Email
+R001178,C00621,2026-05-24T00:00:00,6.0,4.0,4.0,1.0,Definitely,repeat customer and very satisfied,In-App
+R001179,C00206,2025-01-31T00:00:00,7.0,4.0,5.0,3.0,Not sure,price could be better,Website
+R001180,,2024-06-01T00:00:00,6.0,4.0,5.0,3.0,Definitely,repeat customer and very satisfied,Email
+R001181,C00593,2024-01-02T00:00:00,7.0,4.0,5.0,5.0,Probably not,price could be better,Website
+R001182,C00648,2024-09-26T00:00:00,10.0,5.0,5.0,,Definitely,great experience overall,In-App
+R001183,C00665,2026-04-04T00:00:00,5.0,5.0,4.0,5.0,Definitely,price could be better,In-App
+R001184,C00298,2025-05-09T00:00:00,6.0,4.0,2.0,,Probably,quick delivery and good packaging,In-App
+R001185,C00266,2025-04-24T00:00:00,10.0,5.0,5.0,5.0,Not sure,product differed slightly from photos,SMS
+R001186,C00498,2026-06-30T00:00:00,8.0,5.0,3.0,5.0,Probably,product differed slightly from photos,SMS
+R001187,C00110,2024-10-10T00:00:00,8.0,,5.0,,Probably,excellent product quality,Email
+R001188,C00507,2023-06-10T00:00:00,9.0,4.0,4.0,,Definitely,packaging had too much plastic,Email
+R001189,,2023-01-10T00:00:00,10.0,5.0,,5.0,Probably,will recommend to friends,Email
+R001190,C00684,2026-03-08T00:00:00,10.0,1.0,4.0,5.0,Probably,quick delivery and good packaging,SMS
+R001191,C00669,2026-05-03T00:00:00,9.0,5.0,4.0,3.0,Definitely,great experience overall,In-App
+R001192,,2024-10-06T00:00:00,7.0,2.0,5.0,5.0,Probably,item arrived later than expected,SMS
+R001193,,2024-01-22T00:00:00,,5.0,5.0,4.0,Probably,product differed slightly from photos,Email
+R001194,C00711,2023-09-23T00:00:00,9.0,2.0,4.0,,Definitely,easy to use website,SMS
+R001195,C00567,2023-04-20T00:00:00,9.0,2.0,5.0,4.0,Definitely,quick delivery and good packaging,In-App
+R001196,C00622,2025-10-25T00:00:00,9.0,4.0,3.0,2.0,Definitely,checkout was confusing,In-App
+R001197,C00418,2023-07-01T00:00:00,2.0,4.0,4.0,5.0,Definitely,delivery updates were useful,In-App
+R001198,C00446,2024-01-26T00:00:00,5.0,1.0,3.0,,Probably,easy to use website,In-App
+R001199,C00399,2023-05-05T00:00:00,3.0,5.0,4.0,4.0,Definitely,easy to use website,Email
+R001200,C00751,2025-02-18T00:00:00,3.0,4.0,5.0,5.0,Definitely,size was not as expected,SMS
+R001201,C00007,2026-02-08T00:00:00,9.0,4.0,3.0,2.0,Definitely,delivery updates were useful,Email
+R001202,C00114,2024-12-15T00:00:00,10.0,4.0,3.0,3.0,Definitely,item arrived later than expected,SMS
+R001203,C00361,2025-06-23T00:00:00,0.0,5.0,5.0,5.0,Definitely,will recommend to friends,SMS
+R001204,C00361,2025-01-30T00:00:00,9.0,4.0,5.0,,Definitely,delivery updates were useful,Email
+R001205,C00311,2025-09-23T00:00:00,7.0,5.0,4.0,5.0,Definitely,easy to use website,SMS
+R001206,C00779,2025-07-29T00:00:00,5.0,2.0,5.0,,Definitely,support team was helpful,SMS
+R001207,C00777,2023-10-05T00:00:00,8.0,5.0,5.0,,Not sure,excellent product quality,Email
+R001208,C00453,2023-03-03T00:00:00,7.0,5.0,5.0,,Probably,checkout was confusing,SMS
+R001209,C00197,2026-08-28T00:00:00,0.0,5.0,5.0,3.0,Definitely,quick delivery and good packaging,SMS
+R001210,C00017,2023-08-12T00:00:00,,5.0,,3.0,Probably,will recommend to friends,Email
+R001211,C00795,2025-02-28T00:00:00,4.0,3.0,3.0,2.0,Probably,price could be better,SMS
+R001212,C00102,2023-03-08T00:00:00,7.0,4.0,4.0,5.0,Definitely,price could be better,SMS
+R001213,C00433,2023-04-09T00:00:00,8.0,2.0,4.0,5.0,Definitely,checkout was confusing,Email
+R001214,C00072,2023-12-02T00:00:00,7.0,3.0,2.0,5.0,Probably,support team was helpful,In-App
+R001215,C00027,2026-02-21T00:00:00,9.0,5.0,5.0,,Definitely,quick delivery and good packaging,Email
+R001216,C00228,2026-05-02T00:00:00,8.0,4.0,5.0,5.0,Probably,excellent product quality,Email
+R001217,C00492,2023-05-04T00:00:00,7.0,3.0,5.0,3.0,Probably,item arrived later than expected,Website
+R001218,C00069,2024-01-31T00:00:00,9.0,4.0,4.0,3.0,Probably,support team was helpful,SMS
+R001219,C00179,2023-01-19T00:00:00,8.0,5.0,5.0,,Definitely,great experience overall,SMS
+R001220,C00705,2023-04-03T00:00:00,7.0,3.0,3.0,3.0,Probably not,will recommend to friends,In-App
+R001221,C00252,2024-01-31T00:00:00,6.0,3.0,3.0,2.0,Definitely,great experience overall,Website
+R001222,C00797,2024-06-29T00:00:00,9.0,5.0,4.0,,Definitely,good value for money,Email
+R001223,C00605,2023-02-09T00:00:00,4.0,5.0,2.0,3.0,Probably,item arrived later than expected,In-App
+R001224,C00481,2025-05-23T00:00:00,8.0,1.0,4.0,3.0,Definitely,good value for money,In-App
+R001225,C00072,2023-09-10T00:00:00,8.0,3.0,4.0,,Probably,product differed slightly from photos,Email
+R001226,C00749,2026-04-02T00:00:00,4.0,4.0,5.0,5.0,Not sure,easy to use website,Email
+R001227,C00762,2023-11-03T00:00:00,9.0,5.0,5.0,4.0,Definitely,price could be better,Email
+R001228,C00510,2026-01-26T00:00:00,9.0,4.0,2.0,,Definitely,packaging had too much plastic,SMS
+R001229,C00649,2026-06-03T00:00:00,6.0,4.0,,,Probably,easy to use website,In-App
+R001230,C00182,2026-08-03T00:00:00,10.0,4.0,4.0,4.0,Probably,item arrived later than expected,SMS
+R001231,C00215,2023-11-20T00:00:00,5.0,5.0,5.0,,Probably,excellent product quality,SMS
+R001232,C00735,2026-01-12T00:00:00,8.0,5.0,4.0,2.0,Probably,quick delivery and good packaging,Email
+R001233,C00336,2023-11-16T00:00:00,8.0,4.0,,,Not sure,great experience overall,Email
+R001234,C00588,2026-06-25T00:00:00,6.0,,3.0,5.0,Probably not,good value for money,SMS
+R001235,C00096,2025-02-12T00:00:00,4.0,,4.0,,Probably not,price could be better,SMS
+R001236,C00325,2026-06-21T00:00:00,8.0,3.0,4.0,5.0,Not sure,support team was helpful,In-App
+R001237,C00278,2024-01-31T00:00:00,10.0,3.0,3.0,4.0,Definitely,great experience overall,SMS
+R001238,C00080,2025-03-31T00:00:00,8.0,5.0,,,Probably,quick delivery and good packaging,Website
+R001239,C00150,2026-05-07T00:00:00,10.0,4.0,4.0,,Probably,delivery updates were useful,SMS
+R001240,C00177,2023-10-26T00:00:00,8.0,4.0,3.0,,Probably,great experience overall,SMS
+R001241,C00674,2026-09-07T00:00:00,10.0,3.0,5.0,,Definitely,will recommend to friends,SMS
+R001242,C00642,2023-12-10T00:00:00,7.0,5.0,5.0,,Definitely,repeat customer and very satisfied,SMS
+R001243,C00435,2024-08-31T00:00:00,,4.0,3.0,5.0,Definitely,size was not as expected,Email
+R001244,C00522,2025-02-20T00:00:00,4.0,3.0,5.0,4.0,Definitely,price could be better,Email
+R001245,C00546,2026-03-22T00:00:00,6.0,4.0,2.0,2.0,Probably,repeat customer and very satisfied,In-App
+R001246,C00282,2025-09-14T00:00:00,8.0,5.0,5.0,,Definitely,delivery updates were useful,Email
+R001247,C00398,2026-07-16T00:00:00,9.0,4.0,3.0,3.0,Probably,delivery updates were useful,Website
+R001248,C00724,2025-01-22T00:00:00,8.0,5.0,4.0,4.0,Probably,checkout was confusing,Email
+R001249,,2024-07-01T00:00:00,6.0,5.0,4.0,5.0,Probably not,price could be better,Email
+R001250,C00238,2026-05-31T00:00:00,9.0,3.0,5.0,3.0,Probably,item arrived later than expected,Email
+R001251,C00573,2023-10-09T00:00:00,9.0,3.0,3.0,5.0,Definitely,product differed slightly from photos,SMS
+R001252,C00329,2024-09-15T00:00:00,7.0,4.0,3.0,,Probably not,price could be better,Website
+R001253,C00623,2026-03-16T00:00:00,10.0,4.0,1.0,5.0,Definitely,checkout was confusing,SMS
+R001254,C00277,2025-11-09T00:00:00,6.0,5.0,3.0,3.0,Definitely,packaging had too much plastic,Email
+R001255,C00207,2024-02-26T00:00:00,1.0,2.0,2.0,,Probably,checkout was confusing,In-App
+R001256,C00183,2023-12-04T00:00:00,4.0,3.0,2.0,,Probably,excellent product quality,SMS
+R001257,C00015,2025-10-16T00:00:00,7.0,5.0,5.0,1.0,Definitely,will recommend to friends,In-App
+R001258,C00099,2025-09-11T00:00:00,8.0,4.0,5.0,3.0,Probably,excellent product quality,In-App
+R001259,C00116,2025-04-22T00:00:00,8.0,5.0,3.0,1.0,Definitely,will recommend to friends,In-App
+R001260,C00132,2024-05-17T00:00:00,9.0,2.0,5.0,5.0,Not sure,will recommend to friends,Email
+R001261,C00279,2023-09-20T00:00:00,10.0,4.0,3.0,5.0,Definitely,checkout was confusing,In-App
+R001262,C00316,2026-07-01T00:00:00,9.0,5.0,5.0,4.0,Not sure,repeat customer and very satisfied,In-App
+R001263,,2026-03-22T00:00:00,9.0,5.0,3.0,,Probably,good value for money,In-App
+R001264,C00764,2026-04-18T00:00:00,9.0,4.0,2.0,5.0,Definitely,size was not as expected,Email
+R001265,C00067,2024-01-02T00:00:00,7.0,3.0,5.0,5.0,Definitely,packaging had too much plastic,SMS
+R001266,C00313,2026-03-26T00:00:00,,5.0,2.0,,Not sure,product differed slightly from photos,In-App
+R001267,C00547,2025-07-22T00:00:00,2.0,5.0,1.0,2.0,Probably,size was not as expected,SMS
+R001268,,2025-03-31T00:00:00,8.0,4.0,3.0,4.0,Definitely,easy to use website,Email
+R001269,C00648,2025-08-04T00:00:00,7.0,5.0,5.0,,Probably,excellent product quality,Email
+R001270,C00436,2026-02-28T00:00:00,7.0,4.0,5.0,4.0,Definitely,great experience overall,SMS
+R001271,C00102,2026-05-13T00:00:00,7.0,4.0,4.0,,Definitely,will recommend to friends,Email
+R001272,C00307,2026-08-12T00:00:00,7.0,5.0,3.0,,Probably,repeat customer and very satisfied,Email
+R001273,C00675,2026-05-15T00:00:00,4.0,5.0,5.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R001274,C00047,2025-01-29T00:00:00,6.0,5.0,1.0,2.0,Probably,easy to use website,Email
+R001275,C00385,2023-08-01T00:00:00,5.0,5.0,3.0,4.0,Probably,repeat customer and very satisfied,In-App
+R001276,,2024-03-19T00:00:00,6.0,3.0,4.0,5.0,Probably not,price could be better,In-App
+R001277,C00142,2023-05-02T00:00:00,2.0,4.0,5.0,,Probably,repeat customer and very satisfied,Email
+R001278,C00423,2026-06-03T00:00:00,5.0,4.0,4.0,5.0,Probably not,will recommend to friends,In-App
+R001279,C00291,2024-02-15T00:00:00,6.0,4.0,2.0,1.0,Definitely,product differed slightly from photos,Email
+R001280,,2025-06-03T00:00:00,6.0,5.0,5.0,4.0,Definitely,product differed slightly from photos,In-App
+R001281,C00034,2025-12-29T00:00:00,2.0,4.0,4.0,,Probably,will recommend to friends,Website
+R001282,C00771,2024-09-27T00:00:00,3.0,5.0,4.0,4.0,Probably not,will recommend to friends,In-App
+R001283,C00507,2023-06-24T00:00:00,3.0,3.0,3.0,,Not sure,good value for money,Website
+R001284,C00670,2023-06-23T00:00:00,1.0,4.0,5.0,5.0,Definitely,excellent product quality,In-App
+R001285,C00561,2023-11-24T00:00:00,9.0,4.0,5.0,5.0,Probably,delivery updates were useful,Website
+R001286,C00193,2026-01-10T00:00:00,8.0,5.0,4.0,4.0,Probably,price could be better,SMS
+R001287,C00665,2024-03-28T00:00:00,6.0,5.0,4.0,,Definitely,item arrived later than expected,In-App
+R001288,C00419,2024-03-20T00:00:00,3.0,4.0,3.0,,Probably,product differed slightly from photos,In-App
+R001289,C00571,2023-06-13T00:00:00,9.0,5.0,5.0,,Not sure,excellent product quality,Website
+R001290,C00309,2026-05-03T00:00:00,,4.0,1.0,,Probably not,good value for money,In-App
+R001291,C00661,2025-07-23T00:00:00,10.0,4.0,2.0,5.0,Not sure,delivery updates were useful,Email
+R001292,C00782,2023-09-06T00:00:00,1.0,4.0,5.0,4.0,Probably,quick delivery and good packaging,Email
+R001293,C00028,2024-06-08T00:00:00,5.0,5.0,5.0,5.0,Probably,item arrived later than expected,Website
+R001294,C00736,2024-10-12T00:00:00,9.0,3.0,4.0,4.0,Not sure,checkout was confusing,SMS
+R001295,C00447,2026-02-26T00:00:00,6.0,5.0,5.0,5.0,Definitely,support team was helpful,In-App
+R001296,C00592,2025-11-16T00:00:00,9.0,5.0,1.0,3.0,Not sure,size was not as expected,In-App
+R001297,C00446,2024-02-20T00:00:00,8.0,4.0,4.0,,Definitely,product differed slightly from photos,Website
+R001298,C00011,2025-11-16T00:00:00,9.0,4.0,4.0,,Probably,packaging had too much plastic,In-App
+R001299,C00397,2024-06-10T00:00:00,9.0,,4.0,5.0,Definitely,will recommend to friends,Email
+R001300,C00126,2023-08-27T00:00:00,0.0,4.0,4.0,2.0,Probably,packaging had too much plastic,SMS
+R001301,C00245,2024-06-07T00:00:00,6.0,5.0,4.0,5.0,Definitely,product differed slightly from photos,In-App
+R001302,C00230,2024-04-22T00:00:00,7.0,3.0,5.0,5.0,Definitely,good value for money,In-App
+R001303,,2023-05-20T00:00:00,9.0,3.0,5.0,3.0,Definitely,repeat customer and very satisfied,In-App
+R001304,,2024-09-19T00:00:00,8.0,5.0,1.0,5.0,Definitely,support team was helpful,In-App
+R001305,C00718,2023-10-24T00:00:00,9.0,1.0,4.0,4.0,Definitely,easy to use website,In-App
+R001306,C00655,2023-11-10T00:00:00,9.0,3.0,4.0,,Definitely,good value for money,SMS
+R001307,C00283,2023-07-21T00:00:00,6.0,4.0,5.0,5.0,Probably not,good value for money,In-App
+R001308,,2025-12-18T00:00:00,8.0,4.0,4.0,4.0,Definitely,checkout was confusing,Website
+R001309,C00767,2024-06-14T00:00:00,6.0,5.0,5.0,,Probably,will recommend to friends,SMS
+R001310,C00787,2026-04-11T00:00:00,6.0,3.0,4.0,5.0,Probably not,excellent product quality,In-App
+R001311,C00396,2025-05-15T00:00:00,8.0,5.0,2.0,5.0,Definitely,quick delivery and good packaging,SMS
+R001312,C00525,2025-04-01T00:00:00,9.0,4.0,4.0,3.0,Definitely,repeat customer and very satisfied,In-App
+R001313,C00114,2025-06-07T00:00:00,9.0,4.0,5.0,2.0,Not sure,packaging had too much plastic,SMS
+R001314,C00092,2025-09-06T00:00:00,9.0,4.0,,5.0,Definitely,great experience overall,Website
+R001315,C00482,2026-06-23T00:00:00,8.0,1.0,3.0,,Probably,quick delivery and good packaging,In-App
+R001316,C00794,2023-06-07T00:00:00,10.0,5.0,5.0,5.0,Definitely,price could be better,Website
+R001317,C00722,2026-08-05T00:00:00,2.0,5.0,5.0,,Probably,packaging had too much plastic,Email
+R001318,C00149,2026-09-12T00:00:00,7.0,5.0,5.0,,Probably,checkout was confusing,In-App
+R001319,C00704,2024-03-22T00:00:00,6.0,5.0,4.0,5.0,Definitely,good value for money,In-App
+R001320,C00618,2023-05-15T00:00:00,8.0,3.0,,,Definitely,item arrived later than expected,SMS
+R001321,,2026-06-14T00:00:00,5.0,5.0,5.0,,Definitely,will recommend to friends,In-App
+R001322,C00486,2024-04-16T00:00:00,9.0,,4.0,4.0,Probably,will recommend to friends,Website
+R001323,C00751,2025-08-17T00:00:00,9.0,5.0,2.0,4.0,Probably,support team was helpful,In-App
+R001324,,2026-03-26T00:00:00,8.0,4.0,5.0,,Probably,checkout was confusing,In-App
+R001325,C00638,2026-03-07T00:00:00,7.0,2.0,5.0,5.0,Definitely,product differed slightly from photos,In-App
+R001326,C00378,2024-06-08T00:00:00,10.0,5.0,5.0,4.0,Probably,excellent product quality,SMS
+R001327,C00027,2026-08-08T00:00:00,7.0,4.0,5.0,4.0,Definitely,good value for money,Email
+R001328,C00125,2026-09-13T00:00:00,9.0,5.0,3.0,5.0,Probably not,product differed slightly from photos,In-App
+R001329,C00313,2024-10-13T00:00:00,7.0,5.0,4.0,3.0,Definitely,quick delivery and good packaging,SMS
+R001330,C00163,2025-05-21T00:00:00,10.0,3.0,4.0,4.0,Definitely,quick delivery and good packaging,Email
+R001331,C00089,2025-04-12T00:00:00,9.0,4.0,4.0,2.0,Not sure,will recommend to friends,Website
+R001332,,2025-06-01T00:00:00,10.0,3.0,4.0,,Definitely,item arrived later than expected,In-App
+R001333,C00308,2025-10-10T00:00:00,9.0,2.0,5.0,4.0,Definitely,will recommend to friends,In-App
+R001334,C00332,2024-08-10T00:00:00,9.0,5.0,5.0,4.0,Probably,item arrived later than expected,Email
+R001335,C00053,2024-06-13T00:00:00,7.0,4.0,,3.0,Probably,great experience overall,Email
+R001336,C00033,2024-02-19T00:00:00,10.0,2.0,,,Definitely,delivery updates were useful,Email
+R001337,C00517,2025-08-09T00:00:00,0.0,4.0,4.0,,Definitely,easy to use website,In-App
+R001338,C00136,2023-08-10T00:00:00,10.0,5.0,4.0,,Definitely,item arrived later than expected,Email
+R001339,C00717,2026-06-18T00:00:00,9.0,4.0,,3.0,Not sure,size was not as expected,In-App
+R001340,C00453,2025-12-11T00:00:00,8.0,5.0,3.0,,Probably,support team was helpful,In-App
+R001341,C00560,2025-07-27T00:00:00,7.0,5.0,4.0,3.0,Definitely,delivery updates were useful,In-App
+R001342,C00333,2025-11-25T00:00:00,6.0,5.0,4.0,,Probably not,delivery updates were useful,SMS
+R001343,C00213,2024-10-27T00:00:00,4.0,,4.0,,Not sure,size was not as expected,Email
+R001344,C00655,2023-05-01T00:00:00,8.0,4.0,5.0,5.0,Probably,quick delivery and good packaging,In-App
+R001345,C00433,2023-07-08T00:00:00,8.0,4.0,5.0,4.0,Definitely,product differed slightly from photos,In-App
+R001346,C00001,2024-07-09T00:00:00,8.0,5.0,5.0,4.0,Probably,great experience overall,Email
+R001347,C00152,2026-08-25T00:00:00,10.0,4.0,5.0,3.0,Probably,excellent product quality,In-App
+R001348,C00606,2024-03-10T00:00:00,9.0,3.0,4.0,2.0,Definitely,item arrived later than expected,Email
+R001349,C00534,2024-12-31T00:00:00,1.0,5.0,5.0,3.0,Not sure,delivery updates were useful,Email
+R001350,C00602,2024-03-29T00:00:00,6.0,5.0,4.0,3.0,Probably,easy to use website,In-App
+R001351,C00087,2024-02-29T00:00:00,9.0,5.0,4.0,1.0,Probably,support team was helpful,Email
+R001352,,2025-02-06T00:00:00,8.0,5.0,4.0,,Definitely,item arrived later than expected,SMS
+R001353,C00205,2025-01-27T00:00:00,,3.0,4.0,4.0,Probably,price could be better,Email
+R001354,C00315,2024-04-10T00:00:00,10.0,5.0,4.0,,Not sure,repeat customer and very satisfied,Website
+R001355,C00506,2024-04-06T00:00:00,6.0,5.0,5.0,4.0,Definitely,price could be better,SMS
+R001356,C00231,2024-03-09T00:00:00,10.0,4.0,3.0,4.0,Definitely,checkout was confusing,Email
+R001357,,2023-11-02T00:00:00,8.0,4.0,3.0,5.0,Not sure,great experience overall,Email
+R001358,C00581,2025-05-12T00:00:00,4.0,5.0,4.0,5.0,Definitely,will recommend to friends,Email
+R001359,C00618,2026-06-25T00:00:00,5.0,4.0,5.0,5.0,Definitely,packaging had too much plastic,Email
+R001360,C00104,2026-07-04T00:00:00,7.0,3.0,5.0,,Definitely,delivery updates were useful,Email
+R001361,,2025-07-01T00:00:00,5.0,4.0,3.0,,Definitely,size was not as expected,SMS
+R001362,C00526,2023-03-14T00:00:00,2.0,4.0,3.0,5.0,Definitely,easy to use website,In-App
+R001363,C00722,2024-06-16T00:00:00,4.0,3.0,3.0,5.0,Definitely,item arrived later than expected,In-App
+R001364,C00669,2024-12-28T00:00:00,1.0,5.0,5.0,3.0,Probably,great experience overall,Email
+R001365,C00216,2026-08-23T00:00:00,5.0,5.0,5.0,,Probably,good value for money,In-App
+R001366,C00603,2024-03-22T00:00:00,6.0,5.0,3.0,5.0,Definitely,packaging had too much plastic,In-App
+R001367,C00245,2026-01-03T00:00:00,7.0,4.0,,,Definitely,easy to use website,Email
+R001368,C00751,2023-11-29T00:00:00,6.0,4.0,5.0,5.0,Not sure,product differed slightly from photos,Website
+R001369,C00654,2023-11-15T00:00:00,7.0,4.0,3.0,5.0,Definitely,repeat customer and very satisfied,Website
+R001370,C00359,2026-08-22T00:00:00,8.0,5.0,3.0,4.0,Not sure,checkout was confusing,SMS
+R001371,C00148,2026-05-21T00:00:00,8.0,4.0,4.0,5.0,Not sure,item arrived later than expected,Email
+R001372,C00582,2025-05-25T00:00:00,5.0,3.0,3.0,,Not sure,great experience overall,SMS
+R001373,C00147,2023-11-24T00:00:00,7.0,4.0,5.0,3.0,Definitely,quick delivery and good packaging,Email
+R001374,C00761,2026-05-07T00:00:00,,,4.0,3.0,Probably,good value for money,SMS
+R001375,C00251,2026-07-06T00:00:00,10.0,4.0,5.0,,Definitely,support team was helpful,Email
+R001376,C00663,2023-02-12T00:00:00,,5.0,5.0,4.0,Definitely,support team was helpful,Email
+R001377,C00049,2023-08-03T00:00:00,7.0,4.0,3.0,3.0,Definitely,good value for money,Email
+R001378,C00567,2024-10-06T00:00:00,10.0,4.0,,4.0,Definitely,easy to use website,In-App
+R001379,C00309,2023-11-03T00:00:00,6.0,4.0,4.0,4.0,Definitely,will recommend to friends,Website
+R001380,C00114,2024-07-16T00:00:00,4.0,4.0,2.0,,Probably,product differed slightly from photos,In-App
+R001381,C00775,2025-11-28T00:00:00,8.0,1.0,5.0,,Probably,good value for money,Email
+R001382,C00639,2024-02-20T00:00:00,9.0,3.0,4.0,3.0,Probably,size was not as expected,SMS
+R001383,C00578,2024-12-17T00:00:00,7.0,5.0,3.0,,Probably,repeat customer and very satisfied,In-App
+R001384,C00211,2026-03-23T00:00:00,8.0,5.0,4.0,5.0,Probably,checkout was confusing,In-App
+R001385,C00287,2024-07-25T00:00:00,2.0,4.0,5.0,,Not sure,great experience overall,Email
+R001386,C00732,2024-11-07T00:00:00,9.0,2.0,4.0,,Probably,item arrived later than expected,Email
+R001387,C00001,2023-01-12T00:00:00,4.0,4.0,2.0,1.0,Probably,packaging had too much plastic,Website
+R001388,C00146,2025-04-14T00:00:00,3.0,4.0,4.0,4.0,Probably not,checkout was confusing,In-App
+R001389,C00501,2026-04-01T00:00:00,7.0,5.0,4.0,5.0,Probably not,easy to use website,In-App
+R001390,C00242,2023-03-13T00:00:00,2.0,4.0,5.0,,Probably,product differed slightly from photos,Email
+R001391,C00582,2023-05-04T00:00:00,10.0,4.0,4.0,5.0,Probably,repeat customer and very satisfied,In-App
+R001392,C00506,2024-05-27T00:00:00,8.0,5.0,4.0,5.0,Definitely,good value for money,Email
+R001393,C00152,2025-01-10T00:00:00,10.0,4.0,4.0,3.0,Definitely,packaging had too much plastic,SMS
+R001394,C00520,2024-01-30T00:00:00,8.0,5.0,4.0,,Definitely,price could be better,Email
+R001395,C00435,2026-05-19T00:00:00,,5.0,3.0,,Probably,product differed slightly from photos,In-App
+R001396,C00654,2026-01-21T00:00:00,9.0,5.0,5.0,3.0,Probably not,good value for money,Email
+R001397,C00690,2024-06-17T00:00:00,5.0,1.0,4.0,4.0,Not sure,repeat customer and very satisfied,Email
+R001398,,2023-10-01T00:00:00,8.0,4.0,5.0,4.0,Not sure,quick delivery and good packaging,Email
+R001399,C00316,2025-02-09T00:00:00,8.0,4.0,3.0,,Probably not,packaging had too much plastic,SMS
+R001400,C00093,2025-05-31T00:00:00,7.0,2.0,5.0,3.0,Probably,easy to use website,SMS
+R001401,C00771,2024-08-24T00:00:00,9.0,4.0,4.0,,Not sure,size was not as expected,SMS
+R001402,,2025-09-07T00:00:00,5.0,4.0,4.0,4.0,Definitely,easy to use website,In-App
+R001403,C00022,2025-03-14T00:00:00,6.0,5.0,5.0,,Not sure,excellent product quality,Website
+R001404,C00503,2024-08-21T00:00:00,9.0,2.0,4.0,3.0,Probably,support team was helpful,Email
+R001405,C00686,2026-07-08T00:00:00,9.0,3.0,2.0,,Probably,delivery updates were useful,In-App
+R001406,,2025-11-21T00:00:00,3.0,4.0,5.0,4.0,Probably,will recommend to friends,Website
+R001407,C00403,2023-04-15T00:00:00,7.0,4.0,5.0,3.0,Definitely,delivery updates were useful,In-App
+R001408,C00644,2024-12-24T00:00:00,9.0,5.0,2.0,,Probably not,support team was helpful,In-App
+R001409,C00705,2026-03-13T00:00:00,8.0,5.0,3.0,5.0,Probably,packaging had too much plastic,In-App
+R001410,C00014,2023-12-18T00:00:00,8.0,5.0,4.0,,Probably not,size was not as expected,Email
+R001411,C00418,2023-11-12T00:00:00,10.0,5.0,5.0,5.0,Definitely,delivery updates were useful,Website
+R001412,C00586,2024-11-21T00:00:00,6.0,5.0,4.0,5.0,Definitely,will recommend to friends,SMS
+R001413,C00106,2024-10-20T00:00:00,3.0,5.0,4.0,2.0,Not sure,support team was helpful,In-App
+R001414,C00359,2025-12-23T00:00:00,10.0,4.0,5.0,3.0,Probably,delivery updates were useful,Email
+R001415,C00113,2025-09-08T00:00:00,9.0,4.0,3.0,4.0,Not sure,support team was helpful,SMS
+R001416,C00153,2023-04-14T00:00:00,10.0,4.0,5.0,,Probably,quick delivery and good packaging,In-App
+R001417,C00132,2025-02-08T00:00:00,8.0,2.0,3.0,4.0,Definitely,checkout was confusing,Website
+R001418,C00094,2026-01-25T00:00:00,,3.0,4.0,5.0,Not sure,packaging had too much plastic,Email
+R001419,C00764,2024-03-09T00:00:00,9.0,5.0,,4.0,Probably,quick delivery and good packaging,In-App
+R001420,C00192,2023-12-23T00:00:00,,4.0,2.0,4.0,Definitely,product differed slightly from photos,In-App
+R001421,C00543,2023-10-23T00:00:00,5.0,3.0,4.0,,Definitely,repeat customer and very satisfied,Website
+R001422,C00762,2026-06-06T00:00:00,,5.0,4.0,4.0,Definitely,easy to use website,Email
+R001423,C00303,2024-07-05T00:00:00,7.0,4.0,5.0,,Probably,excellent product quality,Email
+R001424,C00768,2025-02-15T00:00:00,10.0,5.0,,4.0,Not sure,quick delivery and good packaging,Website
+R001425,C00322,2026-01-22T00:00:00,7.0,5.0,1.0,2.0,Definitely,product differed slightly from photos,Email
+R001426,C00614,2024-04-21T00:00:00,8.0,2.0,4.0,5.0,Probably,price could be better,In-App
+R001427,C00463,2025-09-19T00:00:00,8.0,4.0,4.0,4.0,Not sure,repeat customer and very satisfied,SMS
+R001428,C00016,2025-06-11T00:00:00,9.0,4.0,3.0,,Definitely,repeat customer and very satisfied,In-App
+R001429,C00195,2025-09-19T00:00:00,8.0,4.0,3.0,5.0,Probably not,will recommend to friends,Email
+R001430,C00022,2025-08-10T00:00:00,7.0,5.0,3.0,3.0,Probably,great experience overall,Email
+R001431,C00664,2025-03-03T00:00:00,6.0,4.0,3.0,5.0,Definitely,excellent product quality,SMS
+R001432,C00530,2024-01-20T00:00:00,6.0,4.0,5.0,3.0,Not sure,price could be better,Email
+R001433,,2026-05-28T00:00:00,9.0,4.0,5.0,3.0,Not sure,delivery updates were useful,In-App
+R001434,C00166,2024-05-14T00:00:00,10.0,5.0,4.0,5.0,Probably,repeat customer and very satisfied,In-App
+R001435,C00459,2025-10-31T00:00:00,0.0,,4.0,,Definitely,support team was helpful,Email
+R001436,C00760,2024-07-05T00:00:00,4.0,3.0,5.0,,Probably,checkout was confusing,Email
+R001437,C00379,2024-07-22T00:00:00,7.0,3.0,4.0,,Definitely,will recommend to friends,Email
+R001438,C00087,2024-04-28T00:00:00,6.0,3.0,3.0,1.0,Probably,packaging had too much plastic,Website
+R001439,C00128,2025-03-23T00:00:00,8.0,5.0,5.0,4.0,Probably,price could be better,In-App
+R001440,C00297,2024-12-25T00:00:00,7.0,5.0,4.0,3.0,Probably,item arrived later than expected,Email
+R001441,C00738,2025-10-09T00:00:00,3.0,5.0,2.0,5.0,Probably,product differed slightly from photos,SMS
+R001442,C00147,2025-04-11T00:00:00,7.0,4.0,4.0,,Probably,delivery updates were useful,In-App
+R001443,C00221,2024-11-19T00:00:00,6.0,2.0,4.0,3.0,Probably not,packaging had too much plastic,Email
+R001444,C00102,2026-03-29T00:00:00,10.0,5.0,4.0,4.0,Probably,good value for money,In-App
+R001445,C00782,2023-06-23T00:00:00,5.0,4.0,4.0,5.0,Not sure,will recommend to friends,In-App
+R001446,C00289,2025-01-02T00:00:00,8.0,2.0,4.0,3.0,Definitely,good value for money,Email
+R001447,C00295,2024-09-04T00:00:00,6.0,4.0,5.0,4.0,Probably,product differed slightly from photos,Email
+R001448,,2023-05-28T00:00:00,10.0,3.0,4.0,4.0,Probably not,great experience overall,Email
+R001449,,2023-11-29T00:00:00,7.0,3.0,5.0,5.0,Probably,will recommend to friends,SMS
+R001450,C00720,2024-10-02T00:00:00,2.0,4.0,5.0,2.0,Definitely,support team was helpful,SMS
+R001451,C00541,2026-01-22T00:00:00,8.0,3.0,4.0,4.0,Definitely,quick delivery and good packaging,Email
+R001452,,2025-10-24T00:00:00,8.0,5.0,,3.0,Not sure,size was not as expected,Email
+R001453,,2023-09-24T00:00:00,4.0,5.0,5.0,4.0,Probably,size was not as expected,In-App
+R001454,C00003,2024-07-21T00:00:00,7.0,5.0,3.0,4.0,Definitely,will recommend to friends,In-App
+R001455,C00493,2024-06-10T00:00:00,8.0,2.0,4.0,,Definitely,good value for money,Email
+R001456,C00730,2025-08-02T00:00:00,5.0,4.0,4.0,4.0,Definitely,easy to use website,Email
+R001457,C00149,2023-05-16T00:00:00,8.0,5.0,2.0,,Probably,good value for money,SMS
+R001458,C00710,2025-12-24T00:00:00,8.0,4.0,3.0,4.0,Definitely,excellent product quality,Email
+R001459,,2026-07-16T00:00:00,8.0,3.0,5.0,5.0,Definitely,item arrived later than expected,Email
+R001460,C00509,2023-07-29T00:00:00,10.0,4.0,5.0,,Definitely,price could be better,SMS
+R001461,C00439,2023-07-18T00:00:00,10.0,2.0,5.0,3.0,Definitely,good value for money,SMS
+R001462,C00210,2024-12-07T00:00:00,8.0,4.0,4.0,4.0,Definitely,delivery updates were useful,Email
+R001463,C00191,2025-07-24T00:00:00,0.0,2.0,5.0,5.0,Probably,size was not as expected,In-App
+R001464,C00204,2024-11-07T00:00:00,9.0,2.0,4.0,,Probably,packaging had too much plastic,In-App
+R001465,C00188,2025-03-29T00:00:00,8.0,3.0,3.0,4.0,Not sure,item arrived later than expected,In-App
+R001466,C00138,2025-07-21T00:00:00,7.0,4.0,4.0,,Definitely,packaging had too much plastic,In-App
+R001467,C00540,2023-11-17T00:00:00,4.0,2.0,5.0,,Not sure,size was not as expected,Email
+R001468,C00724,2023-06-26T00:00:00,6.0,5.0,4.0,5.0,Probably,repeat customer and very satisfied,Email
+R001469,C00509,2026-06-05T00:00:00,7.0,5.0,1.0,5.0,Definitely,great experience overall,In-App
+R001470,C00243,2023-07-12T00:00:00,6.0,3.0,3.0,2.0,Definitely,will recommend to friends,In-App
+R001471,,2024-11-21T00:00:00,8.0,5.0,4.0,5.0,Probably,easy to use website,In-App
+R001472,C00370,2025-04-05T00:00:00,6.0,4.0,5.0,4.0,Probably,size was not as expected,In-App
+R001473,C00699,2023-03-22T00:00:00,,5.0,2.0,4.0,Probably not,packaging had too much plastic,Email
+R001474,,2023-06-11T00:00:00,7.0,4.0,4.0,4.0,Not sure,great experience overall,SMS
+R001475,C00541,2024-11-19T00:00:00,8.0,2.0,4.0,5.0,Definitely,quick delivery and good packaging,Email
+R001476,C00622,2024-01-28T00:00:00,7.0,4.0,3.0,,Definitely,delivery updates were useful,Email
+R001477,,2025-06-10T00:00:00,8.0,4.0,4.0,,Probably,item arrived later than expected,In-App
+R001478,C00122,2024-11-12T00:00:00,8.0,3.0,4.0,,Definitely,easy to use website,Website
+R001479,C00210,2023-01-23T00:00:00,6.0,4.0,4.0,4.0,Definitely,quick delivery and good packaging,In-App
+R001480,C00320,2026-08-27T00:00:00,6.0,3.0,5.0,5.0,Definitely,price could be better,SMS
+R001481,C00076,2023-06-10T00:00:00,6.0,,4.0,4.0,Definitely,delivery updates were useful,In-App
+R001482,C00489,2025-05-07T00:00:00,7.0,5.0,,,Probably,price could be better,Email
+R001483,C00231,2024-06-15T00:00:00,8.0,5.0,3.0,,Probably,price could be better,SMS
+R001484,C00323,2025-10-03T00:00:00,7.0,3.0,3.0,,Probably,price could be better,In-App
+R001485,C00274,2026-01-15T00:00:00,6.0,4.0,4.0,4.0,Probably,product differed slightly from photos,Email
+R001486,C00501,2025-01-06T00:00:00,8.0,4.0,4.0,4.0,Definitely,size was not as expected,SMS
+R001487,C00237,2026-02-16T00:00:00,9.0,5.0,4.0,3.0,Definitely,checkout was confusing,SMS
+R001488,C00276,2024-05-13T00:00:00,9.0,5.0,4.0,4.0,Probably,will recommend to friends,Email
+R001489,C00588,2023-08-02T00:00:00,9.0,,4.0,4.0,Not sure,good value for money,SMS
+R001490,C00613,2026-08-03T00:00:00,8.0,3.0,4.0,4.0,Not sure,product differed slightly from photos,In-App
+R001491,C00728,2025-05-16T00:00:00,6.0,5.0,4.0,5.0,Definitely,repeat customer and very satisfied,SMS
+R001492,C00227,2024-03-29T00:00:00,8.0,5.0,4.0,,Definitely,checkout was confusing,Email
+R001493,C00080,2025-03-06T00:00:00,4.0,4.0,4.0,5.0,Definitely,quick delivery and good packaging,In-App
+R001494,C00459,2025-06-17T00:00:00,7.0,5.0,5.0,5.0,Probably,easy to use website,In-App
+R001495,C00229,2024-05-05T00:00:00,5.0,5.0,3.0,3.0,Definitely,easy to use website,In-App
+R001496,C00588,2025-04-21T00:00:00,9.0,4.0,5.0,,Probably,checkout was confusing,Email
+R001497,C00352,2023-06-05T00:00:00,9.0,1.0,4.0,5.0,Not sure,delivery updates were useful,In-App
+R001498,C00172,2025-03-31T00:00:00,8.0,,3.0,4.0,Not sure,item arrived later than expected,In-App
+R001499,C00635,2026-02-05T00:00:00,7.0,5.0,2.0,4.0,Definitely,good value for money,Website
+R001500,C00343,2023-01-14T00:00:00,1.0,3.0,3.0,,Probably,good value for money,In-App
+R001501,C00174,2024-05-21T00:00:00,5.0,5.0,2.0,5.0,Definitely,will recommend to friends,Email
+R001502,C00687,2025-08-22T00:00:00,6.0,4.0,4.0,,Probably,price could be better,SMS
+R001503,C00586,2025-01-29T00:00:00,8.0,,2.0,,Probably,price could be better,SMS
+R001504,C00659,2024-04-02T00:00:00,8.0,4.0,4.0,,Probably,good value for money,Email
+R001505,C00679,2023-04-24T00:00:00,4.0,5.0,2.0,5.0,Definitely,item arrived later than expected,Website
+R001506,,2025-07-14T00:00:00,0.0,4.0,4.0,,Probably,good value for money,SMS
+R001507,C00449,2025-03-26T00:00:00,6.0,4.0,2.0,,Not sure,product differed slightly from photos,In-App
+R001508,C00368,2025-12-18T00:00:00,8.0,4.0,5.0,4.0,Probably,quick delivery and good packaging,In-App
+R001509,C00798,2023-02-20T00:00:00,6.0,3.0,2.0,,Probably,great experience overall,Email
+R001510,C00138,2023-09-04T00:00:00,4.0,3.0,4.0,3.0,Not sure,quick delivery and good packaging,In-App
+R001511,C00639,2024-07-29T00:00:00,9.0,4.0,3.0,2.0,Probably not,price could be better,In-App
+R001512,C00488,2023-05-23T00:00:00,6.0,1.0,3.0,5.0,Probably not,repeat customer and very satisfied,In-App
+R001513,C00089,2026-09-27T00:00:00,4.0,4.0,2.0,,Definitely,size was not as expected,Email
+R001514,C00796,2024-02-12T00:00:00,,4.0,4.0,4.0,Probably,price could be better,Email
+R001515,C00627,2025-10-12T00:00:00,7.0,5.0,4.0,3.0,Definitely,excellent product quality,Email
+R001516,C00184,2023-03-30T00:00:00,7.0,5.0,2.0,4.0,Definitely,price could be better,Email
+R001517,C00735,2023-04-02T00:00:00,7.0,5.0,5.0,,Not sure,delivery updates were useful,In-App
+R001518,C00631,2025-03-27T00:00:00,10.0,4.0,1.0,,Not sure,size was not as expected,SMS
+R001519,,2026-05-12T00:00:00,10.0,3.0,1.0,4.0,Not sure,repeat customer and very satisfied,In-App
+R001520,C00001,2023-02-20T00:00:00,7.0,5.0,3.0,5.0,Definitely,packaging had too much plastic,Email
+R001521,,2024-08-10T00:00:00,8.0,5.0,1.0,,Definitely,price could be better,Email
+R001522,C00597,2023-03-25T00:00:00,9.0,5.0,4.0,5.0,Probably not,delivery updates were useful,SMS
+R001523,C00277,2023-12-27T00:00:00,8.0,4.0,5.0,4.0,Definitely,price could be better,Email
+R001524,C00699,2023-06-19T00:00:00,6.0,4.0,2.0,,Definitely,checkout was confusing,SMS
+R001525,C00188,2025-11-30T00:00:00,8.0,4.0,2.0,4.0,Probably not,great experience overall,Email
+R001526,C00491,2025-02-16T00:00:00,9.0,4.0,3.0,4.0,Probably,price could be better,In-App
+R001527,C00104,2025-03-21T00:00:00,6.0,,3.0,5.0,Definitely,will recommend to friends,In-App
+R001528,C00611,2024-06-22T00:00:00,9.0,5.0,4.0,,Definitely,support team was helpful,Email
+R001529,C00455,2025-01-15T00:00:00,8.0,4.0,4.0,2.0,Probably,size was not as expected,In-App
+R001530,,2026-03-22T00:00:00,8.0,5.0,5.0,4.0,Definitely,great experience overall,Email
+R001531,C00363,2023-10-04T00:00:00,8.0,3.0,3.0,4.0,Probably,great experience overall,SMS
+R001532,C00582,2026-08-28T00:00:00,7.0,5.0,1.0,4.0,Probably not,product differed slightly from photos,In-App
+R001533,C00092,2025-01-05T00:00:00,8.0,3.0,4.0,,Probably,great experience overall,Email
+R001534,C00334,2024-04-11T00:00:00,7.0,3.0,4.0,,Not sure,repeat customer and very satisfied,In-App
+R001535,C00020,2024-05-30T00:00:00,7.0,3.0,4.0,4.0,Not sure,size was not as expected,In-App
+R001536,,2024-03-05T00:00:00,10.0,5.0,4.0,4.0,Probably,will recommend to friends,Website
+R001537,C00228,2025-03-03T00:00:00,1.0,5.0,3.0,,Probably,checkout was confusing,SMS
+R001538,C00447,2024-12-15T00:00:00,9.0,5.0,1.0,,Probably,repeat customer and very satisfied,In-App
+R001539,,2024-05-22T00:00:00,8.0,4.0,,5.0,Probably not,price could be better,SMS
+R001540,C00750,2023-12-06T00:00:00,6.0,5.0,1.0,5.0,Definitely,product differed slightly from photos,Email
+R001541,,2024-06-13T00:00:00,8.0,4.0,4.0,3.0,Definitely,quick delivery and good packaging,Website
+R001542,C00220,2023-09-13T00:00:00,7.0,5.0,5.0,,Definitely,delivery updates were useful,Email
+R001543,C00061,2023-11-05T00:00:00,2.0,5.0,4.0,5.0,Probably not,item arrived later than expected,Email
+R001544,C00622,2023-04-21T00:00:00,8.0,1.0,4.0,2.0,Probably,excellent product quality,In-App
+R001545,C00034,2023-06-16T00:00:00,10.0,4.0,,4.0,Not sure,checkout was confusing,Email
+R001546,C00509,2026-07-12T00:00:00,9.0,2.0,4.0,5.0,Probably,good value for money,Email
+R001547,C00077,2023-08-15T00:00:00,8.0,4.0,5.0,4.0,Probably,support team was helpful,In-App
+R001548,C00783,2023-03-30T00:00:00,10.0,5.0,3.0,,Definitely,item arrived later than expected,SMS
+R001549,,2024-01-22T00:00:00,10.0,4.0,4.0,4.0,Definitely,excellent product quality,SMS
+R001550,C00181,2024-06-10T00:00:00,5.0,4.0,,5.0,Not sure,delivery updates were useful,In-App
+R001551,,2024-04-17T00:00:00,7.0,2.0,4.0,5.0,Probably,checkout was confusing,Email
+R001552,C00681,2023-09-17T00:00:00,7.0,5.0,4.0,4.0,Not sure,product differed slightly from photos,In-App
+R001553,C00588,2023-04-01T00:00:00,8.0,4.0,2.0,3.0,Probably,excellent product quality,SMS
+R001554,C00489,2024-12-25T00:00:00,9.0,,,5.0,Probably,delivery updates were useful,Email
+R001555,C00672,2026-02-14T00:00:00,9.0,3.0,,3.0,Probably,product differed slightly from photos,In-App
+R001556,C00781,2023-04-22T00:00:00,,4.0,5.0,5.0,Definitely,will recommend to friends,SMS
+R001557,C00131,2023-11-01T00:00:00,7.0,5.0,4.0,3.0,Probably,good value for money,Website
+R001558,,2025-10-24T00:00:00,8.0,4.0,2.0,2.0,Definitely,quick delivery and good packaging,Email
+R001559,C00425,2023-11-12T00:00:00,8.0,5.0,5.0,3.0,Definitely,quick delivery and good packaging,SMS
+R001560,C00661,2025-12-03T00:00:00,2.0,4.0,5.0,1.0,Probably,item arrived later than expected,SMS
+R001561,C00626,2023-06-17T00:00:00,2.0,5.0,4.0,4.0,Probably,item arrived later than expected,SMS
+R001562,,2025-01-17T00:00:00,6.0,5.0,2.0,,Probably,good value for money,Email
+R001563,C00468,2025-09-14T00:00:00,10.0,,3.0,4.0,Definitely,excellent product quality,Email
+R001564,C00364,2023-05-16T00:00:00,7.0,2.0,3.0,5.0,Definitely,easy to use website,In-App
+R001565,C00068,2023-12-06T00:00:00,2.0,3.0,2.0,5.0,Probably,delivery updates were useful,Website
+R001566,C00157,2024-03-30T00:00:00,2.0,5.0,4.0,2.0,Definitely,great experience overall,In-App
+R001567,C00541,2025-04-30T00:00:00,9.0,5.0,5.0,4.0,Probably,easy to use website,In-App
+R001568,C00212,2025-01-25T00:00:00,10.0,5.0,5.0,,Not sure,packaging had too much plastic,Website
+R001569,C00370,2025-07-01T00:00:00,1.0,,5.0,,Probably,price could be better,In-App
+R001570,,2026-06-28T00:00:00,8.0,3.0,5.0,3.0,Probably,repeat customer and very satisfied,Email
+R001571,C00283,2024-04-06T00:00:00,4.0,4.0,3.0,5.0,Definitely,quick delivery and good packaging,Email
+R001572,C00459,2023-06-17T00:00:00,7.0,4.0,5.0,2.0,Definitely,good value for money,In-App
+R001573,C00770,2023-02-19T00:00:00,7.0,3.0,5.0,,Probably,price could be better,Email
+R001574,C00131,2025-01-27T00:00:00,7.0,3.0,3.0,3.0,Definitely,checkout was confusing,SMS
+R001575,,2026-09-28T00:00:00,6.0,4.0,2.0,5.0,Definitely,easy to use website,Email
+R001576,C00269,2025-09-26T00:00:00,8.0,4.0,4.0,5.0,Definitely,checkout was confusing,Email
+R001577,C00781,2025-01-26T00:00:00,0.0,3.0,4.0,4.0,Definitely,product differed slightly from photos,SMS
+R001578,C00456,2024-07-29T00:00:00,6.0,5.0,3.0,4.0,Probably,excellent product quality,Email
+R001579,C00493,2026-03-06T00:00:00,8.0,5.0,4.0,,Definitely,quick delivery and good packaging,Email
+R001580,C00569,2024-12-28T00:00:00,5.0,4.0,5.0,3.0,Probably not,price could be better,SMS
+R001581,C00083,2023-10-08T00:00:00,8.0,4.0,4.0,,Probably,checkout was confusing,In-App
+R001582,C00400,2023-10-10T00:00:00,5.0,5.0,4.0,4.0,Not sure,price could be better,SMS
+R001583,C00003,2025-03-07T00:00:00,6.0,4.0,5.0,,Probably,packaging had too much plastic,In-App
+R001584,C00613,2026-08-17T00:00:00,8.0,,1.0,2.0,Probably not,item arrived later than expected,Website
+R001585,C00217,2023-07-07T00:00:00,10.0,2.0,4.0,5.0,Definitely,item arrived later than expected,In-App
+R001586,C00177,2026-04-14T00:00:00,8.0,3.0,3.0,,Definitely,price could be better,In-App
+R001587,,2025-05-30T00:00:00,7.0,5.0,4.0,3.0,Definitely,quick delivery and good packaging,Email
+R001588,C00464,2025-12-30T00:00:00,9.0,2.0,4.0,1.0,Probably,will recommend to friends,In-App
+R001589,C00235,2024-05-08T00:00:00,9.0,3.0,4.0,2.0,Probably,quick delivery and good packaging,SMS
+R001590,C00009,2026-09-05T00:00:00,8.0,5.0,5.0,,Definitely,delivery updates were useful,Website
+R001591,C00021,2023-02-14T00:00:00,7.0,4.0,4.0,,Definitely,support team was helpful,In-App
+R001592,C00278,2025-10-20T00:00:00,6.0,5.0,5.0,3.0,Probably,checkout was confusing,In-App
+R001593,,2025-04-21T00:00:00,0.0,5.0,4.0,4.0,Definitely,item arrived later than expected,In-App
+R001594,C00543,2026-03-18T00:00:00,7.0,5.0,1.0,5.0,Definitely,quick delivery and good packaging,In-App
+R001595,C00550,2024-07-26T00:00:00,4.0,5.0,4.0,4.0,Probably,packaging had too much plastic,In-App
+R001596,C00307,2026-03-20T00:00:00,9.0,3.0,,4.0,Definitely,delivery updates were useful,In-App
+R001597,C00389,2023-07-18T00:00:00,8.0,4.0,3.0,1.0,Definitely,quick delivery and good packaging,Email
+R001598,C00294,2024-09-04T00:00:00,9.0,4.0,4.0,,Probably,checkout was confusing,Email
+R001599,C00787,2024-09-22T00:00:00,9.0,4.0,5.0,5.0,Definitely,will recommend to friends,Email
+R001600,,2026-04-04T00:00:00,5.0,4.0,3.0,1.0,Definitely,repeat customer and very satisfied,In-App
+R001601,C00348,2024-01-11T00:00:00,6.0,2.0,4.0,3.0,Definitely,size was not as expected,Email
+R001602,C00348,2024-10-11T00:00:00,5.0,4.0,5.0,5.0,Definitely,quick delivery and good packaging,Email
+R001603,C00108,2023-02-09T00:00:00,8.0,3.0,4.0,5.0,Definitely,size was not as expected,In-App
+R001604,C00404,2024-07-29T00:00:00,6.0,4.0,2.0,4.0,Not sure,easy to use website,In-App
+R001605,,2023-06-15T00:00:00,2.0,4.0,5.0,,Definitely,repeat customer and very satisfied,In-App
+R001606,C00165,2026-07-28T00:00:00,9.0,5.0,5.0,4.0,Definitely,support team was helpful,SMS
+R001607,C00419,2026-04-19T00:00:00,6.0,4.0,3.0,3.0,Probably,checkout was confusing,SMS
+R001608,C00119,2024-07-29T00:00:00,3.0,5.0,3.0,,Probably not,delivery updates were useful,Email
+R001609,C00591,2026-06-07T00:00:00,5.0,3.0,3.0,5.0,Probably,size was not as expected,Website
+R001610,C00614,2023-09-18T00:00:00,5.0,5.0,3.0,5.0,Probably,repeat customer and very satisfied,SMS
+R001611,C00047,2023-06-30T00:00:00,8.0,5.0,4.0,5.0,Definitely,will recommend to friends,In-App
+R001612,C00634,2024-07-16T00:00:00,10.0,3.0,4.0,1.0,Probably,quick delivery and good packaging,In-App
+R001613,C00663,2026-04-25T00:00:00,1.0,4.0,2.0,5.0,Definitely,delivery updates were useful,In-App
+R001614,C00361,2024-04-14T00:00:00,7.0,4.0,2.0,,Not sure,checkout was confusing,In-App
+R001615,C00208,2023-03-15T00:00:00,9.0,5.0,4.0,4.0,Probably,quick delivery and good packaging,Email
+R001616,C00719,2026-09-15T00:00:00,9.0,,1.0,,Definitely,packaging had too much plastic,In-App
+R001617,C00632,2024-08-22T00:00:00,9.0,5.0,5.0,5.0,Probably,repeat customer and very satisfied,In-App
+R001618,C00280,2023-06-24T00:00:00,9.0,4.0,5.0,,Probably,excellent product quality,Email
+R001619,C00583,2023-04-21T00:00:00,10.0,4.0,3.0,4.0,Definitely,delivery updates were useful,Email
+R001620,C00583,2024-10-24T00:00:00,8.0,2.0,2.0,,Definitely,delivery updates were useful,Email
+R001621,C00734,2026-05-29T00:00:00,2.0,5.0,5.0,4.0,Not sure,support team was helpful,Website
+R001622,C00231,2024-10-30T00:00:00,10.0,4.0,5.0,5.0,Probably,product differed slightly from photos,SMS
+R001623,C00441,2023-02-22T00:00:00,10.0,5.0,3.0,,Probably,good value for money,SMS
+R001624,C00281,2024-03-27T00:00:00,10.0,4.0,4.0,5.0,Probably,great experience overall,In-App
+R001625,C00383,2023-12-31T00:00:00,7.0,1.0,2.0,,Probably not,great experience overall,In-App
+R001626,C00124,2024-08-11T00:00:00,9.0,3.0,5.0,,Probably,checkout was confusing,Website
+R001627,C00336,2025-05-16T00:00:00,,4.0,4.0,5.0,Definitely,delivery updates were useful,SMS
+R001628,C00355,2024-01-14T00:00:00,8.0,3.0,4.0,,Probably,packaging had too much plastic,Email
+R001629,C00226,2024-04-30T00:00:00,7.0,5.0,4.0,4.0,Definitely,support team was helpful,In-App
+R001630,C00144,2023-02-09T00:00:00,8.0,5.0,5.0,5.0,Definitely,item arrived later than expected,SMS
+R001631,C00049,2023-02-14T00:00:00,,1.0,5.0,,Definitely,quick delivery and good packaging,SMS
+R001632,C00281,2023-01-15T00:00:00,7.0,4.0,5.0,,Probably,easy to use website,Email
+R001633,C00696,2023-12-26T00:00:00,3.0,4.0,4.0,,Probably,will recommend to friends,In-App
+R001634,C00212,2025-03-15T00:00:00,8.0,5.0,5.0,2.0,Probably,product differed slightly from photos,Email
+R001635,C00273,2026-09-05T00:00:00,8.0,4.0,,3.0,Not sure,excellent product quality,Email
+R001636,C00232,2023-12-20T00:00:00,8.0,5.0,3.0,5.0,Probably,checkout was confusing,In-App
+R001637,C00373,2024-01-11T00:00:00,9.0,4.0,1.0,5.0,Definitely,quick delivery and good packaging,Email
+R001638,C00279,2023-11-10T00:00:00,0.0,4.0,2.0,,Definitely,repeat customer and very satisfied,In-App
+R001639,C00737,2024-09-30T00:00:00,6.0,,5.0,4.0,Definitely,size was not as expected,In-App
+R001640,,2025-10-23T00:00:00,9.0,4.0,5.0,1.0,Definitely,good value for money,Email
+R001641,C00324,2024-09-20T00:00:00,8.0,4.0,3.0,4.0,Probably not,will recommend to friends,Email
+R001642,,2023-06-16T00:00:00,10.0,5.0,4.0,4.0,Definitely,repeat customer and very satisfied,In-App
+R001643,C00215,2025-01-11T00:00:00,7.0,5.0,4.0,,Not sure,excellent product quality,Website
+R001644,C00058,2023-11-22T00:00:00,8.0,2.0,1.0,4.0,Probably,item arrived later than expected,In-App
+R001645,C00539,2024-02-11T00:00:00,8.0,5.0,5.0,4.0,Not sure,great experience overall,In-App
+R001646,C00308,2024-06-27T00:00:00,7.0,4.0,5.0,4.0,Not sure,product differed slightly from photos,In-App
+R001647,,2023-10-07T00:00:00,0.0,4.0,5.0,5.0,Probably,price could be better,Email
+R001648,C00022,2024-05-18T00:00:00,4.0,5.0,4.0,,Probably,good value for money,Email
+R001649,C00654,2023-05-24T00:00:00,7.0,4.0,3.0,5.0,Definitely,support team was helpful,Email
+R001650,C00419,2023-08-02T00:00:00,9.0,5.0,4.0,5.0,Definitely,item arrived later than expected,In-App
+R001651,C00636,2024-09-11T00:00:00,6.0,5.0,4.0,4.0,Probably not,size was not as expected,Website
+R001652,C00548,2024-11-28T00:00:00,10.0,3.0,4.0,3.0,Definitely,delivery updates were useful,In-App
+R001653,C00686,2023-10-25T00:00:00,7.0,5.0,4.0,5.0,Not sure,product differed slightly from photos,Email
+R001654,C00785,2026-03-08T00:00:00,6.0,5.0,4.0,,Probably,easy to use website,In-App
+R001655,C00033,2025-09-13T00:00:00,10.0,4.0,5.0,5.0,Definitely,price could be better,In-App
+R001656,C00590,2024-08-17T00:00:00,5.0,5.0,3.0,4.0,Definitely,repeat customer and very satisfied,Website
+R001657,C00174,2023-10-06T00:00:00,8.0,,4.0,4.0,Definitely,size was not as expected,In-App
+R001658,C00321,2025-12-24T00:00:00,8.0,5.0,4.0,,Definitely,price could be better,In-App
+R001659,C00152,2023-04-20T00:00:00,9.0,5.0,,,Definitely,checkout was confusing,In-App
+R001660,C00122,2023-10-31T00:00:00,6.0,3.0,,3.0,Definitely,packaging had too much plastic,Email
+R001661,C00156,2023-05-07T00:00:00,8.0,5.0,3.0,5.0,Probably,quick delivery and good packaging,In-App
+R001662,C00126,2026-06-06T00:00:00,9.0,5.0,3.0,3.0,Definitely,product differed slightly from photos,Website
+R001663,C00613,2026-08-23T00:00:00,8.0,3.0,3.0,2.0,Definitely,item arrived later than expected,SMS
+R001664,C00218,2025-02-28T00:00:00,10.0,4.0,4.0,5.0,Definitely,repeat customer and very satisfied,In-App
+R001665,C00395,2024-04-23T00:00:00,4.0,5.0,3.0,4.0,Probably,checkout was confusing,In-App
+R001666,C00094,2024-08-11T00:00:00,,4.0,4.0,,Definitely,quick delivery and good packaging,In-App
+R001667,C00012,2026-04-19T00:00:00,8.0,4.0,5.0,5.0,Probably,great experience overall,In-App
+R001668,,2024-10-23T00:00:00,6.0,4.0,4.0,4.0,Probably not,excellent product quality,Website
+R001669,C00633,2023-04-08T00:00:00,8.0,5.0,3.0,5.0,Probably,excellent product quality,Email
+R001670,C00030,2026-01-24T00:00:00,7.0,5.0,2.0,4.0,Probably,quick delivery and good packaging,Email
+R001671,C00164,2024-11-27T00:00:00,9.0,4.0,4.0,4.0,Definitely,good value for money,In-App
+R001672,C00010,2023-11-25T00:00:00,9.0,,4.0,5.0,Probably,delivery updates were useful,Email
+R001673,C00264,2024-06-07T00:00:00,8.0,5.0,2.0,,Probably,will recommend to friends,Email
+R001674,C00059,2026-05-17T00:00:00,8.0,4.0,5.0,4.0,Not sure,size was not as expected,In-App
+R001675,C00292,2025-05-27T00:00:00,8.0,5.0,5.0,3.0,Definitely,packaging had too much plastic,In-App
+R001676,C00521,2024-02-25T00:00:00,7.0,4.0,4.0,,Definitely,quick delivery and good packaging,SMS
+R001677,C00767,2023-11-23T00:00:00,7.0,4.0,4.0,4.0,Definitely,repeat customer and very satisfied,Email
+R001678,C00003,2025-09-08T00:00:00,8.0,5.0,3.0,5.0,Probably,size was not as expected,In-App
+R001679,C00282,2026-01-17T00:00:00,4.0,5.0,2.0,,Probably not,price could be better,In-App
+R001680,C00653,2024-03-22T00:00:00,7.0,3.0,5.0,3.0,Probably,support team was helpful,Email
+R001681,C00358,2024-04-22T00:00:00,7.0,4.0,3.0,5.0,Definitely,support team was helpful,Email
+R001682,C00490,2023-06-18T00:00:00,6.0,5.0,1.0,,Definitely,delivery updates were useful,Email
+R001683,C00120,2026-09-10T00:00:00,9.0,4.0,5.0,5.0,Probably,item arrived later than expected,In-App
+R001684,C00074,2023-08-15T00:00:00,8.0,5.0,5.0,4.0,Not sure,price could be better,SMS
+R001685,C00215,2024-06-15T00:00:00,10.0,4.0,4.0,5.0,Definitely,quick delivery and good packaging,In-App
+R001686,C00094,2024-07-07T00:00:00,10.0,4.0,3.0,4.0,Definitely,will recommend to friends,Email
+R001687,C00148,2024-12-15T00:00:00,8.0,5.0,4.0,4.0,Probably,delivery updates were useful,In-App
+R001688,C00560,2023-08-09T00:00:00,7.0,5.0,3.0,4.0,Not sure,delivery updates were useful,In-App
+R001689,C00529,2025-06-03T00:00:00,7.0,4.0,5.0,,Probably,item arrived later than expected,Email
+R001690,C00534,2025-02-17T00:00:00,6.0,2.0,1.0,3.0,Definitely,will recommend to friends,In-App
+R001691,C00094,2024-11-16T00:00:00,6.0,1.0,5.0,,Definitely,checkout was confusing,In-App
+R001692,C00047,2026-09-30T00:00:00,10.0,5.0,4.0,3.0,Probably not,quick delivery and good packaging,Email
+R001693,C00228,2023-03-04T00:00:00,8.0,5.0,5.0,4.0,Definitely,size was not as expected,Email
+R001694,C00634,2024-06-22T00:00:00,8.0,4.0,5.0,,Definitely,packaging had too much plastic,Email
+R001695,C00689,2025-03-10T00:00:00,8.0,4.0,4.0,3.0,Not sure,product differed slightly from photos,Email
+R001696,C00669,2024-12-24T00:00:00,8.0,4.0,2.0,,Definitely,excellent product quality,Email
+R001697,C00259,2024-08-31T00:00:00,8.0,4.0,4.0,5.0,Definitely,repeat customer and very satisfied,Website
+R001698,C00507,2023-05-04T00:00:00,8.0,5.0,3.0,5.0,Not sure,packaging had too much plastic,Email
+R001699,C00308,2024-05-16T00:00:00,8.0,4.0,4.0,5.0,Definitely,will recommend to friends,SMS
+R001700,C00140,2023-01-05T00:00:00,4.0,3.0,2.0,3.0,Probably,packaging had too much plastic,Email
+R001701,C00592,2026-06-10T00:00:00,6.0,5.0,5.0,,Definitely,good value for money,In-App
+R001702,C00642,2025-10-07T00:00:00,8.0,2.0,4.0,3.0,Definitely,product differed slightly from photos,In-App
+R001703,C00728,2025-06-08T00:00:00,9.0,3.0,3.0,5.0,Probably,support team was helpful,SMS
+R001704,C00666,2025-02-09T00:00:00,7.0,2.0,1.0,,Probably,delivery updates were useful,Email
+R001705,C00074,2025-06-26T00:00:00,5.0,5.0,1.0,4.0,Definitely,excellent product quality,In-App
+R001706,C00667,2025-03-14T00:00:00,0.0,5.0,3.0,2.0,Probably,price could be better,Website
+R001707,C00589,2024-11-02T00:00:00,9.0,4.0,3.0,5.0,Definitely,delivery updates were useful,Website
+R001708,C00792,2023-06-22T00:00:00,5.0,5.0,4.0,2.0,Probably,quick delivery and good packaging,In-App
+R001709,C00103,2024-12-16T00:00:00,4.0,3.0,4.0,3.0,Definitely,will recommend to friends,In-App
+R001710,C00177,2025-02-28T00:00:00,8.0,2.0,5.0,2.0,Not sure,product differed slightly from photos,Email
+R001711,C00681,2023-12-17T00:00:00,7.0,3.0,5.0,3.0,Probably,excellent product quality,Email
+R001712,C00441,2023-05-27T00:00:00,7.0,5.0,4.0,3.0,Definitely,size was not as expected,In-App
+R001713,C00045,2023-04-04T00:00:00,8.0,2.0,4.0,4.0,Probably,quick delivery and good packaging,SMS
+R001714,C00485,2025-03-14T00:00:00,10.0,4.0,4.0,3.0,Probably not,will recommend to friends,Email
+R001715,C00634,2025-03-21T00:00:00,2.0,5.0,3.0,4.0,Probably,support team was helpful,Website
+R001716,C00632,2025-08-30T00:00:00,6.0,5.0,2.0,3.0,Definitely,price could be better,Website
+R001717,C00056,2024-06-12T00:00:00,9.0,2.0,4.0,4.0,Definitely,packaging had too much plastic,SMS
+R001718,C00237,2023-06-24T00:00:00,,5.0,2.0,5.0,Definitely,product differed slightly from photos,Website
+R001719,C00008,2023-08-05T00:00:00,10.0,4.0,5.0,4.0,Definitely,excellent product quality,Email
+R001720,C00159,2024-05-27T00:00:00,10.0,5.0,5.0,3.0,Definitely,packaging had too much plastic,In-App
+R001721,,2025-11-16T00:00:00,4.0,3.0,3.0,,Probably,good value for money,Email
+R001722,C00624,2024-04-03T00:00:00,5.0,5.0,5.0,3.0,Probably,checkout was confusing,Email
+R001723,C00106,2026-05-16T00:00:00,8.0,4.0,5.0,3.0,Not sure,item arrived later than expected,In-App
+R001724,C00703,2026-03-28T00:00:00,0.0,2.0,5.0,5.0,Definitely,quick delivery and good packaging,SMS
+R001725,C00136,2025-08-11T00:00:00,8.0,5.0,5.0,,Probably,great experience overall,SMS
+R001726,C00435,2025-06-06T00:00:00,9.0,5.0,4.0,3.0,Definitely,packaging had too much plastic,Email
+R001727,C00296,2025-02-20T00:00:00,6.0,4.0,3.0,2.0,Probably,item arrived later than expected,Email
+R001728,,2024-06-19T00:00:00,9.0,4.0,,5.0,Definitely,quick delivery and good packaging,Email
+R001729,C00167,2024-04-17T00:00:00,7.0,4.0,5.0,4.0,Definitely,item arrived later than expected,SMS
+R001730,C00446,2025-08-19T00:00:00,9.0,3.0,4.0,5.0,Definitely,easy to use website,In-App
+R001731,C00396,2023-08-01T00:00:00,6.0,5.0,4.0,4.0,Not sure,delivery updates were useful,In-App
+R001732,C00227,2023-03-06T00:00:00,,3.0,1.0,3.0,Probably,checkout was confusing,Email
+R001733,C00426,2023-11-23T00:00:00,3.0,4.0,4.0,4.0,Definitely,product differed slightly from photos,SMS
+R001734,,2023-12-30T00:00:00,7.0,5.0,4.0,2.0,Probably,checkout was confusing,Website
+R001735,C00498,2025-06-26T00:00:00,8.0,5.0,2.0,5.0,Probably,product differed slightly from photos,SMS
+R001736,C00751,2026-06-08T00:00:00,8.0,4.0,5.0,3.0,Definitely,support team was helpful,Website
+R001737,C00758,2026-04-14T00:00:00,9.0,4.0,2.0,,Definitely,price could be better,Email
+R001738,C00764,2025-06-19T00:00:00,5.0,3.0,4.0,3.0,Definitely,size was not as expected,Email
+R001739,C00163,2025-02-19T00:00:00,9.0,4.0,5.0,1.0,Definitely,great experience overall,Website
+R001740,C00361,2025-12-17T00:00:00,,5.0,5.0,2.0,Not sure,item arrived later than expected,In-App
+R001741,C00194,2023-03-06T00:00:00,7.0,5.0,1.0,5.0,Probably not,checkout was confusing,Email
+R001742,C00336,2024-12-10T00:00:00,10.0,3.0,4.0,,Definitely,will recommend to friends,Email
+R001743,C00665,2023-01-14T00:00:00,,3.0,4.0,4.0,Probably,price could be better,Email
+R001744,C00413,2025-05-26T00:00:00,7.0,4.0,5.0,5.0,Definitely,easy to use website,SMS
+R001745,C00092,2025-02-26T00:00:00,9.0,5.0,4.0,5.0,Probably not,will recommend to friends,Email
+R001746,C00214,2024-06-25T00:00:00,8.0,5.0,3.0,,Definitely,easy to use website,SMS
+R001747,C00619,2025-04-13T00:00:00,9.0,4.0,,,Probably not,great experience overall,SMS
+R001748,C00175,2025-01-17T00:00:00,10.0,5.0,4.0,4.0,Probably,product differed slightly from photos,Email
+R001749,C00645,2024-01-29T00:00:00,9.0,4.0,3.0,4.0,Definitely,quick delivery and good packaging,Email
+R001750,C00167,2026-02-21T00:00:00,9.0,5.0,2.0,4.0,Not sure,support team was helpful,Email
+R001751,C00693,2026-06-02T00:00:00,6.0,4.0,4.0,4.0,Definitely,delivery updates were useful,Website
+R001752,C00619,2026-04-18T00:00:00,8.0,5.0,4.0,5.0,Probably,checkout was confusing,In-App
+R001753,C00154,2025-10-06T00:00:00,,5.0,4.0,,Probably,quick delivery and good packaging,SMS
+R001754,C00358,2024-01-27T00:00:00,9.0,4.0,5.0,4.0,Definitely,will recommend to friends,In-App
+R001755,C00481,2023-12-20T00:00:00,6.0,4.0,4.0,,Probably not,size was not as expected,Website
+R001756,C00361,2025-05-25T00:00:00,7.0,,4.0,5.0,Probably not,quick delivery and good packaging,Website
+R001757,C00631,2026-09-19T00:00:00,4.0,4.0,,4.0,Definitely,item arrived later than expected,In-App
+R001758,C00014,2025-04-15T00:00:00,9.0,4.0,4.0,5.0,Probably,product differed slightly from photos,Email
+R001759,C00615,2024-04-12T00:00:00,8.0,5.0,2.0,,Definitely,size was not as expected,Email
+R001760,C00100,2026-07-29T00:00:00,0.0,5.0,2.0,4.0,Probably,excellent product quality,Email
+R001761,,2026-05-04T00:00:00,7.0,5.0,4.0,5.0,Definitely,packaging had too much plastic,Email
+R001762,C00070,2026-05-12T00:00:00,7.0,2.0,4.0,5.0,Probably,repeat customer and very satisfied,In-App
+R001763,C00184,2024-12-07T00:00:00,0.0,1.0,,3.0,Definitely,size was not as expected,Email
+R001764,,2026-06-01T00:00:00,8.0,2.0,5.0,5.0,Probably,price could be better,In-App
+R001765,C00385,2023-03-25T00:00:00,7.0,5.0,4.0,5.0,Definitely,good value for money,Website
+R001766,C00747,2024-02-06T00:00:00,10.0,4.0,5.0,,Definitely,size was not as expected,Email
+R001767,C00733,2024-05-27T00:00:00,4.0,5.0,5.0,5.0,Definitely,product differed slightly from photos,Email
+R001768,C00413,2023-07-19T00:00:00,6.0,5.0,3.0,,Definitely,checkout was confusing,SMS
+R001769,C00007,2025-06-05T00:00:00,9.0,,5.0,4.0,Probably,support team was helpful,Email
+R001770,C00355,2023-10-04T00:00:00,,5.0,4.0,5.0,Not sure,size was not as expected,SMS
+R001771,,2024-05-20T00:00:00,8.0,5.0,4.0,3.0,Definitely,easy to use website,SMS
+R001772,C00276,2026-06-13T00:00:00,9.0,5.0,4.0,2.0,Probably,repeat customer and very satisfied,SMS
+R001773,C00143,2023-04-21T00:00:00,4.0,5.0,4.0,2.0,Probably not,price could be better,In-App
+R001774,C00435,2024-03-11T00:00:00,7.0,4.0,,,Probably,repeat customer and very satisfied,Email
+R001775,C00784,2024-03-19T00:00:00,9.0,4.0,4.0,3.0,Definitely,size was not as expected,Email
+R001776,C00122,2023-12-08T00:00:00,10.0,4.0,2.0,4.0,Probably,quick delivery and good packaging,Email
+R001777,C00025,2024-12-13T00:00:00,6.0,4.0,5.0,5.0,Definitely,product differed slightly from photos,In-App
+R001778,C00189,2025-03-13T00:00:00,8.0,5.0,3.0,,Definitely,price could be better,In-App
+R001779,C00749,2024-05-31T00:00:00,8.0,4.0,4.0,,Definitely,will recommend to friends,Email
+R001780,C00650,2025-02-03T00:00:00,6.0,2.0,5.0,5.0,Definitely,support team was helpful,Email
+R001781,C00651,2023-05-17T00:00:00,7.0,4.0,4.0,5.0,Probably,product differed slightly from photos,In-App
+R001782,C00281,2025-10-29T00:00:00,7.0,4.0,4.0,5.0,Probably not,product differed slightly from photos,Email
+R001783,C00670,2024-04-02T00:00:00,6.0,1.0,3.0,2.0,Definitely,excellent product quality,In-App
+R001784,C00377,2026-07-22T00:00:00,4.0,,3.0,5.0,Definitely,will recommend to friends,SMS
+R001785,C00202,2025-05-07T00:00:00,7.0,5.0,5.0,3.0,Definitely,good value for money,Email
+R001786,C00066,2023-08-31T00:00:00,7.0,4.0,2.0,,Definitely,size was not as expected,In-App
+R001787,,2023-04-19T00:00:00,,4.0,4.0,,Definitely,price could be better,Email
+R001788,C00664,2025-10-26T00:00:00,8.0,5.0,4.0,3.0,Definitely,repeat customer and very satisfied,In-App
+R001789,C00433,2024-03-27T00:00:00,7.0,,5.0,3.0,Definitely,good value for money,In-App
+R001790,,2023-01-25T00:00:00,,5.0,5.0,4.0,Definitely,checkout was confusing,In-App
+R001791,C00106,2026-03-16T00:00:00,5.0,,5.0,5.0,Not sure,great experience overall,Email
+R001792,C00497,2026-04-08T00:00:00,10.0,4.0,1.0,3.0,Definitely,price could be better,Email
+R001793,C00610,2025-09-11T00:00:00,7.0,5.0,2.0,,Not sure,will recommend to friends,Website
+R001794,C00126,2025-07-23T00:00:00,6.0,3.0,5.0,,Definitely,easy to use website,In-App
+R001795,C00329,2025-08-10T00:00:00,5.0,5.0,,3.0,Probably,delivery updates were useful,In-App
+R001796,C00073,2026-06-10T00:00:00,10.0,5.0,5.0,,Not sure,repeat customer and very satisfied,Email
+R001797,C00467,2024-05-11T00:00:00,6.0,3.0,3.0,4.0,Not sure,item arrived later than expected,Email
+R001798,C00418,2025-02-19T00:00:00,,4.0,5.0,,Not sure,checkout was confusing,Email
+R001799,C00476,2025-09-02T00:00:00,6.0,5.0,5.0,4.0,Probably,repeat customer and very satisfied,Email
+R001800,C00102,2025-11-12T00:00:00,8.0,3.0,3.0,4.0,Probably,good value for money,In-App

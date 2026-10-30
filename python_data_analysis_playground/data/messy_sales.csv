@@ -1,0 +1,326 @@
+record_id,order_date_raw,city_raw,product_category_raw,quantity_raw,sales_raw,coupon_code_raw,customer_email_raw
+D00001,2025-03-20, Jaipur ,Electronics,8,243.34,,user320@example.test
+D00002,2025-07-04, Jaipur ,ELECTRONICS,3,1730.56,,user549@example.test
+D00003,2025-10-07,Mumbai,Grocery,,1614.78,,user568@example.test
+D00004,2025-12-25,Kathua,Books,8,572.7,FESTIVE,user476@example.test
+D00005,2026-01-14, Jaipur ,Electronics,3,11471.1, none ,
+D00006,2025-04-03,Chennai,Electronics,8,1855.71,,user368@example.test
+D00007,2026-05-03,DELHI,Beauty,5,1184.62,WELCOME,user470@example.test
+D00008,2026-02-25,KATHUA,Grocery,2,184.06,FESTIVE,user312@example.test
+D00009,31-02-2025,delhi,Books,7,966.19, none ,user586@example.test
+D00010,2026-01-10,Mumbai,Books,9,599.48, none ,user533@example.test
+D00011,2026-07-21,delhi,Beauty,7,394.77,SAVE10,user323@example.test
+D00012,2025-08-07,Mumbai,Home ,5,6813.71,,user143@example.test
+D00013,2025-09-26, Jaipur ,Fashion,2,1479.95, none ,user460@example.test
+D00014,2025-07-29,delhi,Grocery,4,832.25,SAVE10,user323@example.test
+D00015,2025-09-06,Delhi,electronics,4,702.79,,
+D00016,2026-02-04,mumbai,Home,8,1079.88,SAVE10,user415@example.test
+D00017,2025-07-16,Pune,Home,9,797.42,,
+D00018,2026-08-02,Kathua,electronics,7,151.49,WELCOME,user330@example.test
+D00019,2025-05-01,Kolkata,ELECTRONICS,8,"₹1,250",,user124@example.test
+D00020,2025-04-07,Delhi,ELECTRONICS,7,unknown,,user475@example.test
+D00021,2026-08-20,Bangalore,Home ,3 units,3215.11, none ,user97@example.test
+D00022,2026-09-26,Kathua,Books,1,1375.12,,user314@example.test
+D00023,2025-09-18,delhi,Fashion,6,357.68,WELCOME,user487@example.test
+D00024,2025-09-22,Mumbai,ELECTRONICS,9,1864.91,WELCOME,user124@example.test
+D00025,2026-07-15,chennai,ELECTRONICS,4,-465.0,SAVE10,user523@example.test
+D00026,2026-09-04,DELHI,Home,7,2338.33,,user204@example.test
+D00027,2025-09-01,Delhi,electronics,3,471.73, none ,user522@example.test
+D00028,2026-07-03,KATHUA,Home,6,846.91,,
+D00029,2026-01-13,Kolkata,Home ,1,2048.09,WELCOME,user180@example.test
+D00030,2025-10-30,Delhi,electronics,5,661.3,,user457@example.test
+D00031,2026-04-22,delhi,ELECTRONICS,6,3797.18,,user574@example.test
+D00032,2026-09-30,Kolkata,Beauty,6,708.58,FESTIVE,user592@example.test
+D00033,2025-11-06,Bangalore,Electronics,8,2244.43,,user53@example.test
+D00034,2026-07-20,Delhi,Electronics,8,571.68,FESTIVE,user549@example.test
+D00035,2025-09-24,Pune,Home,5,2255.15,FESTIVE,user226@example.test
+D00036,2025-10-19,Delhi,Home,3,207.38, none ,user474@example.test
+D00037,2025-09-29,delhi,Home,8,631.79,,user597@example.test
+D00038,2025-02-08,chennai,Fashion,5,830.69,FESTIVE,user307@example.test
+D00039,2026-09-05,chennai,ELECTRONICS,2,1594.86,FESTIVE,user542@example.test
+D00040,2025-10-22,mumbai,Books,2,304.5,SAVE10,user457@example.test
+D00041,2026-05-06,Mumbai,Fashion,,527.71,SAVE10,user204@example.test
+D00042,2026-06-21,DELHI,Fashion,2,3124.2,,user504@example.test
+D00043,2025-01-22,Pune,Home,8,905.03,,user65@example.test
+D00044,2026-03-24, Jaipur ,Home,3 units,643.97,WELCOME,user546@example.test
+D00045,2026-01-31,Chennai,Books,4,317.69,WELCOME,user259@example.test
+D00046,2026-03-30,Chennai,Home,9,9316.97, none ,user571@example.test
+D00047,2026-06-17, Jaipur ,Books,3,1648.44,WELCOME,user316@example.test
+D00048,2025-07-06,KATHUA,Grocery,3,"₹1,250",WELCOME,user415@example.test
+D00049,2026-06-22,Kathua,Books,5,6690.05,,user214@example.test
+D00050,2026-04-18,mumbai,Grocery,1,539.42,SAVE10,user552@example.test
+D00051,2026-04-21,chennai,Grocery,7,2366.62,WELCOME,user436@example.test
+D00052,2026-03-10,Delhi,Home ,6,908.58,SAVE10,user206@example.test
+D00053,2025-02-16,mumbai,Beauty,8,481.74, none ,
+D00054,2025-05-03,Mumbai,Electronics,4,214.4,WELCOME,user91@example.test
+D00055,2025-06-16,mumbai,Fashion,5,477708.0,WELCOME,user471@example.test
+D00056,2025-10-15,Kolkata,Fashion,4,1012.63,,user593@example.test
+D00057,2025-04-05,Kathua,Beauty,8,1339.93,SAVE10,user242@example.test
+D00058,2026-05-13,delhi,Fashion,5,4829.3,FESTIVE,user135@example.test
+D00059,2026-06-07,KATHUA,Fashion,4,684.87,,user519@example.test
+D00060,2025-11-27,Bangalore,Beauty,3,869.01,FESTIVE,user452@example.test
+D00061,2025-10-31,Mumbai,Grocery,4,86.41,WELCOME,user394@example.test
+D00062,2025-05-31,Kathua,Home,7,590.46,WELCOME,user201@example.test
+D00063,2026-01-02,mumbai,ELECTRONICS,8,2380.09,WELCOME,user243@example.test
+D00064,2026-03-18,Mumbai,electronics,7,691.0, none ,user236@example.test
+D00065,2025-11-22,Kolkata,Home ,9,839.2,FESTIVE,user143@example.test
+D00066,2025-01-11,mumbai,ELECTRONICS,4,714.62,FESTIVE,user364@example.test
+D00067,2025-08-04,Chennai,Books,9,1036.68, none ,user592@example.test
+D00068,2026-07-29,Kolkata,electronics,8,844.28,,user335@example.test
+D00069,2026-05-18,Pune,electronics,8,1780.63,WELCOME,user316@example.test
+D00070,2026-01-14,mumbai,electronics,8,699.73,,user231@example.test
+D00071,2026-04-15,DELHI,Fashion,7,2983.84,WELCOME,user316@example.test
+D00072,2025-06-12,Pune,Beauty,4,4098.49,,
+D00073,2026-06-06,Kathua,Beauty,9,-570.0,,user269@example.test
+D00074,2025-07-07,Kolkata,Beauty,1,938.27,,user449@example.test
+D00075,2026-07-19,mumbai,Fashion,7,5462.72,FESTIVE,user108@example.test
+D00076,2025-03-16,mumbai,Grocery,4,545.3,,user516@example.test
+D00077,2025-09-13,Kathua,ELECTRONICS,8,436.46, none ,user57@example.test
+D00078,2025-11-21,delhi,ELECTRONICS,5,1911.47,FESTIVE,user244@example.test
+D00079,2026-04-23,Chennai,electronics,1,4940.05,WELCOME,user464@example.test
+D00080,2025-06-28,chennai,ELECTRONICS,8,1730.45, none ,user493@example.test
+D00081,2025-02-17,DELHI,electronics,3,299.3,SAVE10,user164@example.test
+D00082,2026-07-14,delhi,electronics,5,-994.0,,user552@example.test
+D00083,2026-04-23,Kolkata,electronics,6,295.26,WELCOME,user6@example.test
+D00084,2025-05-16,mumbai,ELECTRONICS,9,1664.17,WELCOME,user322@example.test
+D00085,2025-04-09,Mumbai,Beauty,1,549.9,WELCOME,user522@example.test
+D00086,2026-03-13, Jaipur ,Home,6,1223.04,FESTIVE,user223@example.test
+D00087,2026-05-01, Jaipur ,Electronics,2,2107.15, none ,
+D00088,2025-07-09, Jaipur ,Home ,5,1885.46,SAVE10,user72@example.test
+D00089,2026-07-18,chennai,Home,5,3600.23,FESTIVE,user300@example.test
+D00090,2025-09-19,KATHUA,electronics,3,572.34, none ,user470@example.test
+D00091,2026-04-18,KATHUA,electronics,1,670.1,,user412@example.test
+D00092,2026-04-02,Pune,Grocery,7,114.75, none ,user154@example.test
+D00093,2025-09-13,Bangalore,electronics,2,1293.42,,user388@example.test
+D00094,2025-11-06, Jaipur ,Books,2,11497.0,,user197@example.test
+D00095,2026-02-19,Delhi,electronics,1,1062.23,FESTIVE,user504@example.test
+D00096,2025-05-12,Bangalore,Books,7,2001.52,WELCOME,user358@example.test
+D00097,2025-06-14, Jaipur ,Grocery,2,1554.05,FESTIVE,user56@example.test
+D00098,2026-02-18,Chennai,Beauty,8,2005.14,WELCOME,user344@example.test
+D00099,2025-06-28,Kathua,Fashion,2,992.58,SAVE10,user24@example.test
+D00100,2025-03-02, Jaipur ,electronics,4,4449.23,FESTIVE,user198@example.test
+D00101,2025-08-13,delhi,Grocery,1,5063.81,,
+D00102,2026-05-18,KATHUA,Fashion,4,,FESTIVE,user469@example.test
+D00103,2026-05-21,Pune,Fashion,4,986.02,,user220@example.test
+D00104,2025-06-06,delhi,Beauty,6,406.57,SAVE10,user597@example.test
+D00105,2026-05-20, Jaipur ,electronics,8,1126.96,SAVE10,user450@example.test
+D00106,2025-11-04,Mumbai,Electronics,4,432.69,,user449@example.test
+D00107,2025-01-13,delhi,Home,9,428.45,,user358@example.test
+D00108,2026-05-31,DELHI,ELECTRONICS,7,1078.87,FESTIVE,user360@example.test
+D00109,2025-01-26,mumbai,Grocery,6,9621.15,WELCOME,user532@example.test
+D00110,2026-05-24,mumbai,Books,7,657.62,FESTIVE,user557@example.test
+D00111,2026-05-23,delhi,Beauty,,1558.25,SAVE10,user333@example.test
+D00112,not available, Jaipur ,Beauty,3,418.44,SAVE10,
+D00113,2025-03-18,Bengaluru,Electronics,5,3318.27,,user208@example.test
+D00114,2026-06-08,KATHUA,Electronics,9,3521.58,FESTIVE,user288@example.test
+D00115,2025-09-27,Bengaluru,Home ,7,4601.22,WELCOME,user503@example.test
+D00116,2025-12-14, Jaipur ,Fashion,1,125.26,WELCOME,user222@example.test
+D00117,2026-07-08,delhi,ELECTRONICS,2,277.82,,user30@example.test
+D00118,2025-09-21,Bangalore,Home ,8,1611.22,SAVE10,user338@example.test
+D00119,2025-05-13,delhi,Grocery,3,366.39,,user441@example.test
+D00120,2025-11-05,Chennai,Beauty,1,1992.74,,user184@example.test
+D00121,2025-08-26,Kathua,Electronics,9,3420.16,WELCOME,user168@example.test
+D00122,2025-08-02,Kathua,Beauty,2,588.86,FESTIVE,
+D00123,2026-09-09,Delhi,Home ,6,"₹1,250",WELCOME,user60@example.test
+D00124,2026-03-04,Kathua,Electronics,6,12269.23,,user106@example.test
+D00125,2025-05-31,DELHI,Grocery,6,,FESTIVE,user331@example.test
+D00126,2026-01-20,mumbai,Grocery,3,3347.65,,user132@example.test
+D00127,2025-07-09,DELHI,electronics,6,2490.39,FESTIVE,user453@example.test
+D00128,2026-02-07,chennai,Grocery,5,2138.19,,user291@example.test
+D00129,2026-08-11,Kolkata,Grocery,2,1105.59,FESTIVE,user80@example.test
+D00130,2026-07-03,chennai,Grocery,2,1713.9,SAVE10,user275@example.test
+D00131,2026-03-31,delhi,electronics,9,520.37, none ,user444@example.test
+D00132,2026-09-14,Chennai,Grocery,9,667.5,WELCOME,
+D00133,2025-03-24,Chennai,Home,1,1088.22,WELCOME,user173@example.test
+D00134,2026-05-19,DELHI,Grocery,4,"₹1,250",,user196@example.test
+D00135,2026-05-30,KATHUA,Electronics,1,6088.64,,user570@example.test
+D00136,2026-09-23, Jaipur ,Beauty,2,13456.75,,user509@example.test
+D00137,2025-04-15,Bengaluru,Grocery,1,3765.65,WELCOME,user101@example.test
+D00138,2026-05-05,chennai,Fashion,5,3722.34,,
+D00139,2025-12-04,Mumbai,Electronics,4,unknown,,user439@example.test
+D00140,2026-06-18,Bengaluru,Beauty,5,1236.49, none ,user139@example.test
+D00141,2025-09-22,KATHUA,Home ,3,2087.14,WELCOME,user129@example.test
+D00142,2026-06-15,Pune,Beauty,8,315.55,FESTIVE,user292@example.test
+D00143,2026-06-04,Bangalore,Home ,3,239.42,FESTIVE,user179@example.test
+D00144,2025-02-12, Jaipur ,Electronics,8,200.13,WELCOME,user100@example.test
+D00145,2026-02-18,Kathua,Home,8,957.69, none ,user320@example.test
+D00146,2025-07-18,Kathua,electronics,3,4061.46,SAVE10,user104@example.test
+D00147,2025-07-16,DELHI,Home ,3,1147.82,,user591@example.test
+D00148,2025-11-01,mumbai,Beauty,6,1242.24,FESTIVE,user276@example.test
+D00149,2025-09-21,mumbai,electronics,1,1009.93,,user463@example.test
+D00150,2025-06-07,delhi,Beauty,1,274.95,WELCOME,user509@example.test
+D00151,2025-04-28,Delhi,electronics,1,1977.37,SAVE10,user452@example.test
+D00152,2025-01-11,KATHUA,Home ,3,139949.0, none ,user149@example.test
+D00153,2025-05-04,Chennai,Books,3,2210.46,,user128@example.test
+D00154,2025-05-12,Mumbai,Fashion,3,1297.9,FESTIVE,user402@example.test
+D00155,2026-06-25,Bengaluru,electronics,9,2858.76,SAVE10,user318@example.test
+D00156,2026-01-28,DELHI,ELECTRONICS,6,N/A,FESTIVE,user347@example.test
+D00157,2026-08-22,delhi,ELECTRONICS,3,704.51, none ,user284@example.test
+D00158,2025-02-11,Mumbai,Home ,4,3828.59,WELCOME,user496@example.test
+D00159,2025-10-29,Delhi,electronics,3,3935.49,,user542@example.test
+D00160,2025-12-07,Kathua,Grocery,7,228.88,SAVE10,user54@example.test
+D00161,2026-09-17,Bangalore,Electronics,1,1893.6,FESTIVE,user293@example.test
+D00162,2025-02-26,Kathua,Beauty,3,1699.15, none ,user39@example.test
+D00163,2026-03-25,Kathua,Fashion,8,,SAVE10,user296@example.test
+D00164,31-02-2025,delhi,Fashion,9,8402.61,WELCOME,user498@example.test
+D00165,2026-05-31,Bangalore,Grocery,6,737.15,,user230@example.test
+D00166,2026-05-05,Bengaluru,Fashion,5,1621.58,,user211@example.test
+D00167,2026-09-03,Kolkata,electronics,9,586.79,SAVE10,user330@example.test
+D00168,2025-05-29,KATHUA,Home,3,4859.93,WELCOME,user130@example.test
+D00169,2025-01-24,DELHI,Beauty,6,3056.25,,user516@example.test
+D00170,2025-08-02,mumbai,Grocery,6,2111.47,,user362@example.test
+D00171,2026-02-11,Kathua,Beauty,6,2695.99,,user149@example.test
+D00172,2025-02-04,mumbai,Beauty,4,1079.45,WELCOME,user9@example.test
+D00173,2025-01-09,mumbai,Electronics,5,6986.6, none ,user396@example.test
+D00174,2026-03-19,Kolkata,Home ,2,1084.42, none ,user375@example.test
+D00175,2026-06-28,Bangalore,Beauty,6,1149.83,,user279@example.test
+D00176,2025/13/40,delhi,Books,7,1069.42,,user202@example.test
+D00177,2025-09-24,KATHUA,Home,3,4083.62,SAVE10,user176@example.test
+D00178,2025/13/40,Kathua,Grocery,3,842.73,,user92@example.test
+D00179,2026-06-02,Bengaluru,Home,6,-638.0,,user10@example.test
+D00180,2026-06-02,KATHUA,electronics,8,287.72,SAVE10,user313@example.test
+D00181,2025-04-08, Jaipur ,Grocery,5,259.57,WELCOME,user457@example.test
+D00182,, Jaipur ,ELECTRONICS,2,2282.05,WELCOME,user589@example.test
+D00183,2025-10-14,Chennai,Home,3,789.36,WELCOME,user555@example.test
+D00184,2026-01-31,delhi,electronics,2,1459.77,FESTIVE,user357@example.test
+D00185,2025-05-27,KATHUA,Books,1,208793.0, none ,user85@example.test
+D00186,2025-10-27,KATHUA,Beauty,2,5795.55, none ,
+D00187,2025-02-04,Delhi,Beauty,1,8640.03,FESTIVE,user213@example.test
+D00188,2025-10-27,Bengaluru,Grocery,2,3121.08,,
+D00189,2026-08-21,Bangalore,electronics,7,821.75,WELCOME,user385@example.test
+D00190,2025-08-16,chennai,Fashion,1,1218.99, none ,user496@example.test
+D00191,2025-05-18,delhi,Grocery,4,340.12,,user408@example.test
+D00192,2025-07-06,Mumbai,electronics,1,727.69,,user124@example.test
+D00193,2025-12-10,Chennai,electronics,1,11416.6, none ,user464@example.test
+D00194,2025-12-07,Delhi,Electronics,3,1723.85,FESTIVE,user174@example.test
+D00195,2026-01-07,delhi,electronics,4,1155.32,WELCOME,user131@example.test
+D00196,2025-11-11,Mumbai,Beauty,4,1308.57,,user373@example.test
+D00197,2025-03-06,Chennai,Beauty,8,2400.68,,user60@example.test
+D00198,2026-07-19,Bengaluru,Beauty,8,70.69,,user15@example.test
+D00199,2025-03-16,Bangalore,ELECTRONICS,9,459.9,,user79@example.test
+D00200,2025-12-03,Bangalore,Grocery,4,1702.43,,user442@example.test
+D00201,2026-08-21,chennai,Grocery,2,1489.15,SAVE10,user152@example.test
+D00202,2025-03-03,Kolkata,ELECTRONICS,5,7872.09,WELCOME,
+D00203,2026-04-02,Mumbai,Grocery,9,1159.95,WELCOME,user256@example.test
+D00204,2025-09-21,Chennai,Home,9,unknown,SAVE10,user245@example.test
+D00205,2025-02-19,chennai,Electronics,5,1746.63,,user82@example.test
+D00206,2025-07-01,Pune,Fashion,8,-336.0,,user393@example.test
+D00207,2026-06-28,Mumbai,Books,1,387.23, none ,user436@example.test
+D00208,2025-02-11,Kathua,Fashion,7,2927.78,,user15@example.test
+D00209,2026-07-22,mumbai,Electronics,9,3011.45, none ,user484@example.test
+D00210,2025-09-02,Mumbai,Grocery,8,602.26,,user208@example.test
+D00211,2026-05-13,Pune,Books,6,1431.35,,user8@example.test
+D00212,2025-04-29,Delhi,Home,4,3117.15, none ,user151@example.test
+D00213,2025-05-15,mumbai,Home ,5,852.33,FESTIVE,user121@example.test
+D00214,2026-02-08,delhi,Home,5,2237.18, none ,user194@example.test
+D00215,2026-03-02,Kathua,electronics,1,2158.38,,user190@example.test
+D00216,2025-12-04,Bengaluru,Home ,5,980.57,,user388@example.test
+D00217,2025-12-19,Chennai,Home,6,1397.87,,user335@example.test
+D00218,2026-09-27,delhi,Fashion,,2091.82,SAVE10,
+D00219,2025-08-13,mumbai,Home,6,1840.16,WELCOME,user321@example.test
+D00220,2025-04-20,chennai,Home,4,958.16,,user477@example.test
+D00221,2025-06-15,Bengaluru,Beauty,5,2225.03,FESTIVE,user96@example.test
+D00222,2025-01-20,KATHUA,electronics,6,1501.05,WELCOME,user347@example.test
+D00223,2025-06-12, Jaipur ,Home,5,918.56, none ,user532@example.test
+D00224,2025-07-02,mumbai,electronics,7,1069.06,,user163@example.test
+D00225,2026-04-09,Delhi,Books,8,986.77,,user437@example.test
+D00226,2025-09-10,delhi,Electronics,4,2293.13,,
+D00227,2025-06-19,Bangalore,Fashion,2,1041.04,SAVE10,user139@example.test
+D00228,2026-07-30,chennai,Beauty,5,-296.0,,user562@example.test
+D00229,2026-09-15,Delhi,Beauty,7,12243.47,FESTIVE,user6@example.test
+D00230,2025-08-11,Mumbai,Books,9,1758.52,,user538@example.test
+D00231,2026-08-16,KATHUA,electronics,1,559.42,WELCOME,user47@example.test
+D00232,2025-03-07,Kolkata,Electronics,8,203.99, none ,user150@example.test
+D00233,2026-09-12,Pune,ELECTRONICS,7,1258.81,SAVE10,user188@example.test
+D00234,not available,Bengaluru,Home ,1,1289.62,FESTIVE,user46@example.test
+D00235,2025-02-12,chennai,Fashion,9,2246.84,,user470@example.test
+D00236,2026-05-30,chennai,Electronics,9,1137.92,,user584@example.test
+D00237,2026-08-16,chennai,Beauty,3,1486.33,FESTIVE,user231@example.test
+D00238,2025-11-18,Kolkata,Electronics,2,555.38, none ,user297@example.test
+D00239,2025-12-13,Chennai,Fashion,two,740.29,WELCOME,user520@example.test
+D00240,2025-11-11,Chennai,ELECTRONICS,1,285.88, none ,user294@example.test
+D00241,2026-08-21,Kolkata,Beauty,4,167.56,WELCOME,user337@example.test
+D00242,2025-10-27,chennai,Beauty,1,639.41,SAVE10,user264@example.test
+D00243,2026-01-01,mumbai,Electronics,5,2214.89,,user373@example.test
+D00244,2026-03-29,DELHI,ELECTRONICS,3,1270.62,SAVE10,user184@example.test
+D00245,2025-04-25,Chennai,Home ,9,259277.0, none ,user452@example.test
+D00246,2026-03-27,DELHI,electronics,5,1593.39, none ,user185@example.test
+D00247,2025-03-08,Bangalore,Books,5,1429.4,SAVE10,user438@example.test
+D00248,2025/13/40,DELHI,electronics,9,954.58, none ,
+D00249,2026-04-05,Pune,Beauty,1,1146.7,,user31@example.test
+D00250,2026-01-23,Kathua,Fashion,9,640.85,FESTIVE,user387@example.test
+D00251,2025-10-04,mumbai,Fashion,4,535.63,FESTIVE,user57@example.test
+D00252,2026-05-15,Bengaluru,Grocery,5,413.31,SAVE10,user83@example.test
+D00253,2025-01-30,Mumbai,Grocery,6,470.18, none ,user225@example.test
+D00254,2026-02-02,Kolkata,ELECTRONICS,6,2255.2, none ,user374@example.test
+D00255,2026-04-14,Mumbai,ELECTRONICS,6,2944.83, none ,user276@example.test
+D00256,2025-06-24,DELHI,Books,8,1146.0,FESTIVE,user328@example.test
+D00257,2025-08-22,Kathua,Home ,9,1792.43,,
+D00258,2025-03-07,KATHUA,electronics,4,370.45,WELCOME,user506@example.test
+D00259,2026-07-17,Delhi,Books,5,6512.74,,user503@example.test
+D00260,2025-07-01,Kolkata,Beauty,8,729.82,SAVE10,user515@example.test
+D00261,2026-05-16,DELHI,Home,7,468485.0,,user387@example.test
+D00262,2026-08-24,chennai,ELECTRONICS,4,1064.65,FESTIVE,user19@example.test
+D00263,2025-03-05,DELHI,Home ,1,228.01,FESTIVE,user391@example.test
+D00264,2025-10-06,mumbai,electronics,2,"₹1,250",WELCOME,user266@example.test
+D00265,2026-01-11,Pune,Grocery,5,unknown,FESTIVE,user101@example.test
+D00266,2026-03-23,chennai,Home ,8,2014.5,SAVE10,user368@example.test
+D00267,2025-01-28,Bengaluru,Home,9,250.72,SAVE10,user396@example.test
+D00268,2026-08-17,chennai,Electronics,3,2755.89,FESTIVE,user100@example.test
+D00269,2026-06-20,mumbai,Home,9,582.17,,user449@example.test
+D00270,,Kathua,ELECTRONICS,4,1915.29,,user114@example.test
+D00271,2025-10-06,Kolkata,Home ,9,121.18,,user456@example.test
+D00272,2025-07-09,Bangalore,Grocery,5,2739.16,SAVE10,user358@example.test
+D00273,2025-04-28,Kathua,Beauty,6,489.85,,user48@example.test
+D00274,2026-04-16,delhi,Beauty,4,,,user354@example.test
+D00275,2026-02-21, Jaipur ,Books,4,1691.74,WELCOME,user293@example.test
+D00276,2026-06-08,mumbai,Home,4,555.14,,user138@example.test
+D00277,2026-08-10,Bangalore,Home,5,5547.18,FESTIVE,user372@example.test
+D00278,2025-09-11, Jaipur ,Books,1,2693.32, none ,user583@example.test
+D00279,2025-10-21,Bangalore,Electronics,1,1897.0,SAVE10,user173@example.test
+D00280,2026-05-01,Pune,Books,5,373.05,WELCOME,user367@example.test
+D00281,2025-05-16,Kathua,Home ,6,1796.01,,
+D00282,2025-01-31,Mumbai,Home,5,308.43,,user77@example.test
+D00283,2026-08-03,Bengaluru,Fashion,5,243.19, none ,user20@example.test
+D00284,2026-01-01,Delhi,electronics,6,458.34,WELCOME,user77@example.test
+D00285,2025-12-30,DELHI,Electronics,9,324.5,,user535@example.test
+D00286,2026-08-15,Kolkata,Beauty,6,857.12, none ,user90@example.test
+D00287,2025-08-19,chennai,Home ,2,191.21,WELCOME,user74@example.test
+D00288,2026-01-09,Delhi,Books,5,1125.78,FESTIVE,user590@example.test
+D00289,2025-01-16,Bengaluru,electronics,2,713.97,SAVE10,user376@example.test
+D00290,2025-04-10,DELHI,Fashion,9,"₹1,250",,user7@example.test
+D00291,2025-07-05,Bengaluru,Books,5,7370.39,SAVE10,user410@example.test
+D00292,2026-06-26,DELHI,Electronics,9,-206.0, none ,user133@example.test
+D00293,2025-04-10,Kolkata,Home,2,3669.5,FESTIVE,user315@example.test
+D00294,2025-08-21,chennai,Books,4,254.03,,user158@example.test
+D00295,2025-03-11,Chennai,ELECTRONICS,9,unknown,WELCOME,user169@example.test
+D00296,2025-02-04,Kathua,Beauty,7,1696.87,SAVE10,user255@example.test
+D00297,2026-04-11,Bangalore,electronics,6,1780.28,WELCOME,user407@example.test
+D00298,2025-09-14, Jaipur ,Electronics,5,958.95,,user182@example.test
+D00299,2025-04-26,Mumbai,ELECTRONICS,4,252.89,FESTIVE,user428@example.test
+D00300,31-02-2025,mumbai,Fashion,9,399.96, none ,user265@example.test
+D00301,2026-01-19,Pune,Books,8,328.07,SAVE10,
+D00302,2025-09-18,DELHI,Electronics,1,1246.69,WELCOME,user434@example.test
+D00303,2025-01-20,delhi,Electronics,3,207.53,,user226@example.test
+D00304,2025-10-15,Bangalore,electronics,7,609.23,,user593@example.test
+D00305,2025-07-16,Chennai,Books,1,2173.3,FESTIVE,user178@example.test
+D00306,2025-01-25,Mumbai,Fashion,3,1207.4, none ,user375@example.test
+D00307,2026-04-28,chennai,Home ,7,396.09,FESTIVE,user495@example.test
+D00308,2026-04-24,KATHUA,ELECTRONICS,2,-808.0,,user410@example.test
+D00309,2026-01-03,KATHUA,ELECTRONICS,4,636.26,FESTIVE,user422@example.test
+D00310,2026-03-16,Bangalore,ELECTRONICS,8,1321.35,,user154@example.test
+D00311,2025-11-21,DELHI,Home ,9,628.6,FESTIVE,
+D00312,2026-06-14,Kolkata,ELECTRONICS,6,364.74,SAVE10,user434@example.test
+D00313,2026-07-08,Chennai,Grocery,4,4414.04,FESTIVE,user321@example.test
+D00314,2025-09-30,DELHI,Home,7,562.63,,user226@example.test
+D00315,2025-03-13,Chennai,Home,3,782.14,WELCOME,user487@example.test
+D00316,2026-03-15,Chennai,Grocery,7,845.52,,user575@example.test
+D00317,2025-06-21, Jaipur ,Books,1,79.86,,user446@example.test
+D00318,2026-08-06,Pune,electronics,4,2278.85,,user116@example.test
+D00319,2026-06-06,Kolkata,Grocery,1,2718.71,FESTIVE,user248@example.test
+D00320,2026-04-22,Kathua,electronics,3,8525.57,SAVE10,user290@example.test
+D00008,2026-02-25,KATHUA,Grocery,2,184.06,FESTIVE,user312@example.test
+D00026,2026-09-04,DELHI,Home,7,2338.33,,user204@example.test
+D00050,2026-04-18,mumbai,Grocery,1,539.42,SAVE10,user552@example.test
+D00089,2026-07-18,chennai,Home,5,3600.23,FESTIVE,user300@example.test
+D00121,2025-08-26,Kathua,Electronics,9,3420.16,WELCOME,user168@example.test

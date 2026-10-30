@@ -1,0 +1,801 @@
+customer_id,customer_name,age,gender,city,state,signup_date,acquisition_channel,loyalty_tier,is_active,satisfaction_score,referral_code
+C00001,Neha Menon,70,Female,Thiruvananthapuram,Kerala,2018-10-14T00:00:00,Referral,Gold,True,4.0,
+C00002,Arjun Ali,58,Female,Nagpur,Maharashtra,2020-08-31T00:00:00,Referral,Bronze,True,5.0,
+C00003,Karan Dutta,52,Female,Thiruvananthapuram,Kerala,2019-06-10T00:00:00,Social Media,Bronze,False,4.0,
+C00004,Aanya Iyer,66,Male,Kolkata,West Bengal,2022-09-04T00:00:00,Paid Search,Bronze,True,3.0,
+C00005,Sana Sethi,29,Female,Jammu,Jammu and Kashmir,2019-10-08T00:00:00,Paid Search,Gold,True,4.0,
+C00006,Vikram Kapoor,56,Female,Bhopal,Madhya Pradesh,2018-03-29T00:00:00,Organic Search,Silver,True,4.0,REF7988
+C00007,Ahmed Singh,45,Male,Pune,Maharashtra,2018-12-11T00:00:00,Paid Search,Silver,True,4.0,
+C00008,Ishaan Gill,30,Female,Indore,Madhya Pradesh,2021-12-18T00:00:00,Organic Search,Bronze,True,2.0,
+C00009,Aarav Saxena,33,Non-binary,Chennai,Tamil Nadu,2020-09-08T00:00:00,Paid Search,Platinum,True,1.0,
+C00010,Isha Kapoor,44,Female,Srinagar,Jammu and Kashmir,2020-08-16T00:00:00,Organic Search,Silver,True,5.0,
+C00011,Rahul Verma,46,Female,Guwahati,Assam,2019-12-17T00:00:00,Organic Search,Bronze,True,4.0,REF4806
+C00012,Sana Menon,24,Male,Kolkata,West Bengal,2019-02-25T00:00:00,Social Media,Bronze,True,4.0,
+C00013,Anika Ali,43,Female,Coimbatore,Tamil Nadu,2022-11-22T00:00:00,Social Media,Gold,True,4.0,REF4954
+C00014,Aarav Menon,22,Female,Lucknow,Uttar Pradesh,2018-05-14T00:00:00,Organic Search,Bronze,False,5.0,
+C00015,Zoya Nair,41,Female,Varanasi,Uttar Pradesh,2021-04-10T00:00:00,Referral,Silver,True,4.0,
+C00016,Alisha Patel,31,Male,Chandigarh,Chandigarh,2020-07-13T00:00:00,Paid Search,Silver,False,5.0,
+C00017,Kabir Bose,58,Female,Ahmedabad,Gujarat,2020-10-25T00:00:00,Social Media,Silver,True,2.0,
+C00018,Shreya Khan,35,Male,Kathua,Jammu and Kashmir,2020-07-17T00:00:00,Social Media,Bronze,True,4.0,
+C00019,Pooja Reddy,75,Male,Varanasi,Uttar Pradesh,2022-07-30T00:00:00,Social Media,Silver,True,4.0,
+C00020,Neha Bhat,61,Female,Chandigarh,Chandigarh,2022-06-08T00:00:00,Referral,Gold,True,4.0,
+C00021,Sara Menon,51,Male,Warangal,Telangana,2021-12-20T00:00:00,Referral,Bronze,True,5.0,
+C00022,Ananya Gill,33,Male,Srinagar,Jammu and Kashmir,2022-05-17T00:00:00,Direct,Bronze,True,4.0,
+C00023,Alisha Thomas,27,Male,Kathua,Jammu and Kashmir,2021-01-15T00:00:00,Organic Search,Bronze,True,3.0,
+C00024,Kavya Ali,70,Female,Mumbai,Maharashtra,2020-05-15T00:00:00,Email,Bronze,True,5.0,REF5048
+C00025,Shreya Dutta,27,Male,Mumbai,Maharashtra,2020-05-22T00:00:00,Organic Search,Bronze,True,3.0,
+C00026,Isha Sharma,40,Male,Kolkata,West Bengal,2022-04-16T00:00:00,Paid Search,Bronze,True,3.0,
+C00027,Sana Singh,53,Male,Kolkata,West Bengal,2021-03-08T00:00:00,Paid Search,Bronze,True,3.0,
+C00028,Ananya Sharma,68,Male,Warangal,Telangana,2018-05-11T00:00:00,Referral,Gold,True,5.0,REF9982
+C00029,Kavya Iyer,59,Male,Jammu,Jammu and Kashmir,2018-01-03T00:00:00,Social Media,Gold,False,3.0,REF6433
+C00030,Sana Menon,43,Prefer not to say,Ludhiana,Punjab,2022-10-23T00:00:00,Referral,Gold,True,5.0,
+C00031,Kabir Iyer,40,Female,Indore,Madhya Pradesh,2019-08-16T00:00:00,Direct,Bronze,True,4.0,
+C00032,Vikram Sethi,68,Female,Jodhpur,Rajasthan,2020-06-03T00:00:00,Social Media,Silver,True,4.0,REF5639
+C00033,Sara Mishra,46,Female,Ahmedabad,Gujarat,2020-05-11T00:00:00,Direct,Silver,True,,
+C00034,Akash Mehta,66,Male,Ahmedabad,Gujarat,2018-02-04T00:00:00,Referral,Silver,True,,
+C00035,Mira Gupta,73,Female,Mysuru,Karnataka,2020-08-26T00:00:00,Organic Search,Silver,True,5.0,
+C00036,Isha Nair,32,Female,Jodhpur,Rajasthan,2022-08-20T00:00:00,Referral,Silver,True,,
+C00037,Aarav Mehta,26,Female,Kathua,Jammu and Kashmir,2021-03-29T00:00:00,Organic Search,Bronze,True,5.0,
+C00038,Sana Ansari,35,Female,Srinagar,Jammu and Kashmir,2020-11-19T00:00:00,Social Media,Bronze,True,5.0,
+C00039,Ishaan Thomas,70,Female,Amritsar,Punjab,2022-05-23T00:00:00,Social Media,Gold,True,1.0,
+C00040,Zoya Bhat,66,Prefer not to say,Thiruvananthapuram,Kerala,2018-11-05T00:00:00,Email,Platinum,True,4.0,
+C00041,Karan Ansari,54,Male,Bengaluru,Karnataka,2021-05-26T00:00:00,Social Media,Bronze,False,4.0,
+C00042,Priya Iyer,23,Female,Varanasi,Uttar Pradesh,2019-09-17T00:00:00,Social Media,Bronze,False,3.0,REF3488
+C00043,Sara Bose,27,Male,Lucknow,Uttar Pradesh,2020-04-06T00:00:00,Organic Search,Bronze,True,5.0,
+C00044,Zoya Nair,33,Female,Kathua,Jammu and Kashmir,2020-02-12T00:00:00,Referral,Bronze,True,5.0,
+C00045,Priya Kumar,54,Female,Siliguri,West Bengal,2019-12-24T00:00:00,Email,Platinum,True,3.0,
+C00046,Sana Ansari,59,Female,Hyderabad,Telangana,2022-12-20T00:00:00,Paid Search,Silver,True,5.0,
+C00047,Yusuf Mishra,49,Male,Bengaluru,Karnataka,2022-04-17T00:00:00,Email,Silver,True,4.0,REF9307
+C00048,Arjun Ansari,32,Male,Delhi,Delhi,2020-04-13T00:00:00,Social Media,Silver,True,4.0,
+C00049,Aarav Gupta,53,Female,Mumbai,Maharashtra,2018-04-18T00:00:00,Organic Search,Silver,True,4.0,
+C00050,Aditya Sheikh,20,Male,Indore,Madhya Pradesh,2022-02-06T00:00:00,Organic Search,Gold,True,4.0,
+C00051,Anika Mehta,43,Female,Bengaluru,Karnataka,2021-01-13T00:00:00,Paid Search,Bronze,False,4.0,
+C00052,Nikhil Bhat,54,Male,Bhubaneswar,Odisha,2021-02-24T00:00:00,Paid Search,Bronze,True,5.0,
+C00053,Shreya Thomas,74,Male,Thiruvananthapuram,Kerala,2022-09-22T00:00:00,Email,Bronze,True,5.0,
+C00054,Priya Sethi,53,Male,Pune,Maharashtra,2021-06-14T00:00:00,Email,Bronze,True,5.0,
+C00055,Fatima Ansari,48,Female,Mysuru,Karnataka,2018-06-20T00:00:00,Direct,Bronze,True,1.0,
+C00056,Dev Menon,49,Female,Kolkata,West Bengal,2022-11-29T00:00:00,Paid Search,Silver,True,4.0,
+C00057,Zoya Verma,67,Female,Kolkata,West Bengal,2022-10-13T00:00:00,Social Media,Gold,True,,
+C00058,Mira Kapoor,27,Female,Ludhiana,Punjab,2021-10-11T00:00:00,Referral,Silver,True,4.0,
+C00059,Pooja Mehta,67,Male,Nagpur,Maharashtra,2021-05-20T00:00:00,Organic Search,Silver,False,3.0,REF4993
+C00060,Alisha Bose,47,Male,Varanasi,Uttar Pradesh,2021-04-14T00:00:00,Organic Search,Bronze,True,4.0,REF6641
+C00061,Mohammed Sethi,63,Female,Delhi,Delhi,2018-10-22T00:00:00,Email,Silver,True,5.0,REF1786
+C00062,Rohan Saxena,27,Male,Warangal,Telangana,2018-03-22T00:00:00,Paid Search,Bronze,True,5.0,
+C00063,Farhan Chopra,75,Male,Guwahati,Assam,2022-01-24T00:00:00,Email,Bronze,True,3.0,
+C00064,Yusuf Das,65,Female,Mumbai,Maharashtra,2022-08-18T00:00:00,Direct,Platinum,True,4.0,REF1497
+C00065,Arjun Bose,44,Male,Jaipur,Rajasthan,2022-11-02T00:00:00,Paid Search,Bronze,True,4.0,
+C00066,Zoya Malik,65,Female,Bhubaneswar,Odisha,2019-07-26T00:00:00,Organic Search,Silver,False,5.0,REF7225
+C00067,Shreya Kapoor,69,Female,Kolkata,West Bengal,2019-12-03T00:00:00,Paid Search,Platinum,True,1.0,
+C00068,Isha Mishra,22,Male,Amritsar,Punjab,2020-08-07T00:00:00,Direct,Silver,True,4.0,
+C00069,Kabir Gill,18,Male,Ludhiana,Punjab,2019-11-04T00:00:00,Social Media,Gold,True,4.0,REF2968
+C00070,Akash Das,22,Female,Srinagar,Jammu and Kashmir,2018-03-16T00:00:00,Organic Search,Bronze,True,3.0,
+C00071,Noor Kumar,57,Female,Kathua,Jammu and Kashmir,2022-12-12T00:00:00,Organic Search,Gold,True,4.0,REF9064
+C00072,Alisha Kapoor,63,Male,Kochi,Kerala,2021-01-04T00:00:00,Social Media,Gold,True,4.0,
+C00073,Varun Chopra,44,Female,Delhi,Delhi,2021-01-31T00:00:00,Paid Search,Silver,True,5.0,
+C00074,Noor Menon,44,Male,Bhubaneswar,Odisha,2021-03-01T00:00:00,Paid Search,Bronze,True,5.0,
+C00075,Ahmed Verma,65,Male,Jaipur,Rajasthan,2019-08-04T00:00:00,Referral,Silver,True,4.0,
+C00076,Zoya Singh,27,Female,Coimbatore,Tamil Nadu,2022-05-30T00:00:00,Organic Search,Bronze,False,4.0,
+C00077,Sara Ansari,59,Female,Warangal,Telangana,2020-11-06T00:00:00,Email,Bronze,False,4.0,
+C00078,Fatima Ali,23,Female,Indore,Madhya Pradesh,2018-04-03T00:00:00,Email,Bronze,True,5.0,
+C00079,Kavya Mishra,37,Female,Srinagar,Jammu and Kashmir,2022-06-21T00:00:00,Referral,Bronze,True,3.0,
+C00080,Dev Mishra,53,Female,Ahmedabad,Gujarat,2018-05-04T00:00:00,Organic Search,Bronze,True,3.0,REF4927
+C00081,Varun Reddy,50,Female,Siliguri,West Bengal,2020-08-21T00:00:00,Direct,Gold,True,1.0,REF7345
+C00082,Zoya Patel,21,Female,Mumbai,Maharashtra,2021-04-02T00:00:00,Organic Search,Silver,True,4.0,
+C00083,Mohammed Kapoor,43,Male,Mysuru,Karnataka,2020-03-02T00:00:00,Paid Search,Gold,True,5.0,
+C00084,Dev Saxena,27,Female,Mumbai,Maharashtra,2020-07-22T00:00:00,Referral,Bronze,True,4.0,
+C00085,Karan Kumar,43,Male,Mumbai,Maharashtra,2020-07-13T00:00:00,Organic Search,Bronze,False,5.0,
+C00086,Ahmed Iyer,59,Female,Hyderabad,Telangana,2021-09-29T00:00:00,Social Media,Silver,True,4.0,
+C00087,Nikhil Kapoor,27,Male,Chennai,Tamil Nadu,2019-06-04T00:00:00,Direct,Platinum,True,4.0,
+C00088,Rahul Mishra,67,Female,Jammu,Jammu and Kashmir,2020-09-30T00:00:00,Referral,Silver,True,4.0,
+C00089,Yusuf Sharma,60,Female,Chennai,Tamil Nadu,2019-09-28T00:00:00,Paid Search,Bronze,True,4.0,REF5119
+C00090,Fatima Iyer,59,Male,Thiruvananthapuram,Kerala,2020-06-01T00:00:00,Direct,Silver,True,3.0,
+C00091,Riya Verma,66,Male,Thiruvananthapuram,Kerala,2020-08-12T00:00:00,Social Media,Gold,True,3.0,
+C00092,Neha Mishra,46,Male,Siliguri,West Bengal,2022-09-15T00:00:00,Organic Search,Silver,True,3.0,
+C00093,Pooja Joshi,52,Male,Siliguri,West Bengal,2018-10-21T00:00:00,Social Media,Silver,True,4.0,REF1683
+C00094,Pooja Sheikh,70,Female,Chennai,Tamil Nadu,2019-09-01T00:00:00,Referral,Bronze,True,4.0,REF1918
+C00095,Nikhil Saxena,32,Female,Pune,Maharashtra,2018-09-30T00:00:00,Paid Search,Bronze,True,4.0,
+C00096,Shreya Chopra,68,Male,Chandigarh,Chandigarh,2019-12-12T00:00:00,Referral,Bronze,True,2.0,
+C00097,Priya Gill,47,Male,Jodhpur,Rajasthan,2019-10-26T00:00:00,Referral,Platinum,True,5.0,
+C00098,Mira Malik,30,Male,Ludhiana,Punjab,2020-10-15T00:00:00,Email,Bronze,True,5.0,
+C00099,Aanya Thomas,59,Female,Ahmedabad,Gujarat,2020-10-29T00:00:00,Referral,Bronze,True,4.0,
+C00100,Kavya Malik,52,Male,Kolkata,West Bengal,2022-04-06T00:00:00,Paid Search,Platinum,True,3.0,
+C00101,Farhan Malik,21,Female,Kathua,Jammu and Kashmir,2018-11-02T00:00:00,Direct,Silver,True,4.0,
+C00102,Aarav Sethi,37,Male,Mysuru,Karnataka,2021-10-24T00:00:00,Referral,Gold,True,3.0,
+C00103,Varun Bhat,46,Female,Bengaluru,Karnataka,2020-12-25T00:00:00,Referral,Bronze,True,5.0,
+C00104,Rahul Rao,61,Female,Kolkata,West Bengal,2020-11-20T00:00:00,Organic Search,Platinum,True,5.0,
+C00105,Anika Verma,23,Female,Hyderabad,Telangana,2018-05-16T00:00:00,Social Media,Bronze,True,1.0,REF6375
+C00106,Kavya Malik,31,Female,Mysuru,Karnataka,2021-07-25T00:00:00,Paid Search,Platinum,True,4.0,
+C00107,Shreya Patel,46,Male,Thiruvananthapuram,Kerala,2020-06-15T00:00:00,Paid Search,Silver,False,3.0,
+C00108,Aarav Gupta,37,Male,Hyderabad,Telangana,2019-02-25T00:00:00,Paid Search,Bronze,True,4.0,
+C00109,Kavya Menon,44,Female,Hyderabad,Telangana,2020-10-10T00:00:00,Referral,Bronze,True,5.0,
+C00110,Akash Singh,25,Female,Bhopal,Madhya Pradesh,2022-08-14T00:00:00,Email,Silver,False,1.0,REF9470
+C00111,Aanya Iyer,44,Male,Mysuru,Karnataka,2020-03-23T00:00:00,Social Media,Bronze,True,3.0,
+C00112,Ibrahim Iyer,21,Male,Jodhpur,Rajasthan,2021-12-11T00:00:00,Email,Bronze,True,4.0,REF1422
+C00113,Ahmed Bhat,41,Female,Thiruvananthapuram,Kerala,2018-05-23T00:00:00,Paid Search,Silver,True,2.0,
+C00114,Zoya Rao,63,Male,Jodhpur,Rajasthan,2018-11-05T00:00:00,Social Media,Gold,True,5.0,
+C00115,Alisha Ansari,61,Male,Jammu,Jammu and Kashmir,2022-02-15T00:00:00,Organic Search,Silver,True,5.0,REF9617
+C00116,Aditi Malik,62,Female,Pune,Maharashtra,2018-08-24T00:00:00,Referral,Silver,True,,
+C00117,Mohammed Joshi,31,Female,Delhi,Delhi,2019-12-28T00:00:00,Direct,Gold,True,5.0,
+C00118,Ishaan Menon,30,Female,Amritsar,Punjab,2022-02-21T00:00:00,Direct,Gold,True,4.0,
+C00119,Akash Dutta,53,Female,Delhi,Delhi,2019-01-06T00:00:00,Referral,Bronze,True,5.0,
+C00120,Pooja Gill,44,Female,Mumbai,Maharashtra,2019-11-02T00:00:00,Paid Search,Platinum,True,4.0,REF1881
+C00121,Ibrahim Reddy,74,Male,Delhi,Delhi,2019-08-07T00:00:00,Social Media,Bronze,True,4.0,REF6129
+C00122,Pooja Kumar,65,Male,Warangal,Telangana,2020-05-30T00:00:00,Social Media,Bronze,True,4.0,REF7227
+C00123,Kavya Kumar,42,Female,Amritsar,Punjab,2018-08-05T00:00:00,Organic Search,Silver,True,4.0,REF3187
+C00124,Priya Verma,38,Female,Nagpur,Maharashtra,2020-10-04T00:00:00,Paid Search,Silver,True,4.0,
+C00125,Priya Gupta,20,Male,Bhopal,Madhya Pradesh,2021-01-13T00:00:00,Paid Search,Gold,True,4.0,REF8308
+C00126,Nikhil Kumar,75,Female,Indore,Madhya Pradesh,2021-07-30T00:00:00,Referral,Platinum,False,5.0,REF8311
+C00127,Ananya Bose,55,Male,Siliguri,West Bengal,2019-11-30T00:00:00,Referral,Gold,True,2.0,
+C00128,Isha Thomas,42,Female,Coimbatore,Tamil Nadu,2019-10-26T00:00:00,Social Media,Bronze,True,,
+C00129,Riya Mishra,19,Female,Lucknow,Uttar Pradesh,2021-01-16T00:00:00,Paid Search,Silver,True,4.0,
+C00130,Vikram Sharma,63,Female,Jammu,Jammu and Kashmir,2019-05-10T00:00:00,Direct,Bronze,True,5.0,
+C00131,Ishaan Malik,66,Female,Coimbatore,Tamil Nadu,2021-11-25T00:00:00,Social Media,Silver,True,5.0,
+C00132,Simran Malik,21,Male,Siliguri,West Bengal,2018-07-24T00:00:00,Paid Search,Silver,True,5.0,
+C00133,Ananya Reddy,55,Male,Srinagar,Jammu and Kashmir,2018-05-14T00:00:00,Organic Search,Platinum,True,5.0,
+C00134,Ananya Dutta,44,Female,Kochi,Kerala,2022-11-13T00:00:00,Email,Silver,True,5.0,
+C00135,Vikram Khan,47,Male,Lucknow,Uttar Pradesh,2018-10-05T00:00:00,Organic Search,Silver,True,5.0,
+C00136,Ibrahim Sheikh,63,Male,Kolkata,West Bengal,2019-04-04T00:00:00,Paid Search,Gold,True,1.0,
+C00137,Dev Joshi,61,Prefer not to say,Jodhpur,Rajasthan,2020-09-04T00:00:00,Organic Search,Silver,True,4.0,REF6542
+C00138,Sana Shah,41,Female,Jodhpur,Rajasthan,2018-02-23T00:00:00,Social Media,Platinum,True,3.0,
+C00139,Aanya Shah,43,Male,Guwahati,Assam,2018-06-11T00:00:00,Paid Search,Bronze,True,,
+C00140,Shreya Iyer,59,Female,Jammu,Jammu and Kashmir,2020-09-14T00:00:00,Paid Search,Silver,False,3.0,
+C00141,Vikram Kumar,42,Male,Nagpur,Maharashtra,2020-01-10T00:00:00,Paid Search,Bronze,False,4.0,
+C00142,Farhan Gupta,44,Female,Hyderabad,Telangana,2021-01-23T00:00:00,Email,Bronze,False,4.0,
+C00143,Fatima Mishra,33,Female,Lucknow,Uttar Pradesh,2020-01-30T00:00:00,Email,Gold,True,3.0,REF2352
+C00144,Nikhil Kapoor,36,Male,Kolkata,West Bengal,2019-02-03T00:00:00,Paid Search,Bronze,True,2.0,
+C00145,Rahul Ali,41,Male,Chennai,Tamil Nadu,2021-07-27T00:00:00,Organic Search,Silver,True,5.0,
+C00146,Zoya Ansari,50,Female,Bhubaneswar,Odisha,2018-08-06T00:00:00,Social Media,Bronze,True,5.0,
+C00147,Pooja Shah,32,Male,Delhi,Delhi,2018-08-12T00:00:00,Email,Silver,False,,
+C00148,Ibrahim Patel,36,Female,Jodhpur,Rajasthan,2022-09-11T00:00:00,Email,Bronze,True,5.0,REF8321
+C00149,Pooja Malik,33,Male,Kolkata,West Bengal,2021-11-22T00:00:00,Organic Search,Gold,True,4.0,REF8025
+C00150,Aditi Sethi,43,Male,Mysuru,Karnataka,2020-02-09T00:00:00,Email,Gold,False,4.0,
+C00151,Nikhil Verma,43,Female,Ahmedabad,Gujarat,2021-03-08T00:00:00,Paid Search,Silver,True,4.0,
+C00152,Mira Thomas,22,Female,Mysuru,Karnataka,2022-07-16T00:00:00,Social Media,Bronze,True,3.0,
+C00153,Varun Khan,37,Male,Ahmedabad,Gujarat,2018-10-16T00:00:00,Social Media,Platinum,True,4.0,REF2466
+C00154,Meera Singh,60,Male,Chennai,Tamil Nadu,2018-05-30T00:00:00,Referral,Silver,True,5.0,
+C00155,Ibrahim Gupta,44,Female,Bhopal,Madhya Pradesh,2018-07-11T00:00:00,Email,Bronze,True,5.0,REF6504
+C00156,Aditi Saxena,40,Male,Mumbai,Maharashtra,2019-07-24T00:00:00,Organic Search,Silver,True,4.0,
+C00157,Ahmed Menon,49,Male,Chennai,Tamil Nadu,2022-07-26T00:00:00,Email,Silver,True,3.0,
+C00158,Dev Kapoor,40,Female,Hyderabad,Telangana,2020-05-21T00:00:00,Email,Gold,True,4.0,
+C00159,Mohammed Kapoor,23,Male,Guwahati,Assam,2021-04-30T00:00:00,Social Media,Silver,True,4.0,
+C00160,Aditi Nair,33,Female,Pune,Maharashtra,2019-03-18T00:00:00,Organic Search,Bronze,True,3.0,
+C00161,Aditya Sheikh,37,Male,Guwahati,Assam,2019-05-12T00:00:00,Paid Search,Gold,False,4.0,
+C00162,Varun Dutta,69,Male,Chandigarh,Chandigarh,2021-01-03T00:00:00,Social Media,Silver,False,5.0,
+C00163,Ishaan Kapoor,39,Male,Thiruvananthapuram,Kerala,2018-07-21T00:00:00,Referral,Bronze,True,5.0,REF8773
+C00164,Aanya Shah,21,Female,Amritsar,Punjab,2022-12-09T00:00:00,Organic Search,Silver,True,3.0,
+C00165,Zoya Ansari,37,Female,Mumbai,Maharashtra,2018-02-24T00:00:00,Organic Search,Bronze,True,3.0,REF7062
+C00166,Alisha Mehta,50,Female,Mumbai,Maharashtra,2021-04-20T00:00:00,Paid Search,Silver,True,1.0,
+C00167,Priya Gill,33,Female,Guwahati,Assam,2020-09-13T00:00:00,Paid Search,Bronze,True,4.0,REF2910
+C00168,Zoya Iyer,70,Female,Lucknow,Uttar Pradesh,2018-07-13T00:00:00,Referral,Silver,True,5.0,
+C00169,Ananya Ali,68,Female,Delhi,Delhi,2019-06-20T00:00:00,Paid Search,Silver,True,4.0,REF6155
+C00170,Farhan Verma,63,Female,Mumbai,Maharashtra,2019-01-05T00:00:00,Referral,Bronze,True,4.0,
+C00171,Ishaan Kapoor,36,Male,Mysuru,Karnataka,2018-09-03T00:00:00,Social Media,Silver,True,3.0,
+C00172,Sara Joshi,25,Male,Jaipur,Rajasthan,2019-02-01T00:00:00,Paid Search,Bronze,True,3.0,
+C00173,Varun Dutta,36,Male,Guwahati,Assam,2022-07-24T00:00:00,Organic Search,Bronze,False,5.0,REF6128
+C00174,Arjun Bhat,58,Female,Kolkata,West Bengal,2021-08-22T00:00:00,Social Media,Silver,False,5.0,REF5451
+C00175,Mohammed Mishra,64,Male,Lucknow,Uttar Pradesh,2021-05-18T00:00:00,Paid Search,Bronze,True,5.0,
+C00176,Rohan Malik,66,Female,Delhi,Delhi,2019-04-27T00:00:00,Referral,Silver,True,4.0,
+C00177,Mohammed Rao,46,Female,Warangal,Telangana,2021-07-21T00:00:00,Organic Search,Bronze,False,4.0,
+C00178,Ishaan Dutta,58,Female,Chennai,Tamil Nadu,2022-01-27T00:00:00,Email,Gold,True,4.0,
+C00179,Noor Shah,46,Male,Kathua,Jammu and Kashmir,2019-05-07T00:00:00,Organic Search,Bronze,True,3.0,
+C00180,Ahmed Gill,48,Female,Guwahati,Assam,2021-02-28T00:00:00,Referral,Silver,False,4.0,REF3887
+C00181,Varun Ansari,71,Male,Pune,Maharashtra,2018-11-04T00:00:00,Direct,Bronze,True,1.0,
+C00182,Ishaan Singh,48,Female,Chennai,Tamil Nadu,2020-01-11T00:00:00,Email,Gold,True,4.0,REF4791
+C00183,Aditya Bose,64,Female,Hyderabad,Telangana,2022-10-16T00:00:00,Referral,Bronze,True,4.0,
+C00184,Neha Verma,68,Female,Mumbai,Maharashtra,2021-03-13T00:00:00,Direct,Silver,False,,
+C00185,Noor Thomas,64,Male,Mumbai,Maharashtra,2018-06-23T00:00:00,Referral,Bronze,True,5.0,REF9796
+C00186,Vikram Gupta,48,Male,Nagpur,Maharashtra,2020-11-27T00:00:00,Referral,Bronze,True,3.0,
+C00187,Vikram Ali,20,Male,Ludhiana,Punjab,2021-12-20T00:00:00,Email,Bronze,True,1.0,REF9298
+C00188,Ahmed Patel,64,Female,Kolkata,West Bengal,2019-09-14T00:00:00,Organic Search,Bronze,True,4.0,
+C00189,Pooja Patel,60,Male,Surat,Gujarat,2021-08-12T00:00:00,Organic Search,Gold,False,1.0,
+C00190,Priya Das,22,Male,Surat,Gujarat,2020-06-26T00:00:00,Direct,Silver,True,4.0,REF9293
+C00191,Pooja Bose,37,Male,Ludhiana,Punjab,2020-04-09T00:00:00,Social Media,Gold,True,,
+C00192,Aditi Patel,67,Male,Siliguri,West Bengal,2018-03-04T00:00:00,Paid Search,Bronze,True,4.0,REF5446
+C00193,Isha Verma,26,Male,Surat,Gujarat,2018-09-03T00:00:00,Social Media,Bronze,True,4.0,
+C00194,Meera Ali,34,Female,Bengaluru,Karnataka,2019-02-10T00:00:00,Email,Gold,True,5.0,
+C00195,Karan Sharma,68,Female,Mumbai,Maharashtra,2020-03-02T00:00:00,Paid Search,Silver,True,2.0,REF5685
+C00196,Yusuf Patel,30,Male,Kolkata,West Bengal,2019-09-10T00:00:00,Paid Search,Silver,True,5.0,
+C00197,Sara Patel,23,Male,Amritsar,Punjab,2021-10-02T00:00:00,Direct,Silver,True,4.0,
+C00198,Shreya Das,30,Female,Ahmedabad,Gujarat,2019-11-13T00:00:00,Organic Search,Bronze,False,1.0,REF3964
+C00199,Zoya Menon,35,Male,Varanasi,Uttar Pradesh,2020-06-21T00:00:00,Referral,Gold,True,4.0,
+C00200,Anika Sharma,55,Female,Delhi,Delhi,2022-06-06T00:00:00,Referral,Silver,True,4.0,
+C00201,Vikram Mehta,24,Female,Lucknow,Uttar Pradesh,2021-10-01T00:00:00,Organic Search,Silver,True,4.0,
+C00202,Pooja Iyer,50,Female,Jodhpur,Rajasthan,2019-04-10T00:00:00,Referral,Bronze,True,2.0,REF8492
+C00203,Priya Iyer,24,Male,Kolkata,West Bengal,2019-06-15T00:00:00,Email,Bronze,True,4.0,REF3090
+C00204,Fatima Das,50,Non-binary,Amritsar,Punjab,2019-09-26T00:00:00,Organic Search,Bronze,True,5.0,REF7120
+C00205,Kabir Bose,66,Male,Pune,Maharashtra,2019-11-18T00:00:00,Referral,Bronze,True,4.0,REF5610
+C00206,Kavya Ansari,53,Female,Varanasi,Uttar Pradesh,2019-08-07T00:00:00,Direct,Bronze,True,4.0,REF7234
+C00207,Ahmed Thomas,30,Female,Kathua,Jammu and Kashmir,2022-08-22T00:00:00,Organic Search,Silver,False,5.0,
+C00208,Priya Kapoor,43,Male,Srinagar,Jammu and Kashmir,2018-12-09T00:00:00,Referral,Silver,True,4.0,
+C00209,Neha Mehta,18,Female,Coimbatore,Tamil Nadu,2020-08-25T00:00:00,Referral,Silver,True,3.0,
+C00210,Yusuf Bose,57,Male,Chennai,Tamil Nadu,2020-07-10T00:00:00,Paid Search,Platinum,True,5.0,REF6506
+C00211,Karan Sharma,46,Prefer not to say,Nagpur,Maharashtra,2020-07-06T00:00:00,Social Media,Silver,True,3.0,REF1069
+C00212,Pooja Sethi,45,Male,Nagpur,Maharashtra,2020-03-24T00:00:00,Paid Search,Platinum,True,5.0,
+C00213,Zoya Patel,64,Prefer not to say,Mysuru,Karnataka,2018-11-14T00:00:00,Paid Search,Platinum,False,5.0,REF8389
+C00214,Ahmed Bhat,64,Female,Delhi,Delhi,2018-08-09T00:00:00,Paid Search,Silver,True,5.0,
+C00215,Nikhil Singh,28,Female,Coimbatore,Tamil Nadu,2021-11-29T00:00:00,Email,Gold,True,3.0,REF9460
+C00216,Farhan Gill,23,Prefer not to say,Ludhiana,Punjab,2019-09-28T00:00:00,Referral,Silver,True,1.0,REF9575
+C00217,Mohammed Kumar,55,Male,Kolkata,West Bengal,2022-04-25T00:00:00,Paid Search,Bronze,True,,
+C00218,Pooja Reddy,34,Male,Pune,Maharashtra,2020-10-26T00:00:00,Referral,Bronze,True,4.0,
+C00219,Aanya Saxena,54,Prefer not to say,Chandigarh,Chandigarh,2021-06-19T00:00:00,Direct,Bronze,True,4.0,
+C00220,Akash Sethi,47,Female,Ludhiana,Punjab,2019-04-11T00:00:00,Direct,Silver,True,5.0,
+C00221,Ishaan Dutta,51,Male,Ludhiana,Punjab,2021-11-03T00:00:00,Organic Search,Silver,True,4.0,
+C00222,Fatima Ansari,40,Female,Kolkata,West Bengal,2020-03-03T00:00:00,Referral,Bronze,False,5.0,REF3038
+C00223,Varun Shah,38,Male,Mysuru,Karnataka,2020-04-02T00:00:00,Social Media,Gold,False,4.0,
+C00224,Ahmed Chopra,42,Female,Bengaluru,Karnataka,2018-11-06T00:00:00,Organic Search,Bronze,True,5.0,REF3279
+C00225,Noor Thomas,25,Female,Chandigarh,Chandigarh,2019-07-16T00:00:00,Paid Search,Silver,False,1.0,REF5413
+C00226,Mira Rao,52,Male,Amritsar,Punjab,2020-03-26T00:00:00,Direct,Silver,False,4.0,
+C00227,Priya Kapoor,52,Female,Jaipur,Rajasthan,2020-06-02T00:00:00,Social Media,Bronze,True,4.0,REF3404
+C00228,Arjun Joshi,44,Female,Mysuru,Karnataka,2021-02-28T00:00:00,Paid Search,Bronze,True,5.0,
+C00229,Sara Menon,73,Female,Ludhiana,Punjab,2020-05-26T00:00:00,Direct,Silver,False,,
+C00230,Nikhil Kapoor,73,Male,Srinagar,Jammu and Kashmir,2019-03-15T00:00:00,Direct,Bronze,True,5.0,
+C00231,Isha Reddy,62,Female,Chennai,Tamil Nadu,2022-06-13T00:00:00,Direct,Silver,True,5.0,
+C00232,Ishaan Iyer,47,Male,Mumbai,Maharashtra,2021-04-12T00:00:00,Organic Search,Platinum,True,4.0,
+C00233,Pooja Ali,50,Male,Thiruvananthapuram,Kerala,2022-12-04T00:00:00,Email,Silver,False,5.0,
+C00234,Fatima Kumar,75,Female,Warangal,Telangana,2018-06-28T00:00:00,Referral,Silver,True,4.0,
+C00235,Rahul Joshi,67,Male,Kolkata,West Bengal,2020-01-20T00:00:00,Organic Search,Gold,True,3.0,
+C00236,Priya Mishra,38,Prefer not to say,Pune,Maharashtra,2020-09-11T00:00:00,Organic Search,Bronze,True,5.0,
+C00237,Aditi Reddy,24,Female,Jammu,Jammu and Kashmir,2018-08-09T00:00:00,Social Media,Bronze,True,3.0,
+C00238,Varun Sethi,44,Male,Warangal,Telangana,2020-12-02T00:00:00,Referral,Gold,True,3.0,
+C00239,Aditi Reddy,21,Female,Jodhpur,Rajasthan,2020-02-06T00:00:00,Social Media,Platinum,True,3.0,
+C00240,Aanya Nair,54,Male,Indore,Madhya Pradesh,2018-01-09T00:00:00,Email,Bronze,True,2.0,REF8464
+C00241,Simran Thomas,48,Female,Kochi,Kerala,2021-05-08T00:00:00,Email,Bronze,True,5.0,
+C00242,Fatima Joshi,37,Female,Jaipur,Rajasthan,2019-07-22T00:00:00,Paid Search,Platinum,True,5.0,REF2484
+C00243,Isha Ali,62,Female,Bhopal,Madhya Pradesh,2022-10-01T00:00:00,Social Media,Silver,True,5.0,
+C00244,Yusuf Thomas,21,Female,Bhubaneswar,Odisha,2018-10-14T00:00:00,Email,Platinum,True,4.0,
+C00245,Aanya Nair,50,Male,Amritsar,Punjab,2021-10-28T00:00:00,Organic Search,Bronze,True,3.0,
+C00246,Aarav Saxena,19,Female,Srinagar,Jammu and Kashmir,2021-10-23T00:00:00,Referral,Platinum,True,3.0,
+C00247,Karan Singh,47,Female,Mumbai,Maharashtra,2020-12-22T00:00:00,Organic Search,Bronze,True,4.0,REF5359
+C00248,Mira Shah,70,Male,Amritsar,Punjab,2020-06-21T00:00:00,Paid Search,Silver,False,5.0,
+C00249,Dev Sethi,59,Male,Chandigarh,Chandigarh,2019-12-19T00:00:00,Organic Search,Bronze,True,5.0,
+C00250,Ananya Gill,61,Female,Lucknow,Uttar Pradesh,2018-09-27T00:00:00,Organic Search,Silver,True,5.0,
+C00251,Kabir Saxena,51,Female,Bengaluru,Karnataka,2020-04-23T00:00:00,Social Media,Bronze,True,5.0,
+C00252,Arjun Das,25,Male,Jammu,Jammu and Kashmir,2022-01-25T00:00:00,Social Media,Bronze,True,5.0,
+C00253,Kavya Verma,70,Male,Jodhpur,Rajasthan,2019-01-14T00:00:00,Organic Search,Bronze,True,4.0,
+C00254,Neha Bhat,53,Male,Kolkata,West Bengal,2019-08-27T00:00:00,Social Media,Gold,True,5.0,
+C00255,Yusuf Iyer,37,Female,Ahmedabad,Gujarat,2018-11-05T00:00:00,Organic Search,Bronze,True,2.0,
+C00256,Priya Sethi,48,Female,Delhi,Delhi,2018-09-10T00:00:00,Email,Bronze,True,5.0,
+C00257,Alisha Das,63,Female,Amritsar,Punjab,2020-11-29T00:00:00,Paid Search,Bronze,True,4.0,
+C00258,Sara Reddy,19,Male,Ludhiana,Punjab,2020-01-08T00:00:00,Referral,Silver,True,5.0,
+C00259,Aarav Mehta,56,Male,Bhopal,Madhya Pradesh,2018-05-03T00:00:00,Referral,Bronze,True,4.0,
+C00260,Pooja Sethi,39,Male,Jodhpur,Rajasthan,2020-07-31T00:00:00,Organic Search,Silver,True,5.0,REF3681
+C00261,Akash Bhat,59,Male,Bengaluru,Karnataka,2022-02-19T00:00:00,Organic Search,Bronze,True,5.0,
+C00262,Fatima Patel,51,Female,Chennai,Tamil Nadu,2018-06-03T00:00:00,Social Media,Bronze,True,4.0,
+C00263,Riya Kumar,38,Male,Nagpur,Maharashtra,2021-04-01T00:00:00,Direct,Bronze,True,4.0,REF9659
+C00264,Tanya Rao,34,Male,Warangal,Telangana,2018-10-28T00:00:00,Social Media,Gold,True,5.0,
+C00265,Nikhil Verma,47,Male,Nagpur,Maharashtra,2021-04-08T00:00:00,Social Media,Bronze,True,5.0,REF8758
+C00266,Vikram Das,62,Male,Guwahati,Assam,2019-12-07T00:00:00,Referral,Platinum,True,4.0,REF7356
+C00267,Sara Kapoor,52,Male,Chandigarh,Chandigarh,2022-03-18T00:00:00,Social Media,Gold,True,5.0,
+C00268,Akash Ali,43,Male,Surat,Gujarat,2022-01-17T00:00:00,Referral,Gold,True,4.0,REF4641
+C00269,Varun Bose,51,Male,Chandigarh,Chandigarh,2021-04-27T00:00:00,Social Media,Gold,True,2.0,REF3645
+C00270,Simran Ansari,45,Female,Varanasi,Uttar Pradesh,2018-12-24T00:00:00,Social Media,Bronze,True,3.0,
+C00271,Pooja Menon,72,Female,Pune,Maharashtra,2019-06-27T00:00:00,Organic Search,Bronze,True,4.0,
+C00272,Aditya Kumar,18,Male,Chennai,Tamil Nadu,2022-11-29T00:00:00,Organic Search,Bronze,False,4.0,
+C00273,Yusuf Chopra,42,Non-binary,Bengaluru,Karnataka,2018-02-04T00:00:00,Paid Search,Gold,False,4.0,
+C00274,Varun Ansari,24,Male,Jaipur,Rajasthan,2018-09-29T00:00:00,Referral,Gold,True,2.0,
+C00275,Aditya Thomas,50,Female,Mumbai,Maharashtra,2020-10-12T00:00:00,Organic Search,Bronze,True,3.0,REF4537
+C00276,Tanya Mishra,56,Female,Kochi,Kerala,2018-12-08T00:00:00,Email,Gold,True,3.0,REF3715
+C00277,Varun Bhat,51,Female,Amritsar,Punjab,2022-09-10T00:00:00,Email,Silver,True,5.0,
+C00278,Shreya Sharma,64,Female,Nagpur,Maharashtra,2021-02-08T00:00:00,Referral,Gold,True,4.0,
+C00279,Aditya Gupta,71,Female,Coimbatore,Tamil Nadu,2019-05-04T00:00:00,Organic Search,Gold,True,4.0,
+C00280,Arjun Sharma,22,Male,Guwahati,Assam,2020-01-23T00:00:00,Referral,Bronze,True,3.0,
+C00281,Kabir Bhat,71,Female,Surat,Gujarat,2019-08-17T00:00:00,Social Media,Silver,True,4.0,REF1001
+C00282,Dev Singh,38,Male,Ahmedabad,Gujarat,2021-05-10T00:00:00,Referral,Bronze,True,4.0,
+C00283,Yusuf Ali,59,Female,Bengaluru,Karnataka,2019-09-13T00:00:00,Email,Bronze,True,3.0,
+C00284,Aditi Bose,48,Female,Jaipur,Rajasthan,2021-08-11T00:00:00,Organic Search,Silver,True,5.0,REF6995
+C00285,Zoya Menon,69,Female,Jodhpur,Rajasthan,2021-03-14T00:00:00,Organic Search,Bronze,True,4.0,
+C00286,Ishaan Thomas,64,Male,Hyderabad,Telangana,2022-05-17T00:00:00,Organic Search,Bronze,True,3.0,
+C00287,Aditya Saxena,45,Female,Srinagar,Jammu and Kashmir,2022-10-01T00:00:00,Direct,Bronze,False,3.0,
+C00288,Priya Mishra,41,Female,Delhi,Delhi,2020-12-17T00:00:00,Referral,Silver,True,5.0,
+C00289,Meera Thomas,61,Male,Guwahati,Assam,2021-02-07T00:00:00,Direct,Gold,True,3.0,REF5460
+C00290,Nikhil Das,18,Male,Delhi,Delhi,2018-06-05T00:00:00,Direct,Silver,True,3.0,
+C00291,Kavya Sethi,64,Male,Chennai,Tamil Nadu,2019-06-14T00:00:00,Email,Silver,True,,
+C00292,Mira Chopra,19,Female,Pune,Maharashtra,2021-02-20T00:00:00,Referral,Bronze,True,5.0,
+C00293,Simran Khan,22,Female,Hyderabad,Telangana,2021-03-10T00:00:00,Organic Search,Gold,True,3.0,
+C00294,Sara Malik,44,Female,Coimbatore,Tamil Nadu,2019-12-16T00:00:00,Email,Bronze,True,3.0,
+C00295,Ibrahim Ali,54,Female,Jammu,Jammu and Kashmir,2020-02-16T00:00:00,Paid Search,Silver,True,4.0,
+C00296,Anika Menon,44,Female,Lucknow,Uttar Pradesh,2019-11-18T00:00:00,Email,Bronze,True,4.0,
+C00297,Noor Bhat,44,Male,Mumbai,Maharashtra,2018-08-15T00:00:00,Email,Bronze,True,3.0,
+C00298,Mira Gupta,50,Male,Varanasi,Uttar Pradesh,2022-12-12T00:00:00,Organic Search,Silver,True,1.0,
+C00299,Varun Gupta,38,Female,Kolkata,West Bengal,2022-11-29T00:00:00,Organic Search,Silver,True,5.0,
+C00300,Sana Singh,62,Female,Bengaluru,Karnataka,2021-04-11T00:00:00,Direct,Silver,False,4.0,
+C00301,Farhan Ansari,71,Male,Bhopal,Madhya Pradesh,2019-02-26T00:00:00,Organic Search,Bronze,True,5.0,
+C00302,Aarav Sharma,38,Male,Bengaluru,Karnataka,2018-07-03T00:00:00,Referral,Gold,True,5.0,REF4464
+C00303,Simran Das,58,Male,Kolkata,West Bengal,2020-04-11T00:00:00,Direct,Silver,True,,REF4658
+C00304,Ananya Das,65,Prefer not to say,Kolkata,West Bengal,2020-12-12T00:00:00,Social Media,Bronze,True,5.0,REF9041
+C00305,Tanya Joshi,66,Female,Pune,Maharashtra,2022-10-17T00:00:00,Social Media,Bronze,True,4.0,
+C00306,Shreya Ali,48,Male,Hyderabad,Telangana,2021-05-25T00:00:00,Organic Search,Platinum,True,3.0,REF1972
+C00307,Diya Khan,25,Male,Hyderabad,Telangana,2021-01-03T00:00:00,Email,Silver,True,4.0,REF5837
+C00308,Noor Sethi,62,Male,Srinagar,Jammu and Kashmir,2019-05-01T00:00:00,Social Media,Bronze,False,,
+C00309,Anika Sharma,36,Female,Ludhiana,Punjab,2020-03-07T00:00:00,Referral,Gold,True,4.0,
+C00310,Aanya Saxena,20,Male,Hyderabad,Telangana,2018-11-23T00:00:00,Organic Search,Bronze,True,5.0,
+C00311,Fatima Shah,70,Female,Bengaluru,Karnataka,2021-11-05T00:00:00,Paid Search,Bronze,True,4.0,
+C00312,Akash Ansari,61,Female,Ahmedabad,Gujarat,2020-09-06T00:00:00,Paid Search,Silver,True,5.0,REF1419
+C00313,Aditya Patel,35,Male,Kolkata,West Bengal,2021-01-25T00:00:00,Organic Search,Platinum,True,5.0,
+C00314,Aanya Verma,46,Male,Chennai,Tamil Nadu,2018-11-26T00:00:00,Organic Search,Silver,True,4.0,REF9258
+C00315,Rohan Reddy,31,Female,Nagpur,Maharashtra,2021-07-18T00:00:00,Social Media,Gold,True,5.0,REF6977
+C00316,Fatima Das,27,Male,Kolkata,West Bengal,2019-06-25T00:00:00,Referral,Gold,True,3.0,
+C00317,Ananya Kumar,52,Male,Thiruvananthapuram,Kerala,2020-02-25T00:00:00,Social Media,Bronze,True,5.0,
+C00318,Kavya Menon,35,Male,Indore,Madhya Pradesh,2020-07-21T00:00:00,Paid Search,Platinum,True,5.0,REF6889
+C00319,Zoya Chopra,71,Female,Surat,Gujarat,2019-06-23T00:00:00,Email,Bronze,False,3.0,
+C00320,Sana Dutta,59,Male,Kolkata,West Bengal,2019-02-07T00:00:00,Organic Search,Gold,True,2.0,
+C00321,Riya Saxena,58,Male,Kochi,Kerala,2019-04-29T00:00:00,Email,Silver,True,5.0,
+C00322,Tanya Menon,75,Non-binary,Bengaluru,Karnataka,2019-05-02T00:00:00,Organic Search,Gold,True,5.0,
+C00323,Aditi Singh,49,Female,Pune,Maharashtra,2018-01-29T00:00:00,Social Media,Gold,True,5.0,REF1975
+C00324,Zoya Iyer,68,Male,Bhopal,Madhya Pradesh,2019-05-10T00:00:00,Organic Search,Bronze,True,4.0,
+C00325,Pooja Iyer,48,Non-binary,Lucknow,Uttar Pradesh,2022-06-20T00:00:00,Direct,Bronze,True,4.0,REF4821
+C00326,Aditi Iyer,74,Female,Chennai,Tamil Nadu,2021-10-28T00:00:00,Organic Search,Bronze,False,5.0,REF7320
+C00327,Noor Ali,61,Female,Srinagar,Jammu and Kashmir,2022-09-22T00:00:00,Referral,Bronze,True,,
+C00328,Neha Kapoor,44,Female,Chandigarh,Chandigarh,2021-11-09T00:00:00,Email,Gold,True,5.0,REF2002
+C00329,Nikhil Verma,49,Female,Pune,Maharashtra,2020-08-20T00:00:00,Direct,Bronze,True,4.0,
+C00330,Akash Patel,63,Male,Nagpur,Maharashtra,2022-03-13T00:00:00,Social Media,Gold,False,3.0,
+C00331,Aanya Bose,30,Female,Hyderabad,Telangana,2021-07-24T00:00:00,Social Media,Bronze,True,5.0,
+C00332,Shreya Das,52,Female,Lucknow,Uttar Pradesh,2021-10-23T00:00:00,Referral,Bronze,True,5.0,
+C00333,Aanya Chopra,67,Male,Varanasi,Uttar Pradesh,2020-11-24T00:00:00,Direct,Platinum,True,4.0,REF6933
+C00334,Aarav Gill,27,Female,Jaipur,Rajasthan,2022-04-21T00:00:00,Paid Search,Gold,True,4.0,REF4310
+C00335,Vikram Patel,23,Male,Varanasi,Uttar Pradesh,2019-10-04T00:00:00,Paid Search,Silver,False,4.0,
+C00336,Simran Dutta,19,Female,Thiruvananthapuram,Kerala,2022-05-19T00:00:00,Organic Search,Bronze,True,4.0,
+C00337,Shreya Das,49,Male,Coimbatore,Tamil Nadu,2021-04-05T00:00:00,Email,Gold,True,5.0,
+C00338,Tanya Bhat,75,Female,Guwahati,Assam,2020-05-06T00:00:00,Email,Platinum,True,4.0,
+C00339,Ibrahim Das,50,Male,Chennai,Tamil Nadu,2020-12-06T00:00:00,Referral,Bronze,True,4.0,REF4522
+C00340,Kabir Dutta,61,Male,Indore,Madhya Pradesh,2018-09-21T00:00:00,Referral,Silver,True,2.0,
+C00341,Mira Gill,24,Female,Pune,Maharashtra,2020-09-27T00:00:00,Social Media,Bronze,True,2.0,REF7341
+C00342,Kabir Menon,39,Female,Nagpur,Maharashtra,2022-01-29T00:00:00,Referral,Bronze,True,4.0,REF1131
+C00343,Varun Bose,26,Female,Coimbatore,Tamil Nadu,2022-05-24T00:00:00,Direct,Bronze,False,5.0,
+C00344,Varun Dutta,63,Female,Mumbai,Maharashtra,2018-04-16T00:00:00,Organic Search,Bronze,True,4.0,
+C00345,Isha Bhat,72,Male,Jaipur,Rajasthan,2022-07-16T00:00:00,Social Media,Silver,True,3.0,REF6878
+C00346,Mohammed Reddy,26,Female,Siliguri,West Bengal,2018-03-29T00:00:00,Paid Search,Silver,True,2.0,REF8586
+C00347,Nikhil Iyer,39,Female,Srinagar,Jammu and Kashmir,2019-12-15T00:00:00,Paid Search,Platinum,True,5.0,
+C00348,Simran Gupta,74,Female,Nagpur,Maharashtra,2018-01-30T00:00:00,Referral,Bronze,True,4.0,
+C00349,Ibrahim Khan,43,Female,Bhopal,Madhya Pradesh,2019-05-09T00:00:00,Referral,Bronze,True,3.0,
+C00350,Kabir Rao,36,Female,Chandigarh,Chandigarh,2019-10-18T00:00:00,Referral,Bronze,True,5.0,REF1788
+C00351,Sara Verma,40,Male,Kolkata,West Bengal,2018-03-04T00:00:00,Direct,Platinum,False,3.0,
+C00352,Fatima Chopra,63,Male,Indore,Madhya Pradesh,2019-02-06T00:00:00,Social Media,Bronze,True,3.0,
+C00353,Nikhil Ansari,28,Female,Mumbai,Maharashtra,2020-01-26T00:00:00,Paid Search,Gold,True,5.0,
+C00354,Alisha Kumar,36,Female,Varanasi,Uttar Pradesh,2019-02-09T00:00:00,Referral,Gold,True,3.0,
+C00355,Pooja Ali,31,Male,Bengaluru,Karnataka,2018-01-04T00:00:00,Organic Search,Bronze,True,4.0,REF6590
+C00356,Farhan Ansari,59,Female,Coimbatore,Tamil Nadu,2018-05-19T00:00:00,Social Media,Bronze,True,5.0,
+C00357,Mohammed Patel,58,Female,Ahmedabad,Gujarat,2020-09-28T00:00:00,Referral,Silver,True,4.0,
+C00358,Aarav Chopra,40,Female,Jodhpur,Rajasthan,2021-08-23T00:00:00,Organic Search,Gold,True,4.0,REF3876
+C00359,Kabir Sheikh,28,Male,Mysuru,Karnataka,2020-07-28T00:00:00,Email,Bronze,True,3.0,
+C00360,Farhan Kumar,55,Male,Kolkata,West Bengal,2018-07-22T00:00:00,Organic Search,Silver,True,5.0,
+C00361,Alisha Saxena,65,Female,Warangal,Telangana,2020-04-05T00:00:00,Paid Search,Silver,True,5.0,
+C00362,Isha Iyer,71,Male,Kolkata,West Bengal,2021-11-15T00:00:00,Organic Search,Silver,True,3.0,
+C00363,Akash Mishra,56,Male,Lucknow,Uttar Pradesh,2018-07-29T00:00:00,Paid Search,Silver,True,5.0,
+C00364,Nikhil Kapoor,72,Male,Chennai,Tamil Nadu,2018-10-30T00:00:00,Social Media,Silver,True,1.0,
+C00365,Isha Sharma,75,Male,Varanasi,Uttar Pradesh,2020-05-28T00:00:00,Organic Search,Bronze,False,2.0,
+C00366,Zoya Verma,39,Male,Bengaluru,Karnataka,2022-01-19T00:00:00,Social Media,Silver,True,5.0,REF2214
+C00367,Arjun Thomas,69,Female,Bhopal,Madhya Pradesh,2018-05-25T00:00:00,Referral,Bronze,True,5.0,
+C00368,Aanya Khan,35,Male,Indore,Madhya Pradesh,2019-11-10T00:00:00,Paid Search,Silver,True,4.0,REF4165
+C00369,Dev Sharma,75,Prefer not to say,Siliguri,West Bengal,2021-10-10T00:00:00,Organic Search,Gold,True,5.0,REF7533
+C00370,Aanya Das,43,Male,Jammu,Jammu and Kashmir,2019-12-19T00:00:00,Organic Search,Silver,True,5.0,
+C00371,Diya Iyer,68,Female,Bhubaneswar,Odisha,2020-09-03T00:00:00,Social Media,Silver,True,3.0,
+C00372,Aanya Shah,48,Female,Nagpur,Maharashtra,2018-01-22T00:00:00,Referral,Gold,True,3.0,
+C00373,Sana Kumar,70,Female,Varanasi,Uttar Pradesh,2022-07-26T00:00:00,Organic Search,Bronze,True,5.0,
+C00374,Tanya Menon,44,Female,Guwahati,Assam,2019-05-27T00:00:00,Organic Search,Gold,True,2.0,REF3246
+C00375,Ibrahim Reddy,64,Female,Siliguri,West Bengal,2020-10-07T00:00:00,Email,Silver,True,4.0,
+C00376,Isha Sheikh,39,Male,Amritsar,Punjab,2020-04-10T00:00:00,Referral,Silver,False,1.0,
+C00377,Sara Chopra,55,Female,Hyderabad,Telangana,2019-03-28T00:00:00,Paid Search,Bronze,True,,
+C00378,Priya Nair,61,Male,Kochi,Kerala,2022-08-30T00:00:00,Referral,Silver,True,5.0,
+C00379,Farhan Sharma,69,Male,Jodhpur,Rajasthan,2019-07-15T00:00:00,Social Media,Bronze,False,3.0,
+C00380,Karan Rao,62,Prefer not to say,Chennai,Tamil Nadu,2021-05-09T00:00:00,Paid Search,Silver,False,4.0,
+C00381,Yusuf Ali,65,Female,Thiruvananthapuram,Kerala,2018-12-06T00:00:00,Organic Search,Silver,False,4.0,
+C00382,Kabir Gill,73,Female,Nagpur,Maharashtra,2020-03-12T00:00:00,Referral,Gold,False,4.0,REF7133
+C00383,Mira Gill,60,Female,Guwahati,Assam,2020-06-03T00:00:00,Referral,Silver,True,4.0,
+C00384,Vikram Sharma,41,Prefer not to say,Mumbai,Maharashtra,2021-08-23T00:00:00,Paid Search,Silver,True,4.0,
+C00385,Ibrahim Menon,43,Non-binary,Kathua,Jammu and Kashmir,2019-08-15T00:00:00,Organic Search,Bronze,True,2.0,
+C00386,Alisha Menon,46,Female,Guwahati,Assam,2018-10-31T00:00:00,Direct,Platinum,True,3.0,
+C00387,Sana Das,67,Male,Mysuru,Karnataka,2022-01-27T00:00:00,Email,Bronze,True,4.0,
+C00388,Alisha Sheikh,18,Male,Ahmedabad,Gujarat,2021-09-15T00:00:00,Direct,Silver,True,3.0,REF7289
+C00389,Farhan Reddy,49,Female,Surat,Gujarat,2018-06-03T00:00:00,Direct,Bronze,True,4.0,
+C00390,Yusuf Bose,49,Female,Indore,Madhya Pradesh,2021-04-17T00:00:00,Organic Search,Bronze,True,2.0,REF1007
+C00391,Aditya Saxena,69,Female,Lucknow,Uttar Pradesh,2021-05-25T00:00:00,Organic Search,Silver,True,4.0,
+C00392,Simran Shah,27,Male,Mysuru,Karnataka,2020-06-09T00:00:00,Organic Search,Bronze,True,4.0,
+C00393,Tanya Chopra,46,Male,Mysuru,Karnataka,2022-05-30T00:00:00,Social Media,Silver,True,2.0,
+C00394,Aanya Saxena,52,Female,Siliguri,West Bengal,2019-01-13T00:00:00,Organic Search,Bronze,True,4.0,
+C00395,Mohammed Reddy,51,Male,Ludhiana,Punjab,2021-01-20T00:00:00,Referral,Silver,True,3.0,
+C00396,Anika Shah,30,Female,Ahmedabad,Gujarat,2018-07-20T00:00:00,Social Media,Silver,True,5.0,
+C00397,Aditya Singh,26,Female,Surat,Gujarat,2022-04-10T00:00:00,Referral,Bronze,True,5.0,
+C00398,Rohan Saxena,23,Female,Surat,Gujarat,2022-12-12T00:00:00,Paid Search,Silver,False,5.0,
+C00399,Sana Malik,44,Male,Mumbai,Maharashtra,2021-06-28T00:00:00,Paid Search,Bronze,True,4.0,
+C00400,Kabir Rao,23,Male,Mumbai,Maharashtra,2022-06-30T00:00:00,Direct,Silver,True,5.0,
+C00401,Sana Gill,24,Male,Thiruvananthapuram,Kerala,2020-07-01T00:00:00,Organic Search,Gold,True,4.0,
+C00402,Ananya Khan,42,Female,Chandigarh,Chandigarh,2019-03-07T00:00:00,Social Media,Silver,True,5.0,
+C00403,Ibrahim Khan,28,Female,Kathua,Jammu and Kashmir,2018-04-21T00:00:00,Organic Search,Gold,True,4.0,
+C00404,Kavya Kumar,39,Female,Coimbatore,Tamil Nadu,2021-02-20T00:00:00,Referral,Silver,True,2.0,
+C00405,Dev Malik,27,Male,Pune,Maharashtra,2020-06-10T00:00:00,Email,Silver,True,4.0,
+C00406,Arjun Reddy,57,Female,Chennai,Tamil Nadu,2020-10-19T00:00:00,Paid Search,Silver,True,4.0,REF4573
+C00407,Vikram Patel,75,Female,Bhopal,Madhya Pradesh,2022-12-28T00:00:00,Organic Search,Bronze,True,5.0,REF9773
+C00408,Aarav Ali,54,Female,Pune,Maharashtra,2020-08-02T00:00:00,Direct,Gold,True,5.0,REF8693
+C00409,Karan Ansari,65,Male,Hyderabad,Telangana,2019-03-04T00:00:00,Paid Search,Bronze,True,3.0,
+C00410,Aarav Bose,37,Male,Pune,Maharashtra,2022-01-27T00:00:00,Paid Search,Silver,True,4.0,
+C00411,Kavya Nair,21,Male,Kolkata,West Bengal,2021-04-07T00:00:00,Social Media,Bronze,True,4.0,
+C00412,Pooja Menon,70,Female,Surat,Gujarat,2020-09-10T00:00:00,Paid Search,Gold,True,3.0,REF9215
+C00413,Neha Saxena,36,Male,Mysuru,Karnataka,2022-03-02T00:00:00,Email,Silver,True,4.0,
+C00414,Rahul Sharma,67,Male,Bhubaneswar,Odisha,2021-01-21T00:00:00,Email,Bronze,True,4.0,
+C00415,Rahul Saxena,19,Female,Chennai,Tamil Nadu,2018-06-09T00:00:00,Organic Search,Silver,True,5.0,REF6161
+C00416,Priya Ansari,67,Male,Hyderabad,Telangana,2018-07-02T00:00:00,Organic Search,Silver,True,,
+C00417,Kavya Iyer,37,Male,Surat,Gujarat,2022-06-29T00:00:00,Organic Search,Bronze,True,5.0,REF6292
+C00418,Fatima Das,65,Male,Mysuru,Karnataka,2022-08-23T00:00:00,Paid Search,Gold,True,3.0,
+C00419,Varun Khan,27,Female,Kochi,Kerala,2021-12-18T00:00:00,Referral,Bronze,True,2.0,
+C00420,Noor Thomas,50,Male,Siliguri,West Bengal,2021-08-08T00:00:00,Referral,Silver,True,,
+C00421,Farhan Dutta,40,Female,Guwahati,Assam,2018-05-19T00:00:00,Social Media,Silver,True,3.0,
+C00422,Nikhil Nair,65,Male,Bhopal,Madhya Pradesh,2018-01-20T00:00:00,Social Media,Silver,True,4.0,
+C00423,Simran Gill,52,Male,Varanasi,Uttar Pradesh,2022-10-05T00:00:00,Direct,Bronze,True,5.0,REF3870
+C00424,Aditya Nair,43,Female,Warangal,Telangana,2021-02-13T00:00:00,Referral,Bronze,False,5.0,
+C00425,Aarav Sheikh,31,Female,Bhubaneswar,Odisha,2018-01-13T00:00:00,Referral,Gold,True,4.0,REF8206
+C00426,Isha Sharma,36,Female,Jaipur,Rajasthan,2018-09-30T00:00:00,Social Media,Bronze,True,4.0,
+C00427,Aditi Khan,51,Male,Kathua,Jammu and Kashmir,2022-07-15T00:00:00,Referral,Silver,True,3.0,
+C00428,Riya Dutta,46,Male,Jaipur,Rajasthan,2022-06-25T00:00:00,Paid Search,Gold,True,4.0,
+C00429,Akash Sethi,70,Male,Pune,Maharashtra,2020-07-29T00:00:00,Organic Search,Platinum,True,4.0,
+C00430,Dev Saxena,61,Female,Surat,Gujarat,2019-03-13T00:00:00,Paid Search,Platinum,True,5.0,
+C00431,Shreya Chopra,69,Male,Bengaluru,Karnataka,2021-04-04T00:00:00,Organic Search,Gold,True,4.0,
+C00432,Mira Verma,42,Female,Indore,Madhya Pradesh,2018-11-25T00:00:00,Social Media,Silver,True,5.0,REF7447
+C00433,Riya Gill,25,Female,Thiruvananthapuram,Kerala,2021-06-30T00:00:00,Referral,Bronze,True,,
+C00434,Meera Chopra,29,Male,Indore,Madhya Pradesh,2019-03-04T00:00:00,Paid Search,Bronze,True,4.0,
+C00435,Diya Nair,41,Male,Thiruvananthapuram,Kerala,2022-10-09T00:00:00,Social Media,Silver,True,3.0,
+C00436,Aanya Gill,59,Female,Guwahati,Assam,2018-03-02T00:00:00,Organic Search,Bronze,True,5.0,
+C00437,Mohammed Menon,40,Female,Hyderabad,Telangana,2019-12-09T00:00:00,Organic Search,Platinum,True,5.0,
+C00438,Diya Singh,71,Male,Delhi,Delhi,2020-08-09T00:00:00,Referral,Bronze,True,2.0,
+C00439,Shreya Chopra,68,Male,Jodhpur,Rajasthan,2018-01-09T00:00:00,Direct,Silver,True,3.0,
+C00440,Rahul Dutta,41,Male,Bengaluru,Karnataka,2019-04-21T00:00:00,Social Media,Bronze,True,4.0,REF4070
+C00441,Sana Singh,72,Female,Thiruvananthapuram,Kerala,2021-08-04T00:00:00,Direct,Bronze,True,,
+C00442,Ishaan Gupta,62,Female,Delhi,Delhi,2018-06-11T00:00:00,Social Media,Bronze,True,4.0,
+C00443,Tanya Bose,73,Female,Siliguri,West Bengal,2018-10-12T00:00:00,Paid Search,Silver,True,2.0,REF6455
+C00444,Yusuf Sharma,29,Male,Jaipur,Rajasthan,2021-09-30T00:00:00,Referral,Gold,True,3.0,
+C00445,Simran Menon,56,Male,Hyderabad,Telangana,2018-08-15T00:00:00,Referral,Bronze,False,3.0,
+C00446,Noor Gupta,43,Male,Surat,Gujarat,2020-12-19T00:00:00,Direct,Silver,True,2.0,REF6703
+C00447,Ishaan Bhat,20,Female,Chennai,Tamil Nadu,2021-12-01T00:00:00,Social Media,Bronze,True,4.0,REF1593
+C00448,Ishaan Rao,73,Female,Ludhiana,Punjab,2020-09-10T00:00:00,Paid Search,Bronze,True,3.0,
+C00449,Varun Sethi,61,Female,Delhi,Delhi,2018-02-26T00:00:00,Organic Search,Bronze,True,,
+C00450,Aditya Das,52,Female,Ahmedabad,Gujarat,2020-06-23T00:00:00,Social Media,Bronze,True,4.0,
+C00451,Pooja Chopra,48,Non-binary,Chennai,Tamil Nadu,2019-09-03T00:00:00,Paid Search,Silver,True,4.0,REF1481
+C00452,Fatima Bose,27,Female,Varanasi,Uttar Pradesh,2020-01-07T00:00:00,Social Media,Bronze,True,4.0,
+C00453,Priya Patel,43,Male,Siliguri,West Bengal,2020-01-21T00:00:00,Organic Search,Silver,True,4.0,
+C00454,Rahul Gupta,26,Male,Pune,Maharashtra,2019-01-23T00:00:00,Referral,Silver,True,2.0,
+C00455,Ahmed Saxena,19,Female,Thiruvananthapuram,Kerala,2018-04-18T00:00:00,Direct,Bronze,True,3.0,REF3435
+C00456,Aanya Bhat,57,Female,Kochi,Kerala,2018-07-17T00:00:00,Social Media,Bronze,True,2.0,
+C00457,Sara Shah,41,Male,Mumbai,Maharashtra,2021-10-22T00:00:00,Organic Search,Bronze,True,5.0,
+C00458,Noor Mishra,68,Female,Kathua,Jammu and Kashmir,2019-11-05T00:00:00,Paid Search,Silver,True,4.0,
+C00459,Sara Sharma,68,Female,Thiruvananthapuram,Kerala,2021-03-03T00:00:00,Email,Gold,True,4.0,
+C00460,Noor Verma,20,Prefer not to say,Surat,Gujarat,2018-05-30T00:00:00,Social Media,Gold,True,3.0,
+C00461,Alisha Gupta,54,Female,Coimbatore,Tamil Nadu,2020-03-02T00:00:00,Organic Search,Platinum,True,4.0,
+C00462,Nikhil Verma,48,Male,Mumbai,Maharashtra,2018-05-12T00:00:00,Referral,Silver,True,4.0,
+C00463,Aarav Bose,26,Female,Srinagar,Jammu and Kashmir,2022-01-04T00:00:00,Paid Search,Silver,True,4.0,REF3510
+C00464,Meera Ali,67,Female,Hyderabad,Telangana,2021-07-06T00:00:00,Referral,Silver,True,4.0,
+C00465,Arjun Patel,43,Female,Kochi,Kerala,2020-10-08T00:00:00,Referral,Silver,True,4.0,
+C00466,Ishaan Nair,59,Male,Ahmedabad,Gujarat,2020-08-13T00:00:00,Paid Search,Silver,True,5.0,
+C00467,Priya Malik,55,Female,Guwahati,Assam,2019-12-28T00:00:00,Organic Search,Bronze,True,5.0,REF6867
+C00468,Priya Kapoor,29,Male,Nagpur,Maharashtra,2018-11-22T00:00:00,Referral,Gold,True,5.0,REF5383
+C00469,Akash Mehta,26,Male,Lucknow,Uttar Pradesh,2022-09-11T00:00:00,Organic Search,Platinum,True,3.0,
+C00470,Vikram Patel,74,Male,Bhopal,Madhya Pradesh,2020-11-03T00:00:00,Organic Search,Bronze,True,5.0,
+C00471,Riya Sheikh,43,Female,Coimbatore,Tamil Nadu,2019-12-19T00:00:00,Organic Search,Gold,True,4.0,REF7485
+C00472,Karan Patel,38,Male,Thiruvananthapuram,Kerala,2021-11-22T00:00:00,Email,Bronze,True,5.0,REF8727
+C00473,Ibrahim Verma,67,Male,Hyderabad,Telangana,2019-05-18T00:00:00,Organic Search,Silver,True,2.0,
+C00474,Ibrahim Bhat,23,Male,Delhi,Delhi,2018-04-18T00:00:00,Paid Search,Bronze,True,5.0,
+C00475,Sana Nair,63,Male,Kolkata,West Bengal,2018-11-23T00:00:00,Direct,Bronze,False,5.0,
+C00476,Akash Dutta,26,Female,Kathua,Jammu and Kashmir,2019-06-04T00:00:00,Email,Silver,True,3.0,
+C00477,Simran Mishra,37,Male,Delhi,Delhi,2021-07-20T00:00:00,Organic Search,Gold,True,5.0,REF9473
+C00478,Vikram Sheikh,30,Male,Lucknow,Uttar Pradesh,2019-11-11T00:00:00,Email,Silver,True,5.0,
+C00479,Isha Thomas,69,Male,Kolkata,West Bengal,2022-10-07T00:00:00,Organic Search,Silver,True,5.0,
+C00480,Arjun Iyer,66,Male,Delhi,Delhi,2021-12-10T00:00:00,Social Media,Bronze,True,4.0,REF2372
+C00481,Mira Bose,22,Male,Thiruvananthapuram,Kerala,2019-01-14T00:00:00,Organic Search,Silver,False,2.0,REF6197
+C00482,Aditya Bose,44,Male,Mysuru,Karnataka,2021-12-29T00:00:00,Direct,Silver,True,5.0,REF4506
+C00483,Mira Menon,59,Male,Mysuru,Karnataka,2021-11-22T00:00:00,Email,Bronze,True,4.0,REF7771
+C00484,Diya Saxena,73,Female,Thiruvananthapuram,Kerala,2019-02-09T00:00:00,Social Media,Bronze,True,3.0,
+C00485,Mira Saxena,74,Male,Bengaluru,Karnataka,2019-01-31T00:00:00,Paid Search,Gold,True,3.0,REF8673
+C00486,Zoya Thomas,26,Female,Hyderabad,Telangana,2020-11-29T00:00:00,Social Media,Bronze,True,5.0,
+C00487,Alisha Iyer,44,Non-binary,Guwahati,Assam,2020-03-07T00:00:00,Email,Bronze,True,5.0,
+C00488,Yusuf Joshi,38,Male,Siliguri,West Bengal,2020-08-04T00:00:00,Email,Silver,True,5.0,REF5219
+C00489,Pooja Malik,45,Male,Bengaluru,Karnataka,2022-02-23T00:00:00,Direct,Silver,True,,
+C00490,Meera Bose,19,Male,Bhubaneswar,Odisha,2020-12-05T00:00:00,Direct,Bronze,False,3.0,
+C00491,Aarav Singh,65,Female,Delhi,Delhi,2022-08-16T00:00:00,Organic Search,Bronze,True,4.0,
+C00492,Anika Nair,75,Female,Chandigarh,Chandigarh,2019-04-15T00:00:00,Referral,Gold,True,,
+C00493,Ananya Iyer,53,Male,Kolkata,West Bengal,2021-05-04T00:00:00,Direct,Bronze,True,3.0,
+C00494,Isha Khan,74,Male,Kochi,Kerala,2022-03-24T00:00:00,Direct,Gold,True,4.0,
+C00495,Rahul Chopra,42,Female,Amritsar,Punjab,2022-03-26T00:00:00,Organic Search,Bronze,True,4.0,REF2424
+C00496,Akash Saxena,70,Male,Thiruvananthapuram,Kerala,2021-12-04T00:00:00,Email,Silver,True,5.0,REF1479
+C00497,Sara Khan,35,Female,Kochi,Kerala,2020-10-06T00:00:00,Organic Search,Silver,True,3.0,
+C00498,Sara Sharma,47,Female,Jodhpur,Rajasthan,2022-10-19T00:00:00,Paid Search,Silver,True,2.0,REF5790
+C00499,Kavya Bhat,29,Female,Varanasi,Uttar Pradesh,2021-09-27T00:00:00,Paid Search,Bronze,True,3.0,
+C00500,Mira Gill,56,Female,Warangal,Telangana,2019-06-23T00:00:00,Email,Bronze,True,2.0,REF6034
+C00501,Pooja Sheikh,22,Female,Hyderabad,Telangana,2021-11-11T00:00:00,Organic Search,Bronze,True,3.0,
+C00502,Dev Sethi,29,Male,Hyderabad,Telangana,2018-11-18T00:00:00,Organic Search,Silver,True,5.0,
+C00503,Isha Nair,19,Female,Kolkata,West Bengal,2021-12-28T00:00:00,Social Media,Bronze,False,4.0,REF9060
+C00504,Arjun Gupta,56,Female,Bengaluru,Karnataka,2022-03-01T00:00:00,Organic Search,Bronze,True,2.0,REF6239
+C00505,Kabir Bose,31,Male,Bengaluru,Karnataka,2019-07-20T00:00:00,Referral,Platinum,True,4.0,REF1911
+C00506,Sara Reddy,46,Female,Surat,Gujarat,2021-02-07T00:00:00,Social Media,Bronze,True,5.0,
+C00507,Mira Bhat,70,Female,Jodhpur,Rajasthan,2018-09-24T00:00:00,Direct,Platinum,True,4.0,REF6298
+C00508,Diya Bhat,21,Male,Bhubaneswar,Odisha,2019-04-28T00:00:00,Social Media,Silver,True,5.0,REF5612
+C00509,Rohan Bhat,54,Male,Kolkata,West Bengal,2021-08-08T00:00:00,Social Media,Bronze,True,5.0,REF2153
+C00510,Sana Gill,66,Male,Guwahati,Assam,2022-03-31T00:00:00,Paid Search,Bronze,True,4.0,
+C00511,Aarav Patel,43,Male,Nagpur,Maharashtra,2019-05-11T00:00:00,Paid Search,Silver,True,5.0,
+C00512,Kavya Reddy,46,Male,Jaipur,Rajasthan,2022-07-23T00:00:00,Direct,Gold,True,3.0,
+C00513,Meera Mishra,74,Female,Bhopal,Madhya Pradesh,2020-04-20T00:00:00,Email,Gold,True,1.0,
+C00514,Noor Gupta,34,Female,Lucknow,Uttar Pradesh,2018-11-05T00:00:00,Social Media,Silver,True,2.0,
+C00515,Aditi Bose,28,Female,Kathua,Jammu and Kashmir,2019-06-19T00:00:00,Referral,Gold,True,4.0,
+C00516,Mohammed Verma,36,Prefer not to say,Mumbai,Maharashtra,2022-07-16T00:00:00,Social Media,Platinum,True,4.0,REF2713
+C00517,Ahmed Iyer,34,Male,Kochi,Kerala,2018-04-16T00:00:00,Paid Search,Gold,True,4.0,
+C00518,Ibrahim Gill,71,Male,Kathua,Jammu and Kashmir,2022-05-12T00:00:00,Email,Silver,True,5.0,
+C00519,Nikhil Mishra,22,Male,Nagpur,Maharashtra,2019-04-14T00:00:00,Paid Search,Platinum,True,4.0,
+C00520,Neha Joshi,70,Female,Varanasi,Uttar Pradesh,2021-04-02T00:00:00,Direct,Bronze,True,,
+C00521,Shreya Menon,65,Female,Siliguri,West Bengal,2021-12-07T00:00:00,Email,Gold,True,4.0,REF8068
+C00522,Rahul Iyer,32,Female,Guwahati,Assam,2022-11-23T00:00:00,Email,Silver,False,,
+C00523,Tanya Iyer,62,Female,Siliguri,West Bengal,2021-02-08T00:00:00,Referral,Bronze,True,5.0,
+C00524,Ahmed Saxena,64,Female,Coimbatore,Tamil Nadu,2018-01-12T00:00:00,Email,Silver,True,5.0,
+C00525,Yusuf Rao,45,Male,Varanasi,Uttar Pradesh,2018-11-01T00:00:00,Email,Bronze,True,5.0,REF7288
+C00526,Noor Das,65,Prefer not to say,Kochi,Kerala,2022-02-07T00:00:00,Paid Search,Silver,True,3.0,
+C00527,Sana Kumar,59,Female,Delhi,Delhi,2018-02-20T00:00:00,Social Media,Silver,True,3.0,
+C00528,Yusuf Mehta,43,Male,Chennai,Tamil Nadu,2022-05-06T00:00:00,Organic Search,Bronze,True,5.0,REF4683
+C00529,Tanya Ansari,50,Non-binary,Srinagar,Jammu and Kashmir,2022-04-15T00:00:00,Social Media,Bronze,True,4.0,
+C00530,Aarav Mehta,22,Male,Mumbai,Maharashtra,2018-09-16T00:00:00,Direct,Silver,True,5.0,
+C00531,Pooja Sharma,69,Male,Indore,Madhya Pradesh,2021-10-09T00:00:00,Organic Search,Gold,False,4.0,
+C00532,Mohammed Mishra,41,Female,Ludhiana,Punjab,2018-11-12T00:00:00,Social Media,Bronze,True,5.0,
+C00533,Mohammed Nair,32,Female,Jaipur,Rajasthan,2020-03-14T00:00:00,Organic Search,Bronze,True,4.0,
+C00534,Arjun Singh,75,Prefer not to say,Indore,Madhya Pradesh,2020-03-09T00:00:00,Social Media,Bronze,True,4.0,
+C00535,Anika Patel,60,Female,Kathua,Jammu and Kashmir,2019-07-27T00:00:00,Paid Search,Bronze,True,3.0,
+C00536,Ahmed Khan,75,Female,Delhi,Delhi,2020-05-15T00:00:00,Referral,Bronze,False,5.0,
+C00537,Aarav Dutta,35,Female,Warangal,Telangana,2020-08-08T00:00:00,Social Media,Silver,False,5.0,
+C00538,Arjun Menon,57,Female,Ahmedabad,Gujarat,2021-10-05T00:00:00,Paid Search,Platinum,True,5.0,
+C00539,Isha Thomas,41,Prefer not to say,Jammu,Jammu and Kashmir,2022-12-22T00:00:00,Organic Search,Gold,True,5.0,
+C00540,Fatima Das,33,Female,Delhi,Delhi,2021-04-07T00:00:00,Referral,Gold,True,4.0,
+C00541,Rahul Kapoor,59,Male,Varanasi,Uttar Pradesh,2019-05-12T00:00:00,Direct,Silver,True,3.0,
+C00542,Zoya Kapoor,21,Male,Delhi,Delhi,2021-11-03T00:00:00,Direct,Silver,True,2.0,
+C00543,Aanya Kapoor,68,Male,Jodhpur,Rajasthan,2021-07-30T00:00:00,Organic Search,Silver,True,3.0,
+C00544,Ahmed Menon,41,Female,Coimbatore,Tamil Nadu,2018-04-02T00:00:00,Paid Search,Bronze,True,4.0,
+C00545,Nikhil Das,21,Prefer not to say,Kochi,Kerala,2020-06-20T00:00:00,Referral,Gold,True,5.0,
+C00546,Sara Mehta,73,Female,Hyderabad,Telangana,2020-07-22T00:00:00,Referral,Bronze,True,4.0,
+C00547,Kabir Reddy,61,Male,Ludhiana,Punjab,2019-03-01T00:00:00,Referral,Bronze,True,1.0,
+C00548,Zoya Bose,60,Male,Kochi,Kerala,2021-08-07T00:00:00,Organic Search,Platinum,True,4.0,
+C00549,Aditya Khan,74,Male,Jodhpur,Rajasthan,2022-12-19T00:00:00,Social Media,Silver,True,5.0,REF9104
+C00550,Isha Thomas,23,Male,Jaipur,Rajasthan,2019-10-01T00:00:00,Social Media,Gold,True,3.0,
+C00551,Vikram Singh,37,Male,Mysuru,Karnataka,2018-03-01T00:00:00,Paid Search,Gold,True,3.0,
+C00552,Arjun Verma,67,Male,Delhi,Delhi,2022-11-06T00:00:00,Direct,Bronze,False,4.0,
+C00553,Tanya Sethi,34,Female,Nagpur,Maharashtra,2019-07-23T00:00:00,Organic Search,Gold,True,4.0,REF8318
+C00554,Fatima Bose,65,Female,Bengaluru,Karnataka,2020-11-07T00:00:00,Organic Search,Bronze,True,3.0,
+C00555,Pooja Chopra,65,Male,Ludhiana,Punjab,2020-01-04T00:00:00,Direct,Silver,True,5.0,
+C00556,Varun Verma,68,Male,Nagpur,Maharashtra,2022-09-06T00:00:00,Email,Bronze,True,5.0,
+C00557,Aanya Malik,23,Female,Guwahati,Assam,2022-09-13T00:00:00,Referral,Bronze,True,3.0,
+C00558,Aditi Iyer,25,Male,Mumbai,Maharashtra,2021-09-27T00:00:00,Paid Search,Gold,True,5.0,
+C00559,Zoya Gill,48,Female,Thiruvananthapuram,Kerala,2019-01-20T00:00:00,Email,Bronze,True,3.0,
+C00560,Neha Reddy,67,Prefer not to say,Chennai,Tamil Nadu,2021-12-01T00:00:00,Email,Silver,True,5.0,REF9433
+C00561,Dev Gupta,35,Male,Mysuru,Karnataka,2019-12-13T00:00:00,Email,Platinum,True,5.0,
+C00562,Alisha Menon,64,Male,Jodhpur,Rajasthan,2021-01-05T00:00:00,Paid Search,Bronze,True,3.0,REF6025
+C00563,Akash Ansari,22,Male,Bhopal,Madhya Pradesh,2020-06-10T00:00:00,Paid Search,Gold,True,4.0,REF7603
+C00564,Shreya Saxena,60,Female,Mumbai,Maharashtra,2021-12-07T00:00:00,Organic Search,Silver,True,3.0,
+C00565,Simran Thomas,23,Male,Kolkata,West Bengal,2018-02-18T00:00:00,Email,Silver,True,4.0,REF5877
+C00566,Kabir Mishra,66,Female,Mumbai,Maharashtra,2018-12-17T00:00:00,Email,Bronze,True,5.0,REF7714
+C00567,Pooja Mishra,69,Male,Siliguri,West Bengal,2019-09-02T00:00:00,Referral,Gold,True,,REF8282
+C00568,Neha Bhat,73,Male,Guwahati,Assam,2018-05-07T00:00:00,Paid Search,Platinum,False,5.0,REF1529
+C00569,Nikhil Reddy,47,Female,Varanasi,Uttar Pradesh,2022-10-28T00:00:00,Organic Search,Platinum,True,3.0,
+C00570,Aarav Sheikh,24,Male,Indore,Madhya Pradesh,2022-11-12T00:00:00,Direct,Bronze,True,5.0,
+C00571,Simran Reddy,49,Male,Nagpur,Maharashtra,2021-02-08T00:00:00,Social Media,Gold,True,3.0,
+C00572,Ishaan Sheikh,23,Female,Nagpur,Maharashtra,2021-07-23T00:00:00,Email,Platinum,True,5.0,
+C00573,Nikhil Mishra,67,Male,Hyderabad,Telangana,2020-09-18T00:00:00,Social Media,Silver,False,5.0,
+C00574,Alisha Bhat,32,Male,Warangal,Telangana,2020-09-05T00:00:00,Referral,Silver,True,5.0,
+C00575,Akash Gill,68,Female,Kochi,Kerala,2018-11-30T00:00:00,Email,Gold,True,2.0,
+C00576,Aarav Patel,29,Male,Indore,Madhya Pradesh,2020-11-15T00:00:00,Organic Search,Silver,True,3.0,
+C00577,Akash Reddy,37,Male,Ahmedabad,Gujarat,2018-02-07T00:00:00,Email,Bronze,True,5.0,REF8776
+C00578,Mohammed Sharma,53,Female,Jodhpur,Rajasthan,2019-09-10T00:00:00,Direct,Gold,True,5.0,
+C00579,Pooja Menon,59,Male,Chandigarh,Chandigarh,2022-09-13T00:00:00,Social Media,Bronze,True,2.0,
+C00580,Farhan Rao,49,Male,Srinagar,Jammu and Kashmir,2019-01-05T00:00:00,Paid Search,Bronze,True,3.0,REF3958
+C00581,Noor Bose,49,Female,Ludhiana,Punjab,2019-12-02T00:00:00,Social Media,Bronze,True,5.0,REF5905
+C00582,Aditya Khan,22,Male,Mumbai,Maharashtra,2020-03-10T00:00:00,Paid Search,Silver,True,4.0,
+C00583,Isha Gill,47,Male,Jaipur,Rajasthan,2018-08-10T00:00:00,Social Media,Gold,True,4.0,
+C00584,Yusuf Sharma,71,Male,Kathua,Jammu and Kashmir,2021-11-22T00:00:00,Referral,Silver,True,3.0,
+C00585,Aarav Patel,31,Male,Srinagar,Jammu and Kashmir,2018-06-02T00:00:00,Email,Platinum,True,4.0,
+C00586,Meera Nair,29,Female,Jammu,Jammu and Kashmir,2019-03-11T00:00:00,Referral,Gold,False,4.0,REF9299
+C00587,Anika Reddy,39,Male,Delhi,Delhi,2021-11-19T00:00:00,Referral,Bronze,True,3.0,
+C00588,Mira Kapoor,44,Male,Coimbatore,Tamil Nadu,2020-02-25T00:00:00,Social Media,Bronze,True,5.0,REF4088
+C00589,Ibrahim Nair,37,Female,Coimbatore,Tamil Nadu,2019-08-03T00:00:00,Organic Search,Silver,True,5.0,
+C00590,Pooja Khan,34,Male,Warangal,Telangana,2018-06-30T00:00:00,Direct,Silver,True,4.0,
+C00591,Mira Bose,29,Female,Coimbatore,Tamil Nadu,2021-04-25T00:00:00,Social Media,Gold,True,5.0,
+C00592,Isha Sheikh,61,Male,Kochi,Kerala,2019-11-22T00:00:00,Organic Search,Gold,True,2.0,REF1433
+C00593,Ahmed Gupta,47,Male,Bengaluru,Karnataka,2022-06-09T00:00:00,Email,Silver,True,4.0,REF3458
+C00594,Priya Kumar,60,Female,Lucknow,Uttar Pradesh,2019-02-14T00:00:00,Direct,Gold,True,,
+C00595,Farhan Bhat,34,Female,Siliguri,West Bengal,2019-10-15T00:00:00,Paid Search,Bronze,False,3.0,
+C00596,Ishaan Ali,31,Male,Mumbai,Maharashtra,2022-03-04T00:00:00,Paid Search,Platinum,False,5.0,
+C00597,Akash Reddy,51,Male,Lucknow,Uttar Pradesh,2021-11-24T00:00:00,Social Media,Bronze,True,2.0,
+C00598,Ananya Das,27,Female,Bengaluru,Karnataka,2020-07-15T00:00:00,Social Media,Platinum,True,4.0,
+C00599,Isha Joshi,43,Female,Siliguri,West Bengal,2021-01-09T00:00:00,Direct,Silver,True,5.0,
+C00600,Ibrahim Reddy,44,Non-binary,Pune,Maharashtra,2021-02-18T00:00:00,Social Media,Silver,True,4.0,
+C00601,Ibrahim Sheikh,35,Male,Nagpur,Maharashtra,2021-02-25T00:00:00,Direct,Silver,True,4.0,
+C00602,Vikram Singh,66,Male,Surat,Gujarat,2020-12-18T00:00:00,Paid Search,Bronze,True,1.0,
+C00603,Yusuf Das,52,Female,Kolkata,West Bengal,2022-09-13T00:00:00,Organic Search,Bronze,True,4.0,
+C00604,Mohammed Mehta,54,Female,Jammu,Jammu and Kashmir,2021-03-22T00:00:00,Social Media,Bronze,False,4.0,REF7152
+C00605,Fatima Singh,36,Male,Kathua,Jammu and Kashmir,2019-07-23T00:00:00,Direct,Bronze,True,5.0,
+C00606,Aditya Mehta,39,Male,Hyderabad,Telangana,2020-03-08T00:00:00,Paid Search,Bronze,True,5.0,
+C00607,Zoya Singh,66,Female,Bhubaneswar,Odisha,2022-06-27T00:00:00,Referral,Bronze,True,5.0,REF3783
+C00608,Ishaan Sharma,32,Female,Ahmedabad,Gujarat,2018-04-04T00:00:00,Email,Gold,True,5.0,
+C00609,Priya Kapoor,21,Female,Chennai,Tamil Nadu,2020-06-27T00:00:00,Organic Search,Gold,True,4.0,
+C00610,Yusuf Patel,73,Male,Jammu,Jammu and Kashmir,2018-04-22T00:00:00,Paid Search,Bronze,True,4.0,
+C00611,Ishaan Joshi,36,Male,Jaipur,Rajasthan,2021-07-28T00:00:00,Organic Search,Silver,True,4.0,
+C00612,Aanya Joshi,20,Male,Indore,Madhya Pradesh,2020-09-24T00:00:00,Email,Bronze,True,2.0,REF6202
+C00613,Vikram Saxena,35,Male,Varanasi,Uttar Pradesh,2022-07-24T00:00:00,Paid Search,Bronze,True,4.0,REF1807
+C00614,Priya Khan,24,Female,Siliguri,West Bengal,2019-08-24T00:00:00,Referral,Bronze,True,5.0,REF8207
+C00615,Mohammed Dutta,43,Male,Kathua,Jammu and Kashmir,2022-05-18T00:00:00,Organic Search,Gold,True,5.0,
+C00616,Yusuf Nair,56,Female,Siliguri,West Bengal,2019-03-29T00:00:00,Organic Search,Silver,True,2.0,
+C00617,Rohan Dutta,40,Female,Coimbatore,Tamil Nadu,2022-10-22T00:00:00,Email,Bronze,False,,
+C00618,Isha Malik,67,Female,Bhubaneswar,Odisha,2018-06-16T00:00:00,Organic Search,Gold,True,5.0,REF8755
+C00619,Fatima Reddy,53,Male,Mumbai,Maharashtra,2021-08-10T00:00:00,Paid Search,Bronze,True,5.0,
+C00620,Tanya Das,62,Female,Amritsar,Punjab,2022-09-10T00:00:00,Social Media,Bronze,True,4.0,
+C00621,Varun Dutta,70,Male,Jammu,Jammu and Kashmir,2020-07-23T00:00:00,Organic Search,Bronze,False,4.0,
+C00622,Mohammed Rao,18,Female,Mumbai,Maharashtra,2021-10-26T00:00:00,Social Media,Bronze,True,5.0,
+C00623,Aditya Mishra,21,Male,Hyderabad,Telangana,2021-01-05T00:00:00,Direct,Gold,False,4.0,REF7984
+C00624,Dev Chopra,53,Female,Coimbatore,Tamil Nadu,2021-03-07T00:00:00,Referral,Bronze,True,5.0,REF5658
+C00625,Rahul Sethi,41,Male,Guwahati,Assam,2022-09-20T00:00:00,Direct,Gold,True,3.0,
+C00626,Dev Nair,29,Male,Thiruvananthapuram,Kerala,2019-07-13T00:00:00,Social Media,Bronze,True,4.0,REF1940
+C00627,Sara Chopra,61,Female,Varanasi,Uttar Pradesh,2018-08-28T00:00:00,Social Media,Silver,True,5.0,REF3692
+C00628,Anika Khan,62,Female,Warangal,Telangana,2020-03-19T00:00:00,Organic Search,Bronze,False,2.0,REF3780
+C00629,Nikhil Kapoor,20,Female,Amritsar,Punjab,2019-02-11T00:00:00,Direct,Gold,True,,
+C00630,Mira Khan,34,Female,Srinagar,Jammu and Kashmir,2018-02-28T00:00:00,Direct,Silver,False,3.0,
+C00631,Aanya Gupta,69,Male,Mysuru,Karnataka,2018-10-01T00:00:00,Email,Bronze,True,5.0,
+C00632,Riya Singh,57,Male,Jodhpur,Rajasthan,2018-10-27T00:00:00,Email,Bronze,True,4.0,REF2391
+C00633,Priya Reddy,20,Female,Coimbatore,Tamil Nadu,2022-02-18T00:00:00,Organic Search,Gold,True,3.0,REF4266
+C00634,Sana Rao,20,Male,Thiruvananthapuram,Kerala,2021-04-09T00:00:00,Organic Search,Silver,True,4.0,
+C00635,Anika Sharma,64,Female,Thiruvananthapuram,Kerala,2019-02-06T00:00:00,Referral,Silver,True,3.0,REF4247
+C00636,Sara Das,70,Female,Surat,Gujarat,2022-02-10T00:00:00,Organic Search,Bronze,True,4.0,
+C00637,Simran Singh,56,Prefer not to say,Chandigarh,Chandigarh,2018-12-12T00:00:00,Email,Silver,True,4.0,
+C00638,Aarav Kumar,18,Male,Mysuru,Karnataka,2020-11-24T00:00:00,Organic Search,Silver,True,4.0,REF4014
+C00639,Neha Verma,61,Male,Delhi,Delhi,2019-02-17T00:00:00,Social Media,Bronze,True,5.0,
+C00640,Isha Chopra,70,Female,Ahmedabad,Gujarat,2021-04-10T00:00:00,Direct,Gold,False,4.0,
+C00641,Simran Reddy,65,Female,Lucknow,Uttar Pradesh,2018-05-02T00:00:00,Referral,Bronze,True,,
+C00642,Mohammed Kapoor,28,Female,Bhopal,Madhya Pradesh,2021-11-17T00:00:00,Organic Search,Silver,True,4.0,REF8403
+C00643,Simran Saxena,53,Female,Amritsar,Punjab,2018-11-17T00:00:00,Social Media,Silver,True,3.0,
+C00644,Tanya Gupta,67,Male,Kathua,Jammu and Kashmir,2018-01-19T00:00:00,Organic Search,Bronze,True,4.0,REF5576
+C00645,Sara Sheikh,45,Non-binary,Warangal,Telangana,2020-04-03T00:00:00,Social Media,Bronze,True,4.0,REF9995
+C00646,Aarav Thomas,47,Female,Warangal,Telangana,2019-09-18T00:00:00,Organic Search,Gold,True,5.0,
+C00647,Meera Joshi,73,Male,Kochi,Kerala,2022-04-22T00:00:00,Email,Silver,False,3.0,REF6077
+C00648,Kavya Shah,20,Female,Chandigarh,Chandigarh,2020-07-20T00:00:00,Social Media,Bronze,True,3.0,REF3539
+C00649,Rohan Sharma,44,Female,Warangal,Telangana,2021-01-20T00:00:00,Email,Silver,True,5.0,
+C00650,Anika Bhat,25,Prefer not to say,Kolkata,West Bengal,2022-06-28T00:00:00,Paid Search,Bronze,False,5.0,
+C00651,Ishaan Bhat,58,Male,Jaipur,Rajasthan,2018-06-12T00:00:00,Social Media,Silver,True,,
+C00652,Arjun Reddy,51,Male,Warangal,Telangana,2021-01-20T00:00:00,Paid Search,Silver,True,4.0,
+C00653,Aanya Gupta,46,Female,Mysuru,Karnataka,2021-05-06T00:00:00,Direct,Bronze,True,5.0,REF9099
+C00654,Ibrahim Gill,73,Female,Kathua,Jammu and Kashmir,2020-05-22T00:00:00,Direct,Gold,False,4.0,
+C00655,Dev Gupta,48,Male,Jammu,Jammu and Kashmir,2020-11-12T00:00:00,Organic Search,Bronze,False,4.0,
+C00656,Isha Kumar,48,Male,Delhi,Delhi,2022-09-14T00:00:00,Organic Search,Silver,True,5.0,
+C00657,Aarav Ali,36,Prefer not to say,Ahmedabad,Gujarat,2019-09-25T00:00:00,Organic Search,Silver,True,4.0,REF9800
+C00658,Pooja Bose,24,Female,Jaipur,Rajasthan,2022-07-13T00:00:00,Email,Silver,True,5.0,
+C00659,Isha Kumar,64,Prefer not to say,Amritsar,Punjab,2022-11-02T00:00:00,Referral,Gold,True,3.0,
+C00660,Vikram Ansari,24,Female,Bhubaneswar,Odisha,2020-09-12T00:00:00,Direct,Silver,True,5.0,
+C00661,Simran Iyer,69,Male,Lucknow,Uttar Pradesh,2022-05-29T00:00:00,Organic Search,Gold,True,2.0,
+C00662,Diya Kumar,30,Male,Lucknow,Uttar Pradesh,2021-12-20T00:00:00,Referral,Bronze,True,4.0,REF5952
+C00663,Shreya Dutta,52,Male,Bhubaneswar,Odisha,2021-11-29T00:00:00,Organic Search,Gold,True,4.0,
+C00664,Priya Rao,20,Female,Ahmedabad,Gujarat,2021-09-15T00:00:00,Paid Search,Bronze,True,3.0,
+C00665,Sana Bose,23,Female,Guwahati,Assam,2022-07-19T00:00:00,Paid Search,Bronze,True,4.0,
+C00666,Arjun Menon,41,Female,Mysuru,Karnataka,2018-11-30T00:00:00,Referral,Bronze,True,5.0,
+C00667,Tanya Sethi,73,Male,Amritsar,Punjab,2022-08-13T00:00:00,Email,Bronze,True,,
+C00668,Pooja Saxena,42,Female,Ahmedabad,Gujarat,2022-01-25T00:00:00,Email,Platinum,True,5.0,
+C00669,Anika Singh,35,Male,Lucknow,Uttar Pradesh,2021-12-11T00:00:00,Social Media,Silver,True,3.0,
+C00670,Yusuf Ansari,63,Male,Nagpur,Maharashtra,2021-03-27T00:00:00,Referral,Silver,True,5.0,REF5849
+C00671,Nikhil Khan,69,Male,Jammu,Jammu and Kashmir,2022-11-26T00:00:00,Paid Search,Platinum,True,3.0,
+C00672,Kabir Sheikh,63,Male,Lucknow,Uttar Pradesh,2020-04-23T00:00:00,Organic Search,Silver,True,5.0,
+C00673,Priya Reddy,69,Female,Surat,Gujarat,2021-11-13T00:00:00,Direct,Gold,True,5.0,
+C00674,Aanya Gupta,41,Female,Bengaluru,Karnataka,2021-09-26T00:00:00,Referral,Silver,False,5.0,
+C00675,Neha Bose,50,Female,Jammu,Jammu and Kashmir,2019-12-23T00:00:00,Direct,Silver,True,5.0,
+C00676,Aditi Thomas,36,Female,Nagpur,Maharashtra,2022-04-04T00:00:00,Organic Search,Bronze,True,3.0,REF3881
+C00677,Karan Nair,48,Male,Indore,Madhya Pradesh,2020-04-27T00:00:00,Paid Search,Gold,True,4.0,
+C00678,Karan Nair,44,Male,Indore,Madhya Pradesh,2020-11-28T00:00:00,Social Media,Silver,True,4.0,
+C00679,Mohammed Gill,53,Male,Warangal,Telangana,2018-08-19T00:00:00,Organic Search,Silver,True,3.0,REF6825
+C00680,Noor Kapoor,33,Female,Varanasi,Uttar Pradesh,2019-10-10T00:00:00,Social Media,Silver,True,4.0,
+C00681,Dev Malik,49,Female,Mysuru,Karnataka,2022-02-12T00:00:00,Email,Bronze,True,2.0,
+C00682,Isha Sharma,31,Female,Chennai,Tamil Nadu,2018-08-10T00:00:00,Organic Search,Silver,True,,REF6882
+C00683,Karan Kapoor,65,Male,Kathua,Jammu and Kashmir,2018-08-18T00:00:00,Email,Bronze,True,4.0,
+C00684,Ishaan Patel,68,Male,Mumbai,Maharashtra,2019-02-07T00:00:00,Referral,Silver,True,4.0,
+C00685,Diya Khan,65,Female,Mumbai,Maharashtra,2019-04-11T00:00:00,Direct,Silver,True,5.0,
+C00686,Varun Chopra,18,Male,Kochi,Kerala,2021-10-20T00:00:00,Organic Search,Silver,True,4.0,
+C00687,Varun Kapoor,19,Male,Srinagar,Jammu and Kashmir,2018-02-25T00:00:00,Email,Bronze,True,5.0,
+C00688,Mira Rao,20,Female,Kochi,Kerala,2021-12-13T00:00:00,Referral,Silver,True,5.0,
+C00689,Simran Sheikh,68,Female,Kolkata,West Bengal,2022-06-15T00:00:00,Direct,Silver,False,3.0,
+C00690,Fatima Rao,40,Female,Delhi,Delhi,2020-08-13T00:00:00,Social Media,Bronze,True,,
+C00691,Rahul Joshi,66,Male,Kathua,Jammu and Kashmir,2018-09-07T00:00:00,Organic Search,Bronze,True,3.0,
+C00692,Noor Chopra,42,Female,Ludhiana,Punjab,2018-05-08T00:00:00,Referral,Silver,True,4.0,REF7953
+C00693,Mohammed Reddy,55,Male,Guwahati,Assam,2018-09-02T00:00:00,Direct,Bronze,False,2.0,
+C00694,Karan Thomas,60,Male,Jammu,Jammu and Kashmir,2022-10-01T00:00:00,Social Media,Bronze,True,5.0,REF2559
+C00695,Varun Shah,23,Female,Ahmedabad,Gujarat,2021-05-29T00:00:00,Organic Search,Platinum,True,,
+C00696,Pooja Khan,33,Male,Bengaluru,Karnataka,2021-08-13T00:00:00,Social Media,Gold,False,2.0,
+C00697,Yusuf Das,74,Male,Bhubaneswar,Odisha,2018-10-14T00:00:00,Email,Bronze,True,4.0,
+C00698,Sana Iyer,36,Male,Lucknow,Uttar Pradesh,2022-04-21T00:00:00,Social Media,Bronze,True,5.0,
+C00699,Priya Sharma,61,Female,Mumbai,Maharashtra,2022-07-19T00:00:00,Organic Search,Bronze,False,4.0,REF1356
+C00700,Ahmed Bose,65,Male,Hyderabad,Telangana,2021-11-21T00:00:00,Email,Bronze,True,2.0,REF3424
+C00701,Pooja Saxena,26,Female,Mumbai,Maharashtra,2021-01-12T00:00:00,Paid Search,Bronze,True,5.0,
+C00702,Isha Reddy,71,Female,Bhubaneswar,Odisha,2021-01-13T00:00:00,Paid Search,Silver,True,2.0,
+C00703,Sana Patel,58,Female,Delhi,Delhi,2021-09-29T00:00:00,Direct,Gold,False,4.0,REF8757
+C00704,Pooja Thomas,33,Female,Mumbai,Maharashtra,2019-05-06T00:00:00,Paid Search,Silver,True,3.0,
+C00705,Aditi Verma,28,Female,Srinagar,Jammu and Kashmir,2020-08-22T00:00:00,Organic Search,Silver,True,1.0,REF4145
+C00706,Aanya Dutta,23,Male,Bhopal,Madhya Pradesh,2019-07-30T00:00:00,Social Media,Silver,True,5.0,REF1831
+C00707,Priya Khan,35,Female,Indore,Madhya Pradesh,2022-03-13T00:00:00,Social Media,Bronze,False,,REF1245
+C00708,Riya Iyer,26,Female,Bhopal,Madhya Pradesh,2020-02-27T00:00:00,Direct,Silver,True,4.0,
+C00709,Ahmed Mehta,59,Female,Hyderabad,Telangana,2022-02-13T00:00:00,Organic Search,Bronze,True,5.0,
+C00710,Fatima Verma,68,Male,Mysuru,Karnataka,2020-05-20T00:00:00,Organic Search,Bronze,True,3.0,REF1437
+C00711,Sara Bose,41,Female,Lucknow,Uttar Pradesh,2019-01-25T00:00:00,Social Media,Gold,True,5.0,
+C00712,Ibrahim Saxena,68,Female,Jammu,Jammu and Kashmir,2019-06-07T00:00:00,Paid Search,Bronze,True,5.0,
+C00713,Kabir Reddy,53,Male,Kolkata,West Bengal,2021-11-30T00:00:00,Referral,Silver,True,4.0,
+C00714,Kabir Malik,72,Male,Warangal,Telangana,2018-06-03T00:00:00,Direct,Gold,True,4.0,
+C00715,Mohammed Reddy,26,Male,Siliguri,West Bengal,2022-06-28T00:00:00,Organic Search,Silver,True,5.0,
+C00716,Vikram Saxena,36,Male,Lucknow,Uttar Pradesh,2022-10-17T00:00:00,Email,Silver,True,5.0,
+C00717,Anika Ali,22,Male,Ahmedabad,Gujarat,2022-12-17T00:00:00,Referral,Bronze,True,4.0,REF2706
+C00718,Rohan Sheikh,35,Female,Chandigarh,Chandigarh,2020-06-07T00:00:00,Paid Search,Silver,True,4.0,
+C00719,Aditi Mehta,36,Male,Bhopal,Madhya Pradesh,2022-11-03T00:00:00,Social Media,Silver,True,,
+C00720,Rohan Menon,61,Female,Chandigarh,Chandigarh,2018-02-06T00:00:00,Direct,Silver,True,4.0,
+C00721,Aditya Sharma,30,Female,Ludhiana,Punjab,2020-10-08T00:00:00,Direct,Silver,True,,
+C00722,Isha Dutta,41,Male,Bhubaneswar,Odisha,2018-04-02T00:00:00,Referral,Bronze,True,5.0,REF6501
+C00723,Rahul Reddy,22,Female,Guwahati,Assam,2020-01-08T00:00:00,Social Media,Bronze,True,5.0,
+C00724,Fatima Malik,75,Male,Chennai,Tamil Nadu,2020-08-15T00:00:00,Organic Search,Silver,True,5.0,
+C00725,Priya Mishra,75,Female,Delhi,Delhi,2018-11-05T00:00:00,Paid Search,Gold,True,3.0,
+C00726,Tanya Das,61,Female,Jammu,Jammu and Kashmir,2021-03-01T00:00:00,Referral,Gold,False,4.0,
+C00727,Varun Malik,67,Female,Jaipur,Rajasthan,2021-09-11T00:00:00,Organic Search,Bronze,False,4.0,REF5954
+C00728,Meera Sethi,75,Male,Chandigarh,Chandigarh,2018-04-16T00:00:00,Direct,Gold,False,,
+C00729,Vikram Ali,23,Male,Warangal,Telangana,2018-06-30T00:00:00,Social Media,Bronze,True,5.0,REF2598
+C00730,Alisha Das,59,Female,Kolkata,West Bengal,2018-08-12T00:00:00,Direct,Platinum,True,3.0,
+C00731,Sana Sharma,44,Male,Kathua,Jammu and Kashmir,2021-04-18T00:00:00,Social Media,Bronze,True,1.0,
+C00732,Farhan Nair,32,Male,Amritsar,Punjab,2020-03-10T00:00:00,Direct,Gold,True,4.0,
+C00733,Pooja Patel,56,Male,Warangal,Telangana,2019-06-25T00:00:00,Paid Search,Bronze,False,5.0,
+C00734,Simran Ansari,59,Female,Warangal,Telangana,2021-09-15T00:00:00,Direct,Gold,True,5.0,
+C00735,Aarav Ansari,45,Female,Jammu,Jammu and Kashmir,2020-08-05T00:00:00,Organic Search,Bronze,True,4.0,
+C00736,Nikhil Nair,45,Male,Nagpur,Maharashtra,2020-05-23T00:00:00,Referral,Bronze,True,4.0,
+C00737,Aditya Mishra,60,Female,Kathua,Jammu and Kashmir,2020-09-08T00:00:00,Referral,Bronze,True,2.0,REF7254
+C00738,Mira Menon,57,Female,Jammu,Jammu and Kashmir,2018-04-26T00:00:00,Organic Search,Gold,True,5.0,
+C00739,Mira Rao,44,Male,Chandigarh,Chandigarh,2022-06-15T00:00:00,Paid Search,Silver,True,2.0,
+C00740,Riya Khan,19,Female,Kolkata,West Bengal,2020-02-10T00:00:00,Paid Search,Gold,True,5.0,REF8214
+C00741,Sara Malik,43,Female,Srinagar,Jammu and Kashmir,2019-08-08T00:00:00,Direct,Silver,True,5.0,
+C00742,Isha Sheikh,37,Female,Guwahati,Assam,2022-05-21T00:00:00,Referral,Bronze,True,5.0,
+C00743,Aanya Mehta,19,Female,Delhi,Delhi,2021-10-21T00:00:00,Referral,Silver,False,4.0,REF3914
+C00744,Yusuf Das,40,Female,Amritsar,Punjab,2021-04-04T00:00:00,Organic Search,Gold,True,3.0,
+C00745,Tanya Saxena,35,Female,Kathua,Jammu and Kashmir,2021-06-30T00:00:00,Organic Search,Bronze,True,5.0,
+C00746,Isha Sheikh,73,Female,Ahmedabad,Gujarat,2019-12-08T00:00:00,Email,Bronze,True,5.0,REF1570
+C00747,Ibrahim Singh,55,Female,Surat,Gujarat,2022-02-05T00:00:00,Email,Silver,True,4.0,REF9689
+C00748,Isha Reddy,73,Female,Lucknow,Uttar Pradesh,2021-12-05T00:00:00,Organic Search,Bronze,True,3.0,
+C00749,Nikhil Mishra,71,Female,Delhi,Delhi,2018-08-04T00:00:00,Paid Search,Bronze,True,3.0,
+C00750,Aditya Sharma,75,Male,Thiruvananthapuram,Kerala,2020-09-12T00:00:00,Social Media,Bronze,True,5.0,REF3544
+C00751,Akash Joshi,30,Male,Jammu,Jammu and Kashmir,2022-03-11T00:00:00,Social Media,Bronze,True,5.0,
+C00752,Ahmed Mehta,47,Female,Ludhiana,Punjab,2021-09-19T00:00:00,Social Media,Bronze,True,5.0,
+C00753,Priya Shah,49,Female,Hyderabad,Telangana,2018-08-24T00:00:00,Referral,Bronze,True,2.0,
+C00754,Neha Reddy,73,Male,Delhi,Delhi,2019-07-02T00:00:00,Direct,Gold,True,,
+C00755,Diya Patel,23,Male,Pune,Maharashtra,2021-04-23T00:00:00,Organic Search,Gold,True,4.0,
+C00756,Simran Reddy,39,Female,Bhopal,Madhya Pradesh,2020-04-03T00:00:00,Referral,Gold,True,3.0,
+C00757,Isha Sharma,32,Female,Bhubaneswar,Odisha,2020-04-16T00:00:00,Referral,Bronze,True,4.0,
+C00758,Karan Saxena,38,Female,Nagpur,Maharashtra,2020-04-12T00:00:00,Paid Search,Bronze,True,4.0,
+C00759,Tanya Nair,63,Female,Bengaluru,Karnataka,2018-04-12T00:00:00,Referral,Silver,True,2.0,
+C00760,Nikhil Das,62,Male,Thiruvananthapuram,Kerala,2020-10-06T00:00:00,Direct,Bronze,True,5.0,REF6661
+C00761,Aditi Joshi,22,Male,Jaipur,Rajasthan,2021-01-12T00:00:00,Email,Bronze,True,4.0,
+C00762,Fatima Mehta,70,Female,Ludhiana,Punjab,2022-05-10T00:00:00,Social Media,Silver,True,3.0,
+C00763,Sara Gill,24,Prefer not to say,Amritsar,Punjab,2018-02-15T00:00:00,Direct,Gold,True,4.0,
+C00764,Aanya Bose,46,Female,Pune,Maharashtra,2021-03-05T00:00:00,Social Media,Silver,True,5.0,
+C00765,Dev Nair,25,Non-binary,Jodhpur,Rajasthan,2020-09-23T00:00:00,Paid Search,Bronze,True,4.0,REF6013
+C00766,Vikram Saxena,39,Female,Jaipur,Rajasthan,2021-07-17T00:00:00,Social Media,Bronze,False,1.0,
+C00767,Kavya Saxena,75,Male,Kochi,Kerala,2022-12-10T00:00:00,Referral,Bronze,True,4.0,
+C00768,Farhan Singh,49,Female,Guwahati,Assam,2022-01-26T00:00:00,Organic Search,Gold,True,3.0,
+C00769,Karan Reddy,49,Female,Ahmedabad,Gujarat,2018-08-12T00:00:00,Referral,Bronze,True,3.0,REF1601
+C00770,Shreya Mehta,21,Female,Jammu,Jammu and Kashmir,2022-03-19T00:00:00,Email,Bronze,True,3.0,
+C00771,Nikhil Patel,65,Male,Jodhpur,Rajasthan,2020-12-30T00:00:00,Organic Search,Silver,True,3.0,REF1142
+C00772,Neha Singh,41,Female,Indore,Madhya Pradesh,2019-04-24T00:00:00,Social Media,Bronze,True,2.0,
+C00773,Ishaan Iyer,62,Female,Nagpur,Maharashtra,2018-07-23T00:00:00,Social Media,Gold,True,4.0,REF5649
+C00774,Farhan Rao,35,Female,Siliguri,West Bengal,2022-10-03T00:00:00,Organic Search,Bronze,True,2.0,REF4235
+C00775,Kabir Malik,23,Male,Kathua,Jammu and Kashmir,2019-05-23T00:00:00,Email,Silver,True,4.0,
+C00776,Vikram Ali,62,Female,Mysuru,Karnataka,2021-05-04T00:00:00,Referral,Silver,True,5.0,
+C00777,Dev Malik,26,Male,Kathua,Jammu and Kashmir,2021-03-30T00:00:00,Direct,Bronze,True,2.0,
+C00778,Sana Sharma,62,Male,Jammu,Jammu and Kashmir,2018-05-21T00:00:00,Direct,Bronze,True,4.0,
+C00779,Vikram Malik,21,Male,Chandigarh,Chandigarh,2018-10-06T00:00:00,Email,Silver,True,4.0,REF2252
+C00780,Aditi Joshi,68,Male,Chandigarh,Chandigarh,2022-05-25T00:00:00,Social Media,Bronze,True,5.0,
+C00781,Nikhil Bhat,57,Male,Mysuru,Karnataka,2018-12-05T00:00:00,Organic Search,Silver,True,4.0,
+C00782,Tanya Saxena,64,Female,Jammu,Jammu and Kashmir,2019-05-25T00:00:00,Social Media,Gold,True,5.0,REF4003
+C00783,Ishaan Mishra,72,Male,Pune,Maharashtra,2020-11-23T00:00:00,Paid Search,Gold,True,3.0,
+C00784,Mohammed Mishra,50,Female,Thiruvananthapuram,Kerala,2018-08-19T00:00:00,Social Media,Silver,False,4.0,
+C00785,Kabir Bhat,75,Male,Bhubaneswar,Odisha,2019-10-11T00:00:00,Social Media,Silver,True,5.0,REF8952
+C00786,Priya Thomas,39,Female,Surat,Gujarat,2018-06-29T00:00:00,Social Media,Silver,True,2.0,
+C00787,Ahmed Menon,39,Male,Siliguri,West Bengal,2019-09-16T00:00:00,Referral,Silver,True,5.0,
+C00788,Sara Iyer,29,Female,Lucknow,Uttar Pradesh,2018-08-12T00:00:00,Paid Search,Bronze,True,5.0,
+C00789,Aditi Das,50,Female,Kathua,Jammu and Kashmir,2018-06-17T00:00:00,Email,Silver,True,4.0,REF4981
+C00790,Ibrahim Patel,68,Female,Hyderabad,Telangana,2020-08-13T00:00:00,Referral,Bronze,True,2.0,
+C00791,Simran Mishra,27,Female,Kolkata,West Bengal,2020-07-31T00:00:00,Referral,Bronze,True,4.0,
+C00792,Dev Singh,75,Female,Jammu,Jammu and Kashmir,2019-08-02T00:00:00,Organic Search,Bronze,True,4.0,REF8287
+C00793,Rahul Kumar,36,Female,Hyderabad,Telangana,2020-01-11T00:00:00,Email,Bronze,True,5.0,REF5656
+C00794,Dev Mishra,50,Male,Pune,Maharashtra,2018-09-16T00:00:00,Direct,Bronze,True,4.0,REF4193
+C00795,Riya Thomas,46,Prefer not to say,Jaipur,Rajasthan,2020-01-31T00:00:00,Social Media,Bronze,True,5.0,
+C00796,Alisha Gupta,43,Non-binary,Bhopal,Madhya Pradesh,2019-08-18T00:00:00,Organic Search,Bronze,True,4.0,
+C00797,Aanya Nair,32,Female,Bhopal,Madhya Pradesh,2019-03-25T00:00:00,Direct,Gold,True,4.0,
+C00798,Rohan Khan,42,Male,Bhubaneswar,Odisha,2018-04-06T00:00:00,Organic Search,Bronze,True,3.0,
+C00799,Ananya Verma,57,Female,Ahmedabad,Gujarat,2020-03-30T00:00:00,Social Media,Platinum,True,5.0,
+C00800,Karan Singh,61,Male,Indore,Madhya Pradesh,2021-04-12T00:00:00,Referral,Silver,True,5.0,REF8395
